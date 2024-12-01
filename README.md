@@ -14,3 +14,7 @@ All this data was part of the public graph of Bingeworthy 2, there was a user in
 3. <a href="https://github.com/scripting/binge2Data/blob/master/data/watchlist.json">watchlist.json</a> -- all the programs on the watchlists of all users. 
 
 4. <a href="https://github.com/scripting/binge2Data/tree/master/data/users">users</a> -- a folder containing the ratings for each user individually. sort of like your opml list from a feed reader.
+
+### More info
+
+I'm accumulating notes on the new version <a href="https://this.how/bingeworthy/#1732982916000">here</a>. 
