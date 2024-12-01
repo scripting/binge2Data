@@ -1,0 +1,100 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/broadchurch",
+        "whencreated": "Tue, 14 Nov 2017 19:30:57 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/doctor-who",
+        "whencreated": "Tue, 14 Nov 2017 19:30:18 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/eureka",
+        "whencreated": "Tue, 14 Nov 2017 19:30:18 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Tue, 14 Nov 2017 19:30:17 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fringe",
+        "whencreated": "Tue, 14 Nov 2017 19:30:17 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/heroes",
+        "whencreated": "Tue, 14 Nov 2017 19:29:29 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-the-defenders",
+        "whencreated": "Tue, 14 Nov 2017 19:30:44 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/orphan-black",
+        "whencreated": "Tue, 14 Nov 2017 19:30:44 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/planet-earth",
+        "whencreated": "Tue, 14 Nov 2017 19:32:29 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Tue, 14 Nov 2017 19:28:30 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stargate-atlantis",
+        "whencreated": "Tue, 14 Nov 2017 19:31:03 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stargate-universe",
+        "whencreated": "Tue, 14 Nov 2017 19:31:03 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Tue, 14 Nov 2017 19:31:03 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-blacklist",
+        "whencreated": "Tue, 14 Nov 2017 19:31:03 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    }
+]

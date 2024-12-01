@@ -1,0 +1,58 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/12-monkeys-2015",
+        "whencreated": "Sat, 27 Nov 2021 14:12:26 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 14:12:41 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/greys-anatomy",
+        "whencreated": "Sat, 27 Nov 2021 14:13:33 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 14:13:33 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/millennium",
+        "whencreated": "Sat, 27 Nov 2021 14:15:29 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 14:15:29 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Sat, 27 Nov 2021 14:15:39 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 14:15:39 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-expanse",
+        "whencreated": "Sat, 27 Nov 2021 14:14:19 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 14:14:19 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-wife",
+        "whencreated": "Sat, 27 Nov 2021 14:14:31 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 14:14:31 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Sat, 27 Nov 2021 14:14:57 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 14:14:57 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Sat, 27 Nov 2021 14:15:05 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 14:15:05 GMT"
+    }
+]

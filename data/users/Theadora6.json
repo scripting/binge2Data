@@ -1,0 +1,247 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Thu, 16 Nov 2017 16:09:41 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Wed, 15 Nov 2017 00:49:27 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/brooklyn-nine-nine",
+        "whencreated": "Wed, 15 Nov 2017 00:50:18 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/catastrophe",
+        "whencreated": "Wed, 15 Nov 2017 00:50:30 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/criminal-minds",
+        "whencreated": "Wed, 15 Nov 2017 00:50:43 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dexter",
+        "whencreated": "Tue, 21 Nov 2017 19:40:29 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/downton-abbey",
+        "whencreated": "Wed, 15 Nov 2017 00:51:01 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fargo",
+        "whencreated": "Wed, 15 Nov 2017 00:51:07 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Wed, 15 Nov 2017 00:57:49 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Wed, 15 Nov 2017 00:51:29 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/gotham",
+        "whencreated": "Wed, 15 Nov 2017 00:51:45 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/grimm",
+        "whencreated": "Tue, 21 Nov 2017 19:34:47 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/halt-and-catch-fire",
+        "whencreated": "Tue, 21 Nov 2017 19:41:01 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/happy-valley",
+        "whencreated": "Wed, 15 Nov 2017 00:52:04 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/inside-amy-schumer",
+        "whencreated": "Wed, 15 Nov 2017 00:52:21 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/jane-the-virgin",
+        "whencreated": "Wed, 15 Nov 2017 00:52:26 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lost",
+        "whencreated": "Thu, 16 Nov 2017 16:07:28 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/luther",
+        "whencreated": "Tue, 21 Nov 2017 19:35:38 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/master-of-none",
+        "whencreated": "Wed, 15 Nov 2017 00:52:43 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Wed, 15 Nov 2017 00:52:57 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/my-so-called-life",
+        "whencreated": "Thu, 16 Nov 2017 16:06:49 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/northern-exposure",
+        "whencreated": "Thu, 16 Nov 2017 16:06:42 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/olive-kitteridge",
+        "whencreated": "Thu, 16 Nov 2017 16:13:45 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/orphan-black",
+        "whencreated": "Thu, 16 Nov 2017 16:13:59 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/portlandia",
+        "whencreated": "Tue, 21 Nov 2017 19:36:32 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/saving-hope",
+        "whencreated": "Wed, 15 Nov 2017 00:54:00 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Wed, 15 Nov 2017 00:54:10 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/shaun-the-sheep",
+        "whencreated": "Wed, 15 Nov 2017 00:54:23 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Wed, 15 Nov 2017 01:09:04 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-night-manager",
+        "whencreated": "Thu, 16 Nov 2017 16:03:29 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/this-is-us",
+        "whencreated": "Wed, 15 Nov 2017 00:55:37 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/top-of-the-lake",
+        "whencreated": "Wed, 15 Nov 2017 00:55:43 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/united-states-of-tara",
+        "whencreated": "Wed, 15 Nov 2017 00:56:29 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Wed, 15 Nov 2017 00:56:41 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/will-grace",
+        "whencreated": "Thu, 16 Nov 2017 16:04:06 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    }
+]

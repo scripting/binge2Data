@@ -1,0 +1,79 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/band-of-brothers",
+        "whencreated": "Tue, 14 Nov 2017 22:54:13 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Tue, 14 Nov 2017 22:54:24 GMT",
+        "whenmodified": "Thu, 13 Aug 2020 14:26:30 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/big-love",
+        "whencreated": "Tue, 14 Nov 2017 22:54:37 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/curb-your-enthusiasm",
+        "whencreated": "Tue, 14 Nov 2017 22:54:48 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/downton-abbey",
+        "whencreated": "Tue, 14 Nov 2017 22:54:54 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Tue, 14 Nov 2017 22:55:02 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Tue, 14 Nov 2017 22:55:08 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/heroes",
+        "whencreated": "Tue, 14 Nov 2017 22:55:16 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lost",
+        "whencreated": "Tue, 14 Nov 2017 22:55:26 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Tue, 14 Nov 2017 22:55:50 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Tue, 14 Nov 2017 22:55:47 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    }
+]

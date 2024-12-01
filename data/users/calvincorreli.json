@@ -1,0 +1,114 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Sat, 18 Nov 2017 22:25:25 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/billions",
+        "whencreated": "Sat, 18 Nov 2017 22:25:33 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Sat, 18 Nov 2017 22:25:40 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/covert-affairs",
+        "whencreated": "Sat, 18 Nov 2017 22:26:16 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Sat, 18 Nov 2017 22:26:40 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/homeland",
+        "whencreated": "Sat, 18 Nov 2017 22:26:54 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Sat, 18 Nov 2017 22:27:20 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/narcos",
+        "whencreated": "Sat, 18 Nov 2017 22:27:25 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/orange-is-the-new-black",
+        "whencreated": "Sat, 18 Nov 2017 22:27:36 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sex-and-the-city",
+        "whencreated": "Sat, 18 Nov 2017 22:28:00 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-americans",
+        "whencreated": "Sat, 18 Nov 2017 22:28:29 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-blacklist",
+        "whencreated": "Sat, 18 Nov 2017 22:28:33 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-newsroom",
+        "whencreated": "Sat, 18 Nov 2017 22:28:47 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Sat, 18 Nov 2017 22:28:56 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/twin-peaks",
+        "whencreated": "Sat, 18 Nov 2017 22:29:06 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Sat, 18 Nov 2017 22:29:17 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    }
+]

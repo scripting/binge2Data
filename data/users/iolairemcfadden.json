@@ -1,0 +1,44 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/everything-sucks!",
+        "whencreated": "Wed, 07 Oct 2020 13:50:11 GMT",
+        "whenmodified": "Wed, 07 Oct 2020 13:50:11 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/hanna-2019",
+        "whencreated": "Mon, 17 Aug 2020 14:43:30 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 14:43:30 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/outlander-2014",
+        "whencreated": "Mon, 17 Aug 2020 14:44:36 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 14:44:36 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-durrells-in-corfu",
+        "whencreated": "Mon, 17 Aug 2020 14:46:34 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 14:46:34 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-marvelous-mrs-maisel",
+        "whencreated": "Mon, 17 Aug 2020 14:47:34 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 14:47:34 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/vikings",
+        "whencreated": "Thu, 24 Sep 2020 17:28:36 GMT",
+        "whenmodified": "Thu, 24 Sep 2020 17:28:36 GMT"
+    }
+]

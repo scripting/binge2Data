@@ -1,0 +1,51 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Tue, 28 May 2019 17:42:47 GMT",
+        "whenmodified": "Thu, 13 Aug 2020 14:26:30 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Tue, 28 May 2019 17:42:02 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Tue, 28 May 2019 17:42:21 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Tue, 28 May 2019 17:42:54 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-prisoner",
+        "whencreated": "Tue, 28 May 2019 17:42:36 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Tue, 28 May 2019 17:42:06 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Tue, 28 May 2019 17:41:51 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/borgen",
+        "whencreated": "Sat, 28 Aug 2021 22:33:20 GMT",
+        "whenmodified": "Sat, 28 Aug 2021 22:33:20 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marco-polo-2014",
+        "whencreated": "Sun, 24 Dec 2017 18:12:53 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-wife",
+        "whencreated": "Sun, 19 Nov 2017 01:38:16 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Sun, 19 Nov 2017 01:38:32 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    }
+]

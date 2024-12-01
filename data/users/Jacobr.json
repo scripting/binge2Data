@@ -1,0 +1,23 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/designated-survivor",
+        "whencreated": "Tue, 11 Jun 2019 03:05:50 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/downton-abbey",
+        "whencreated": "Tue, 11 Jun 2019 03:05:56 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office",
+        "whencreated": "Tue, 11 Jun 2019 03:06:17 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    }
+]

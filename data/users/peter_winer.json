@@ -1,0 +1,65 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/3rd-rock-from-the-sun",
+        "whencreated": "Wed, 12 Aug 2020 02:56:12 GMT",
+        "whenmodified": "Wed, 12 Aug 2020 02:56:12 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Wed, 12 Aug 2020 03:03:39 GMT",
+        "whenmodified": "Wed, 12 Aug 2020 03:03:39 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Wed, 12 Aug 2020 03:05:57 GMT",
+        "whenmodified": "Wed, 12 Aug 2020 03:05:57 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bojack-horseman",
+        "whencreated": "Wed, 12 Aug 2020 03:06:09 GMT",
+        "whenmodified": "Wed, 12 Aug 2020 03:06:09 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Wed, 12 Aug 2020 03:03:09 GMT",
+        "whenmodified": "Wed, 12 Aug 2020 03:03:09 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Wed, 12 Aug 2020 03:03:20 GMT",
+        "whenmodified": "Wed, 12 Aug 2020 03:03:20 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-night-manager",
+        "whencreated": "Wed, 12 Aug 2020 03:05:21 GMT",
+        "whenmodified": "Wed, 12 Aug 2020 03:05:21 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Wed, 12 Aug 2020 03:08:18 GMT",
+        "whenmodified": "Wed, 12 Aug 2020 03:08:18 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Wed, 12 Aug 2020 02:56:43 GMT",
+        "whenmodified": "Wed, 12 Aug 2020 02:56:43 GMT"
+    }
+]

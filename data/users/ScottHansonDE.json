@@ -1,0 +1,79 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/borgen",
+        "whencreated": "Sun, 25 Oct 2020 08:48:41 GMT",
+        "whenmodified": "Sun, 25 Oct 2020 08:48:41 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Sun, 25 Oct 2020 08:48:51 GMT",
+        "whenmodified": "Sun, 25 Oct 2020 08:48:51 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/deutschland-83",
+        "whencreated": "Sun, 25 Oct 2020 08:58:37 GMT",
+        "whenmodified": "Sun, 25 Oct 2020 08:58:37 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fargo",
+        "whencreated": "Sun, 25 Oct 2020 08:49:00 GMT",
+        "whenmodified": "Sun, 25 Oct 2020 08:49:00 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/forbrydelsen-the-crime",
+        "whencreated": "Sun, 25 Oct 2020 08:54:46 GMT",
+        "whenmodified": "Sun, 25 Oct 2020 08:54:46 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/godless",
+        "whencreated": "Sat, 17 Oct 2020 07:38:02 GMT",
+        "whenmodified": "Sun, 25 Oct 2020 08:51:01 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Mon, 29 Nov 2021 17:41:40 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 17:41:40 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-americans",
+        "whencreated": "Sun, 25 Oct 2020 08:49:35 GMT",
+        "whenmodified": "Sun, 25 Oct 2020 08:49:35 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-queens-gambit",
+        "whencreated": "Mon, 29 Nov 2021 17:41:32 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 17:41:32 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Sun, 25 Oct 2020 08:49:21 GMT",
+        "whenmodified": "Sun, 25 Oct 2020 08:49:21 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/young-wallander",
+        "whencreated": "Sun, 25 Oct 2020 08:18:44 GMT",
+        "whenmodified": "Sun, 25 Oct 2020 08:18:44 GMT"
+    }
+]

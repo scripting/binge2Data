@@ -1,0 +1,79 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Thu, 05 Jan 2023 15:41:50 GMT",
+        "whenmodified": "Thu, 05 Jan 2023 15:41:50 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Thu, 05 Jan 2023 15:41:47 GMT",
+        "whenmodified": "Thu, 05 Jan 2023 15:41:47 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/northern-exposure",
+        "whencreated": "Thu, 05 Jan 2023 15:42:39 GMT",
+        "whenmodified": "Thu, 05 Jan 2023 15:42:39 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ozark",
+        "whencreated": "Thu, 05 Jan 2023 15:42:22 GMT",
+        "whenmodified": "Thu, 05 Jan 2023 15:42:22 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/south-park",
+        "whencreated": "Thu, 05 Jan 2023 15:43:09 GMT",
+        "whenmodified": "Thu, 05 Jan 2023 15:43:09 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Thu, 05 Jan 2023 15:41:38 GMT",
+        "whenmodified": "Thu, 05 Jan 2023 15:41:38 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-americans",
+        "whencreated": "Thu, 05 Jan 2023 15:41:42 GMT",
+        "whenmodified": "Thu, 05 Jan 2023 15:41:42 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-handmaids-tale",
+        "whencreated": "Thu, 05 Jan 2023 15:42:56 GMT",
+        "whenmodified": "Thu, 05 Jan 2023 15:42:56 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-mandalorian",
+        "whencreated": "Thu, 05 Jan 2023 15:42:07 GMT",
+        "whenmodified": "Thu, 05 Jan 2023 15:42:07 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office",
+        "whencreated": "Thu, 05 Jan 2023 15:42:35 GMT",
+        "whenmodified": "Thu, 05 Jan 2023 15:42:35 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/wandavision",
+        "whencreated": "Thu, 05 Jan 2023 15:42:50 GMT",
+        "whenmodified": "Thu, 05 Jan 2023 15:42:50 GMT"
+    }
+]

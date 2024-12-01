@@ -1,0 +1,37 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Sat, 17 Sep 2022 02:40:54 GMT",
+        "whenmodified": "Sat, 17 Sep 2022 02:40:54 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Sat, 17 Sep 2022 02:41:09 GMT",
+        "whenmodified": "Sat, 17 Sep 2022 02:41:09 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/community",
+        "whencreated": "Sat, 17 Sep 2022 02:42:38 GMT",
+        "whenmodified": "Sat, 17 Sep 2022 02:42:38 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/parks-and-recreation",
+        "whencreated": "Sat, 17 Sep 2022 02:42:30 GMT",
+        "whenmodified": "Sat, 17 Sep 2022 02:42:30 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Sat, 17 Sep 2022 02:42:17 GMT",
+        "whenmodified": "Sat, 17 Sep 2022 02:42:17 GMT"
+    }
+]

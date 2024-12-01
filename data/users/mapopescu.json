@@ -1,0 +1,310 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/avatar-the-last-airbender",
+        "whencreated": "Mon, 11 Apr 2022 16:52:14 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:52:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Sun, 02 Dec 2018 19:23:43 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bosch",
+        "whencreated": "Sun, 02 Dec 2018 19:26:32 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:56:01 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/californication",
+        "whencreated": "Sun, 02 Dec 2018 19:26:57 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:53:55 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/damages",
+        "whencreated": "Sun, 02 Dec 2018 19:25:18 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:55:21 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/downton-abbey",
+        "whencreated": "Sun, 02 Dec 2018 19:24:28 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:55:36 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fargo",
+        "whencreated": "Sun, 02 Dec 2018 19:22:54 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:51:52 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/friends",
+        "whencreated": "Sun, 02 Dec 2018 19:27:07 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/heroes",
+        "whencreated": "Sun, 02 Dec 2018 19:27:35 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/homeland",
+        "whencreated": "Sun, 02 Dec 2018 19:26:19 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:54:49 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-cards-2013",
+        "whencreated": "Mon, 11 Apr 2022 16:53:48 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:53:48 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lie-to-me",
+        "whencreated": "Sun, 02 Dec 2018 19:27:23 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/luther",
+        "whencreated": "Sun, 02 Dec 2018 19:24:15 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Sun, 02 Dec 2018 19:23:12 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:51:38 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/masters-of-sex",
+        "whencreated": "Sun, 02 Dec 2018 19:27:20 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:53:38 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mindhunter",
+        "whencreated": "Sun, 02 Dec 2018 19:25:38 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mozart-in-the-jungle",
+        "whencreated": "Mon, 11 Apr 2022 16:54:33 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:54:33 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Mon, 11 Apr 2022 16:56:16 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:56:16 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/narcos",
+        "whencreated": "Mon, 11 Apr 2022 16:56:45 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:56:45 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/orange-is-the-new-black",
+        "whencreated": "Sun, 02 Dec 2018 19:26:41 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:54:08 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/oz",
+        "whencreated": "Sun, 02 Dec 2018 19:26:09 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ozark",
+        "whencreated": "Mon, 11 Apr 2022 16:53:09 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:53:09 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Sun, 02 Dec 2018 19:22:46 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:52:33 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sex-and-the-city",
+        "whencreated": "Sun, 02 Dec 2018 19:27:36 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/silicon-valley",
+        "whencreated": "Sun, 02 Dec 2018 19:23:46 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/succession",
+        "whencreated": "Mon, 11 Apr 2022 16:51:03 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:51:03 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/suits",
+        "whencreated": "Sun, 02 Dec 2018 19:26:46 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:54:18 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Mon, 11 Apr 2022 16:51:12 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:51:12 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-americans",
+        "whencreated": "Sun, 02 Dec 2018 19:23:17 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:51:21 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-crown",
+        "whencreated": "Mon, 11 Apr 2022 16:55:55 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:55:55 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-expanse",
+        "whencreated": "Mon, 11 Apr 2022 16:52:00 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:52:00 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-wife",
+        "whencreated": "Sun, 02 Dec 2018 19:24:38 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:56:39 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-handmaids-tale",
+        "whencreated": "Mon, 11 Apr 2022 16:55:13 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:55:14 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-man-in-the-high-castle",
+        "whencreated": "Sun, 02 Dec 2018 19:25:54 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:54:45 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-marvelous-mrs-maisel",
+        "whencreated": "Mon, 11 Apr 2022 16:56:06 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:56:06 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-newsroom",
+        "whencreated": "Sun, 02 Dec 2018 19:24:26 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office",
+        "whencreated": "Sun, 02 Dec 2018 19:25:02 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-queens-gambit",
+        "whencreated": "Mon, 11 Apr 2022 16:51:27 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:51:27 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Sun, 02 Dec 2018 19:22:16 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/top-of-the-lake",
+        "whencreated": "Sun, 02 Dec 2018 19:26:36 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:54:26 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/true-detective",
+        "whencreated": "Mon, 11 Apr 2022 16:55:46 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:55:46 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt",
+        "whencreated": "Sun, 02 Dec 2018 19:27:11 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:54:03 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/weeds",
+        "whencreated": "Sun, 02 Dec 2018 19:26:02 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:55:03 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Mon, 11 Apr 2022 16:56:24 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 16:56:24 GMT"
+    }
+]

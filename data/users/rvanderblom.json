@@ -1,0 +1,37 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/band-of-brothers",
+        "whencreated": "Thu, 23 Nov 2017 13:49:02 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Thu, 23 Nov 2017 13:47:35 GMT",
+        "whenmodified": "Thu, 13 Aug 2020 14:26:30 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/grimm",
+        "whencreated": "Thu, 23 Nov 2017 13:47:56 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marco-polo-2014",
+        "whencreated": "Thu, 23 Nov 2017 13:48:11 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mindhunter",
+        "whencreated": "Thu, 23 Nov 2017 13:48:17 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    }
+]

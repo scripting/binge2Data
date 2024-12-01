@@ -1,0 +1,30 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Thu, 05 Nov 2020 12:42:29 GMT",
+        "whenmodified": "Thu, 05 Nov 2020 12:42:29 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/friends",
+        "whencreated": "Thu, 05 Nov 2020 12:41:20 GMT",
+        "whenmodified": "Thu, 05 Nov 2020 12:41:20 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Thu, 05 Nov 2020 12:42:14 GMT",
+        "whenmodified": "Thu, 05 Nov 2020 12:42:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/suits",
+        "whencreated": "Thu, 05 Nov 2020 12:45:24 GMT",
+        "whenmodified": "Thu, 05 Nov 2020 12:45:24 GMT"
+    }
+]

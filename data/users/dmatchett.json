@@ -1,0 +1,30 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mythic-quest-ravens-banquet",
+        "whencreated": "Sat, 24 Oct 2020 16:48:26 GMT",
+        "whenmodified": "Sat, 24 Oct 2020 16:48:26 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Sat, 24 Oct 2020 16:51:17 GMT",
+        "whenmodified": "Sat, 24 Oct 2020 16:51:17 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Sat, 24 Oct 2020 16:51:28 GMT",
+        "whenmodified": "Sat, 24 Oct 2020 16:51:28 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt",
+        "whencreated": "Sat, 24 Oct 2020 16:49:42 GMT",
+        "whenmodified": "Sat, 24 Oct 2020 16:49:42 GMT"
+    }
+]

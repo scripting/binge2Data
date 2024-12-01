@@ -1,0 +1,128 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/30-rock",
+        "whencreated": "Thu, 27 Aug 2020 23:22:15 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:22:15 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Thu, 27 Aug 2020 23:21:28 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:21:28 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-things",
+        "whencreated": "Thu, 27 Aug 2020 23:21:13 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:21:13 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/broadchurch",
+        "whencreated": "Thu, 27 Aug 2020 23:22:29 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:22:29 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/downton-abbey",
+        "whencreated": "Thu, 27 Aug 2020 23:22:12 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:22:12 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Thu, 27 Aug 2020 23:20:54 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:20:54 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/friday-night-lights",
+        "whencreated": "Thu, 27 Aug 2020 23:21:23 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:21:23 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/law-order",
+        "whencreated": "Thu, 27 Aug 2020 23:22:34 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:22:34 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/life-in-pieces",
+        "whencreated": "Thu, 27 Aug 2020 23:21:46 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:21:46 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Thu, 27 Aug 2020 23:21:29 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:21:29 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/master-of-none",
+        "whencreated": "Thu, 27 Aug 2020 23:22:01 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:22:01 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/parks-and-recreation",
+        "whencreated": "Thu, 27 Aug 2020 23:21:25 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:21:25 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/perry-mason-2020",
+        "whencreated": "Thu, 27 Aug 2020 23:21:49 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:21:49 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Thu, 27 Aug 2020 23:21:06 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:21:06 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-place",
+        "whencreated": "Thu, 27 Aug 2020 23:21:33 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:21:33 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-wife",
+        "whencreated": "Thu, 27 Aug 2020 23:22:03 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:22:03 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-newsroom",
+        "whencreated": "Thu, 27 Aug 2020 23:21:53 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:21:53 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office",
+        "whencreated": "Thu, 27 Aug 2020 23:22:10 GMT",
+        "whenmodified": "Thu, 27 Aug 2020 23:22:10 GMT"
+    }
+]

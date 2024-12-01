@@ -1,0 +1,205 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/movie/2001-a-space-odyssey",
+        "whencreated": "Mon, 10 Aug 2020 18:18:29 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:18:29 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/movie/dune",
+        "whencreated": "Mon, 10 Aug 2020 18:11:21 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:11:21 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/alias",
+        "whencreated": "Mon, 24 Aug 2020 18:01:08 GMT",
+        "whenmodified": "Mon, 24 Aug 2020 18:01:08 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/band-of-brothers",
+        "whencreated": "Mon, 10 Aug 2020 18:17:41 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:17:41 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Mon, 10 Aug 2020 17:53:14 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 17:53:14 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Mon, 10 Aug 2020 17:53:20 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 17:53:20 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/billions",
+        "whencreated": "Mon, 10 Aug 2020 17:53:26 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 17:53:26 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Mon, 10 Aug 2020 18:12:56 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:12:56 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bosch",
+        "whencreated": "Mon, 10 Aug 2020 18:04:28 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:04:28 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Mon, 10 Aug 2020 17:53:31 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 17:53:31 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/broadchurch",
+        "whencreated": "Mon, 10 Aug 2020 17:53:36 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 17:53:36 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Mon, 10 Aug 2020 17:53:42 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 17:53:42 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/childhoods-end",
+        "whencreated": "Mon, 10 Aug 2020 18:04:39 GMT",
+        "whenmodified": "Mon, 24 Aug 2020 18:01:58 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dexter",
+        "whencreated": "Mon, 10 Aug 2020 17:53:53 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 17:53:53 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/downton-abbey",
+        "whencreated": "Mon, 10 Aug 2020 18:14:36 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:14:36 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Mon, 10 Aug 2020 17:54:00 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 17:54:00 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/friday-night-lights",
+        "whencreated": "Mon, 10 Aug 2020 17:54:04 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 17:54:04 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/hannibal",
+        "whencreated": "Mon, 10 Aug 2020 18:06:55 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:06:55 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/happy-valley",
+        "whencreated": "Mon, 10 Aug 2020 18:13:33 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:13:33 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/homeland",
+        "whencreated": "Mon, 10 Aug 2020 18:06:58 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:06:58 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/law-order",
+        "whencreated": "Mon, 10 Aug 2020 18:07:10 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:07:10 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/line-of-duty",
+        "whencreated": "Sat, 06 Feb 2021 20:37:38 GMT",
+        "whenmodified": "Sat, 06 Feb 2021 20:37:38 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/luther",
+        "whencreated": "Mon, 10 Aug 2020 18:07:25 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:07:25 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mindhunter",
+        "whencreated": "Mon, 10 Aug 2020 18:07:35 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:07:35 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/nurse-jackie",
+        "whencreated": "Mon, 10 Aug 2020 18:07:46 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:07:46 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/orphan-black",
+        "whencreated": "Mon, 10 Aug 2020 18:07:53 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:07:53 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ozark",
+        "whencreated": "Mon, 10 Aug 2020 18:07:56 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:07:56 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-expanse",
+        "whencreated": "Mon, 10 Aug 2020 18:39:29 GMT",
+        "whenmodified": "Mon, 10 Aug 2020 18:39:56 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-killing",
+        "whencreated": "Wed, 26 Aug 2020 17:52:05 GMT",
+        "whenmodified": "Wed, 26 Aug 2020 17:52:05 GMT"
+    }
+]

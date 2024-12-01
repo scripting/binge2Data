@@ -1,0 +1,86 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/berlin-station",
+        "whencreated": "Sun, 06 Sep 2020 22:33:55 GMT",
+        "whenmodified": "Sun, 06 Sep 2020 22:33:55 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bloodline",
+        "whencreated": "Sun, 06 Sep 2020 22:34:47 GMT",
+        "whenmodified": "Sun, 06 Sep 2020 22:34:47 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bosch",
+        "whencreated": "Sun, 06 Sep 2020 22:33:28 GMT",
+        "whenmodified": "Sun, 06 Sep 2020 22:33:28 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/broadchurch",
+        "whencreated": "Sun, 06 Sep 2020 22:33:15 GMT",
+        "whenmodified": "Sun, 06 Sep 2020 22:33:15 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Sun, 06 Sep 2020 22:29:16 GMT",
+        "whenmodified": "Sun, 06 Sep 2020 22:29:16 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/happy-valley",
+        "whencreated": "Sun, 06 Sep 2020 22:32:13 GMT",
+        "whenmodified": "Sun, 06 Sep 2020 22:32:13 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/luther",
+        "whencreated": "Sun, 06 Sep 2020 22:32:02 GMT",
+        "whenmodified": "Sun, 06 Sep 2020 22:32:02 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/narcos",
+        "whencreated": "Sun, 06 Sep 2020 22:31:08 GMT",
+        "whenmodified": "Sun, 06 Sep 2020 22:31:08 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/schitts-creek",
+        "whencreated": "Sun, 06 Sep 2020 15:49:31 GMT",
+        "whenmodified": "Sun, 06 Sep 2020 15:49:31 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/succession",
+        "whencreated": "Sun, 06 Sep 2020 22:30:12 GMT",
+        "whenmodified": "Sun, 06 Sep 2020 22:30:12 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-americans",
+        "whencreated": "Sun, 06 Sep 2020 22:30:01 GMT",
+        "whenmodified": "Sun, 06 Sep 2020 22:30:01 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-newsroom",
+        "whencreated": "Sun, 06 Sep 2020 22:31:47 GMT",
+        "whenmodified": "Sun, 06 Sep 2020 22:31:47 GMT"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Mon, 17 Aug 2020 03:43:30 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 03:43:30 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-handmaids-tale",
+        "whencreated": "Tue, 25 Aug 2020 23:12:47 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 23:12:47 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Mon, 17 Aug 2020 03:44:12 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 03:44:12 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Mon, 17 Aug 2020 03:37:38 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 23:13:25 GMT"
+    }
+]

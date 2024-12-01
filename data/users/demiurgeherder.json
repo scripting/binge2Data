@@ -1,0 +1,37 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/babylon-5",
+        "whencreated": "Tue, 25 Aug 2020 23:37:55 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 23:37:55 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Thu, 20 Aug 2020 18:26:17 GMT",
+        "whenmodified": "Thu, 20 Aug 2020 18:26:17 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Thu, 20 Aug 2020 18:26:41 GMT",
+        "whenmodified": "Thu, 20 Aug 2020 18:26:41 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Thu, 20 Aug 2020 18:25:11 GMT",
+        "whenmodified": "Thu, 20 Aug 2020 18:25:11 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/wild-wild-country",
+        "whencreated": "Tue, 25 Aug 2020 23:40:10 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 23:40:10 GMT"
+    }
+]

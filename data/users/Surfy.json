@@ -1,0 +1,37 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/arrested-development",
+        "whencreated": "Sun, 16 Aug 2020 17:11:40 GMT",
+        "whenmodified": "Sun, 16 Aug 2020 17:11:40 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Sun, 16 Aug 2020 17:11:31 GMT",
+        "whenmodified": "Sun, 16 Aug 2020 17:11:31 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Sun, 16 Aug 2020 17:11:20 GMT",
+        "whenmodified": "Sun, 16 Aug 2020 17:11:20 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/silicon-valley",
+        "whencreated": "Sun, 16 Aug 2020 17:11:45 GMT",
+        "whenmodified": "Sun, 16 Aug 2020 17:11:45 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Sun, 16 Aug 2020 17:11:13 GMT",
+        "whenmodified": "Sun, 16 Aug 2020 17:11:13 GMT"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Thu, 20 Aug 2020 17:00:22 GMT",
+        "whenmodified": "Thu, 20 Aug 2020 17:00:22 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Thu, 20 Aug 2020 17:00:59 GMT",
+        "whenmodified": "Thu, 20 Aug 2020 17:01:00 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Thu, 20 Aug 2020 17:00:31 GMT",
+        "whenmodified": "Thu, 20 Aug 2020 17:00:31 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Thu, 20 Aug 2020 17:00:18 GMT",
+        "whenmodified": "Thu, 20 Aug 2020 17:00:18 GMT"
+    }
+]

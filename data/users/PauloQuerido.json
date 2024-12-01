@@ -1,0 +1,65 @@
+[
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Sat, 07 Nov 2020 22:32:55 GMT",
+        "whenmodified": "Sat, 07 Nov 2020 22:32:57 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/borgen",
+        "whencreated": "Fri, 13 Nov 2020 17:17:48 GMT",
+        "whenmodified": "Fri, 13 Nov 2020 17:17:50 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Thu, 05 Nov 2020 09:21:01 GMT",
+        "whenmodified": "Thu, 05 Nov 2020 09:21:07 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/suits",
+        "whencreated": "Thu, 05 Nov 2020 09:22:38 GMT",
+        "whenmodified": "Thu, 05 Nov 2020 09:22:38 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-100",
+        "whencreated": "Thu, 05 Nov 2020 09:22:59 GMT",
+        "whenmodified": "Thu, 05 Nov 2020 09:22:59 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-blacklist",
+        "whencreated": "Thu, 05 Nov 2020 09:22:53 GMT",
+        "whenmodified": "Thu, 05 Nov 2020 09:22:53 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-newsroom",
+        "whencreated": "Thu, 05 Nov 2020 09:22:06 GMT",
+        "whenmodified": "Thu, 05 Nov 2020 09:22:06 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-queens-gambit",
+        "whencreated": "Mon, 07 Dec 2020 11:27:31 GMT",
+        "whenmodified": "Mon, 07 Dec 2020 11:27:31 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-x-files",
+        "whencreated": "Fri, 06 Nov 2020 19:19:28 GMT",
+        "whenmodified": "Fri, 06 Nov 2020 19:19:28 GMT"
+    }
+]

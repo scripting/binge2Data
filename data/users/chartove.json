@@ -1,0 +1,23 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/billions",
+        "whencreated": "Sun, 11 Oct 2020 15:47:19 GMT",
+        "whenmodified": "Sun, 11 Oct 2020 15:47:19 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Sun, 11 Oct 2020 15:46:41 GMT",
+        "whenmodified": "Sun, 11 Oct 2020 15:46:41 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Sun, 11 Oct 2020 15:45:50 GMT",
+        "whenmodified": "Sun, 11 Oct 2020 15:45:50 GMT"
+    }
+]

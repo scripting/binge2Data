@@ -1,0 +1,870 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/112263",
+        "whencreated": "Mon, 31 May 2021 03:49:00 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:49:00 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/12-monkeys-2015",
+        "whencreated": "Mon, 31 May 2021 03:49:06 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:49:06 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/30-rock",
+        "whencreated": "Mon, 31 May 2021 03:49:15 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:49:15 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/3rd-rock-from-the-sun",
+        "whencreated": "Mon, 31 May 2021 03:49:20 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:49:20 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/all-in-the-family",
+        "whencreated": "Mon, 31 May 2021 03:49:30 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:49:30 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/altered-carbon",
+        "whencreated": "Mon, 31 May 2021 03:49:35 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:49:35 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/archer",
+        "whencreated": "Mon, 31 May 2021 03:49:44 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:49:44 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/arrested-development",
+        "whencreated": "Mon, 31 May 2021 03:49:48 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:49:48 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/atlanta",
+        "whencreated": "Mon, 31 May 2021 03:49:54 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:49:54 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/aunty-donnas-big-ol-house-of-fun",
+        "whencreated": "Mon, 31 May 2021 03:50:02 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:50:02 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/avenue-5",
+        "whencreated": "Mon, 31 May 2021 03:50:09 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:50:09 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Mon, 31 May 2021 03:50:18 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:50:18 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/big-brother",
+        "whencreated": "Mon, 31 May 2021 03:50:26 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:50:26 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/big-love",
+        "whencreated": "Mon, 31 May 2021 03:50:32 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:50:32 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/big-mouth",
+        "whencreated": "Mon, 31 May 2021 03:50:39 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:50:40 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Mon, 31 May 2021 03:50:44 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:50:44 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-monday",
+        "whencreated": "Mon, 31 May 2021 03:50:46 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:50:46 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bloodline",
+        "whencreated": "Mon, 31 May 2021 03:50:57 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:50:57 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/boardwalk-empire",
+        "whencreated": "Mon, 31 May 2021 03:50:55 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:50:55 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bobs-burgers",
+        "whencreated": "Mon, 31 May 2021 03:51:01 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:51:01 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bojack-horseman",
+        "whencreated": "Mon, 31 May 2021 03:51:03 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:51:03 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Mon, 31 May 2021 03:51:17 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:51:17 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/coupling",
+        "whencreated": "Mon, 31 May 2021 03:51:42 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:51:42 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/curb-your-enthusiasm",
+        "whencreated": "Mon, 31 May 2021 03:51:46 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:51:46 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/desperate-housewives",
+        "whencreated": "Mon, 31 May 2021 03:51:54 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:51:54 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/devs",
+        "whencreated": "Mon, 31 May 2021 03:52:02 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:52:02 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dr-katz-professional-therapist",
+        "whencreated": "Mon, 31 May 2021 03:52:11 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:52:11 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/duckman",
+        "whencreated": "Mon, 31 May 2021 03:52:17 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:52:17 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/eastbound-down",
+        "whencreated": "Mon, 31 May 2021 03:52:18 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:52:18 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fargo",
+        "whencreated": "Mon, 31 May 2021 03:52:25 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:52:25 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Mon, 31 May 2021 03:52:32 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:52:32 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Mon, 31 May 2021 03:52:35 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:52:35 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/frasier",
+        "whencreated": "Mon, 31 May 2021 03:52:40 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:52:40 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/friends",
+        "whencreated": "Mon, 31 May 2021 03:52:45 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:52:45 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/futurama",
+        "whencreated": "Mon, 31 May 2021 03:52:50 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:52:50 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/glow",
+        "whencreated": "Mon, 31 May 2021 03:52:59 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:52:59 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/grace-and-frankie",
+        "whencreated": "Mon, 31 May 2021 03:53:05 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:53:05 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/harley-quinn",
+        "whencreated": "Mon, 31 May 2021 03:53:12 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:53:12 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/his-dark-materials",
+        "whencreated": "Mon, 31 May 2021 03:53:18 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:53:18 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-cards-2013",
+        "whencreated": "Mon, 31 May 2021 03:53:28 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:53:28 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-lies",
+        "whencreated": "Mon, 31 May 2021 03:53:32 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:53:32 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/its-garry-shandlings-show",
+        "whencreated": "Mon, 31 May 2021 03:53:42 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:53:42 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/killing-eve",
+        "whencreated": "Mon, 31 May 2021 03:53:48 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:53:48 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/king-of-the-hill",
+        "whencreated": "Mon, 31 May 2021 03:53:51 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:53:51 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/last-week-tonight-with-john-oliver",
+        "whencreated": "Mon, 31 May 2021 03:53:54 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:53:54 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/late-night-with-seth-meyers",
+        "whencreated": "Mon, 31 May 2021 03:53:57 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:53:57 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/los-espookys",
+        "whencreated": "Mon, 31 May 2021 03:54:09 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:54:09 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lovecraft-country",
+        "whencreated": "Mon, 31 May 2021 03:54:12 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:54:12 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-about-you",
+        "whencreated": "Mon, 31 May 2021 03:54:20 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:54:20 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Mon, 31 May 2021 03:54:22 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:54:22 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mare-of-easttown/season-1",
+        "whencreated": "Mon, 31 May 2021 03:54:28 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:54:28 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-daredevil",
+        "whencreated": "Mon, 31 May 2021 03:54:40 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:54:40 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-iron-fist",
+        "whencreated": "Mon, 31 May 2021 03:54:49 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:54:49 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-jessica-jones",
+        "whencreated": "Mon, 31 May 2021 03:54:45 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:54:47 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-luke-cage",
+        "whencreated": "Mon, 31 May 2021 03:54:51 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:54:51 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-the-defenders",
+        "whencreated": "Mon, 31 May 2021 03:54:54 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:54:54 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mash",
+        "whencreated": "Mon, 31 May 2021 03:54:16 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:54:16 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/master-of-none",
+        "whencreated": "Mon, 31 May 2021 03:54:58 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:54:58 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/masters-of-sex",
+        "whencreated": "Mon, 31 May 2021 03:55:01 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:55:01 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/max-headroom",
+        "whencreated": "Mon, 31 May 2021 03:55:03 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:55:03 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mike-judge-presents-tales-from-the-tour-bus",
+        "whencreated": "Mon, 31 May 2021 03:55:06 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:55:06 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mindhunter",
+        "whencreated": "Mon, 31 May 2021 03:55:10 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:55:10 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/murphy-brown",
+        "whencreated": "Mon, 31 May 2021 03:55:19 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:55:19 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/murphy-brown-2018",
+        "whencreated": "Mon, 31 May 2021 03:55:21 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:55:21 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mystery-science-theater-3000",
+        "whencreated": "Mon, 31 May 2021 03:55:24 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:55:24 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mythic-quest-ravens-banquet",
+        "whencreated": "Mon, 31 May 2021 03:55:27 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:55:27 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/northern-exposure",
+        "whencreated": "Mon, 31 May 2021 03:55:36 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:55:36 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/nurse-jackie",
+        "whencreated": "Mon, 31 May 2021 03:55:39 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:55:39 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/orange-is-the-new-black",
+        "whencreated": "Mon, 31 May 2021 03:55:43 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:55:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/oz",
+        "whencreated": "Mon, 31 May 2021 03:55:47 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:55:47 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ozark",
+        "whencreated": "Mon, 31 May 2021 03:55:49 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:55:49 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/penn-teller-fool-us",
+        "whencreated": "Mon, 31 May 2021 03:55:57 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:55:57 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/perfect-strangers",
+        "whencreated": "Mon, 31 May 2021 03:56:01 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:56:01 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/perry-mason-2020",
+        "whencreated": "Mon, 31 May 2021 03:56:03 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:56:03 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/portlandia",
+        "whencreated": "Mon, 31 May 2021 03:56:07 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:56:07 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/quantum-leap",
+        "whencreated": "Mon, 31 May 2021 03:56:12 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:56:12 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/real-time-with-bill-maher",
+        "whencreated": "Mon, 31 May 2021 03:56:18 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:56:18 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/reno-911!",
+        "whencreated": "Mon, 31 May 2021 03:56:22 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:56:22 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/schitts-creek",
+        "whencreated": "Mon, 31 May 2021 03:56:31 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:56:31 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sex-and-the-city",
+        "whencreated": "Mon, 31 May 2021 03:56:36 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:56:36 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Mon, 31 May 2021 03:56:43 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:56:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/silicon-valley",
+        "whencreated": "Mon, 31 May 2021 03:56:46 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:56:46 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/south-park",
+        "whencreated": "Mon, 31 May 2021 03:56:52 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:56:52 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/space-force",
+        "whencreated": "Mon, 31 May 2021 03:56:56 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:56:56 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sports-night",
+        "whencreated": "Mon, 31 May 2021 03:57:01 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:57:01 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-picard",
+        "whencreated": "Mon, 31 May 2021 03:57:10 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:57:10 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-the-next-generation",
+        "whencreated": "Mon, 31 May 2021 03:57:08 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:57:08 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-wars-rebels",
+        "whencreated": "Mon, 31 May 2021 03:57:15 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:57:15 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-wars-the-clone-wars",
+        "whencreated": "Mon, 31 May 2021 03:57:17 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:57:17 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Mon, 31 May 2021 03:57:23 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:57:23 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/strangers-with-candy",
+        "whencreated": "Mon, 31 May 2021 03:57:26 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:57:26 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/succession",
+        "whencreated": "Mon, 31 May 2021 03:57:34 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:57:34 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/taboo",
+        "whencreated": "Mon, 31 May 2021 03:57:39 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:57:39 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Mon, 31 May 2021 03:57:41 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:57:41 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-boys",
+        "whencreated": "Mon, 31 May 2021 03:57:52 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:57:52 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-it-crowd-uk",
+        "whencreated": "Mon, 31 May 2021 03:58:09 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:58:09 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-kids-in-the-hall",
+        "whencreated": "Mon, 31 May 2021 03:58:12 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:58:12 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-knick",
+        "whencreated": "Mon, 31 May 2021 03:58:15 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:58:15 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-larry-sanders-show",
+        "whencreated": "Mon, 31 May 2021 03:58:21 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:58:21 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-magicians-2016",
+        "whencreated": "Mon, 31 May 2021 03:58:28 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:58:28 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-mandalorian",
+        "whencreated": "Mon, 31 May 2021 03:58:25 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:58:25 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-oa",
+        "whencreated": "Mon, 31 May 2021 03:58:38 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:58:38 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office",
+        "whencreated": "Mon, 31 May 2021 03:58:40 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:58:40 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office-uk",
+        "whencreated": "Mon, 31 May 2021 03:58:43 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:58:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-people-v-oj-simpson-american-crime-story",
+        "whencreated": "Mon, 31 May 2021 03:58:50 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:58:50 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-righteous-gemstones",
+        "whencreated": "Mon, 31 May 2021 03:58:53 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:58:53 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-simpsons",
+        "whencreated": "Mon, 31 May 2021 03:58:58 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:58:58 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Mon, 31 May 2021 03:59:00 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:59:00 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-state",
+        "whencreated": "Mon, 31 May 2021 03:59:02 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:59:02 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-umbrella-academy",
+        "whencreated": "Mon, 31 May 2021 03:59:06 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:59:06 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-venture-brothers",
+        "whencreated": "Mon, 31 May 2021 03:59:09 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:59:09 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-young-pope",
+        "whencreated": "Mon, 31 May 2021 03:59:14 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:59:14 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/this-is-us",
+        "whencreated": "Mon, 31 May 2021 03:59:18 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:59:18 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/tiger-king-murder-mayhem-and-madness",
+        "whencreated": "Mon, 31 May 2021 03:59:21 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:59:21 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/top-chef",
+        "whencreated": "Mon, 31 May 2021 03:59:26 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:59:26 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/true-detective",
+        "whencreated": "Mon, 31 May 2021 03:59:32 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:59:32 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/true-detective/season-2",
+        "whencreated": "Mon, 31 May 2021 03:59:36 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:59:36 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt",
+        "whencreated": "Mon, 31 May 2021 03:59:40 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:59:40 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/wandavision",
+        "whencreated": "Mon, 31 May 2021 03:59:52 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:59:52 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Mon, 31 May 2021 03:59:55 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:59:55 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/wet-hot-american-summer-first-day-of-camp",
+        "whencreated": "Mon, 31 May 2021 03:59:57 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:59:57 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/what-we-do-in-the-shadows-2019",
+        "whencreated": "Mon, 31 May 2021 03:59:58 GMT",
+        "whenmodified": "Mon, 31 May 2021 03:59:58 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/xena-warrior-princess",
+        "whencreated": "Mon, 31 May 2021 04:00:03 GMT",
+        "whenmodified": "Mon, 31 May 2021 04:00:03 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/young-sheldon",
+        "whencreated": "Mon, 31 May 2021 04:00:06 GMT",
+        "whenmodified": "Mon, 31 May 2021 04:00:06 GMT"
+    }
+]

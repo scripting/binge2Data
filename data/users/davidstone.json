@@ -1,0 +1,30 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Sun, 28 Nov 2021 05:28:12 GMT",
+        "whenmodified": "Sun, 28 Nov 2021 05:28:12 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Sun, 28 Nov 2021 05:28:33 GMT",
+        "whenmodified": "Sun, 28 Nov 2021 05:28:33 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Sun, 28 Nov 2021 05:27:21 GMT",
+        "whenmodified": "Sun, 28 Nov 2021 05:28:05 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Sun, 28 Nov 2021 05:28:36 GMT",
+        "whenmodified": "Sun, 28 Nov 2021 05:28:36 GMT"
+    }
+]

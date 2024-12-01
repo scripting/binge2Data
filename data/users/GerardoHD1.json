@@ -1,0 +1,51 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/archer",
+        "whencreated": "Fri, 21 Aug 2020 14:20:59 GMT",
+        "whenmodified": "Fri, 21 Aug 2020 14:20:59 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/arrested-development",
+        "whencreated": "Fri, 21 Aug 2020 14:21:06 GMT",
+        "whenmodified": "Fri, 21 Aug 2020 14:21:06 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/avatar-the-last-airbender",
+        "whencreated": "Fri, 21 Aug 2020 14:21:12 GMT",
+        "whenmodified": "Fri, 21 Aug 2020 14:21:15 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/band-of-brothers",
+        "whencreated": "Mon, 24 Aug 2020 17:32:36 GMT",
+        "whenmodified": "Mon, 24 Aug 2020 17:32:36 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/pretty-little-liars",
+        "whencreated": "Mon, 24 Aug 2020 17:34:21 GMT",
+        "whenmodified": "Mon, 24 Aug 2020 17:34:21 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/shameless-uk",
+        "whencreated": "Mon, 24 Aug 2020 17:33:59 GMT",
+        "whenmodified": "Mon, 24 Aug 2020 17:34:06 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/suits",
+        "whencreated": "Mon, 24 Aug 2020 17:33:41 GMT",
+        "whenmodified": "Mon, 24 Aug 2020 17:33:41 GMT"
+    }
+]

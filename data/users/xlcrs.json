@@ -1,0 +1,44 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Fri, 11 Sep 2020 20:29:38 GMT",
+        "whenmodified": "Fri, 11 Sep 2020 20:29:38 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Fri, 11 Sep 2020 20:32:18 GMT",
+        "whenmodified": "Fri, 11 Sep 2020 20:32:18 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mindhunter",
+        "whencreated": "Fri, 11 Sep 2020 20:29:45 GMT",
+        "whenmodified": "Fri, 11 Sep 2020 20:29:45 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Fri, 11 Sep 2020 20:32:45 GMT",
+        "whenmodified": "Fri, 11 Sep 2020 20:32:45 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Fri, 11 Sep 2020 20:32:38 GMT",
+        "whenmodified": "Fri, 11 Sep 2020 20:32:38 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Fri, 11 Sep 2020 20:32:11 GMT",
+        "whenmodified": "Fri, 11 Sep 2020 20:32:11 GMT"
+    }
+]

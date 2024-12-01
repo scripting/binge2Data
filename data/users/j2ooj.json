@@ -1,0 +1,65 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Tue, 01 Dec 2020 08:07:19 GMT",
+        "whenmodified": "Tue, 01 Dec 2020 08:07:19 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Fri, 19 Feb 2021 17:45:07 GMT",
+        "whenmodified": "Fri, 19 Feb 2021 17:45:07 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Tue, 01 Dec 2020 08:06:57 GMT",
+        "whenmodified": "Tue, 01 Dec 2020 08:06:57 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/hannibal",
+        "whencreated": "Fri, 25 Dec 2020 09:49:37 GMT",
+        "whenmodified": "Fri, 25 Dec 2020 09:49:37 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/russian-doll",
+        "whencreated": "Tue, 01 Dec 2020 08:09:35 GMT",
+        "whenmodified": "Tue, 01 Dec 2020 08:09:35 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/schitts-creek",
+        "whencreated": "Tue, 01 Dec 2020 08:07:31 GMT",
+        "whenmodified": "Tue, 01 Dec 2020 08:07:31 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-place",
+        "whencreated": "Tue, 01 Dec 2020 08:08:31 GMT",
+        "whenmodified": "Tue, 01 Dec 2020 08:08:31 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office",
+        "whencreated": "Fri, 19 Feb 2021 17:49:37 GMT",
+        "whenmodified": "Fri, 19 Feb 2021 17:49:37 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office-uk",
+        "whencreated": "Fri, 29 Jan 2021 20:01:39 GMT",
+        "whenmodified": "Fri, 29 Jan 2021 20:01:39 GMT"
+    }
+]

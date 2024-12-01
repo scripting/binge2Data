@@ -1,0 +1,44 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Wed, 26 Aug 2020 20:40:05 GMT",
+        "whenmodified": "Wed, 26 Aug 2020 20:40:05 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sports-night",
+        "whencreated": "Wed, 26 Aug 2020 20:38:23 GMT",
+        "whenmodified": "Wed, 26 Aug 2020 20:38:23 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-the-next-generation",
+        "whencreated": "Wed, 26 Aug 2020 20:39:56 GMT",
+        "whenmodified": "Wed, 26 Aug 2020 20:39:56 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-fight",
+        "whencreated": "Wed, 26 Aug 2020 20:38:56 GMT",
+        "whenmodified": "Wed, 26 Aug 2020 20:38:56 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-wife",
+        "whencreated": "Wed, 26 Aug 2020 20:39:01 GMT",
+        "whenmodified": "Wed, 26 Aug 2020 20:39:01 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Wed, 26 Aug 2020 20:39:45 GMT",
+        "whenmodified": "Wed, 26 Aug 2020 20:39:45 GMT"
+    }
+]

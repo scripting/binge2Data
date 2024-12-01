@@ -1,0 +1,492 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/112263",
+        "whencreated": "Sun, 29 Nov 2020 16:23:08 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:23:10 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/24",
+        "whencreated": "Sun, 29 Nov 2020 16:23:50 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:23:50 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/alias",
+        "whencreated": "Sun, 29 Nov 2020 18:22:48 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:22:48 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/arrow",
+        "whencreated": "Sun, 29 Nov 2020 16:24:06 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:24:06 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/batwoman",
+        "whencreated": "Sun, 29 Nov 2020 16:24:20 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:24:20 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Sun, 29 Nov 2020 16:21:32 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:21:32 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bloodline",
+        "whencreated": "Sun, 29 Nov 2020 16:22:26 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:22:26 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Mon, 17 Aug 2020 15:23:04 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 15:23:04 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/designated-survivor",
+        "whencreated": "Sun, 29 Nov 2020 16:25:02 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:25:05 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/desperate-housewives",
+        "whencreated": "Sun, 29 Nov 2020 16:25:09 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:25:09 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/downton-abbey",
+        "whencreated": "Sun, 29 Nov 2020 16:21:55 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:21:55 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/elementary",
+        "whencreated": "Sun, 29 Nov 2020 16:25:20 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:25:20 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fear-the-walking-dead",
+        "whencreated": "Sun, 29 Nov 2020 16:25:30 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:25:30 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fringe",
+        "whencreated": "Sun, 29 Nov 2020 16:25:36 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:25:36 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Sun, 29 Nov 2020 16:20:38 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:20:38 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/gotham",
+        "whencreated": "Sun, 29 Nov 2020 16:28:31 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:28:31 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/greys-anatomy",
+        "whencreated": "Sun, 29 Nov 2020 16:23:35 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:23:35 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/grimm",
+        "whencreated": "Sun, 29 Nov 2020 16:23:20 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:23:20 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/hannibal",
+        "whencreated": "Sun, 29 Nov 2020 16:28:39 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:28:39 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/heroes",
+        "whencreated": "Sun, 29 Nov 2020 16:23:24 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:23:24 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/homeland",
+        "whencreated": "Sun, 29 Nov 2020 16:22:15 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:22:15 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house",
+        "whencreated": "Sun, 29 Nov 2020 16:29:44 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:29:44 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-cards",
+        "whencreated": "Sun, 29 Nov 2020 16:28:18 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:28:18 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-cards-2013",
+        "whencreated": "Sun, 29 Nov 2020 16:28:21 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:28:21 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/how-i-met-your-mother",
+        "whencreated": "Sun, 29 Nov 2020 18:22:59 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:22:59 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/locke-key",
+        "whencreated": "Sun, 29 Nov 2020 16:30:15 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:30:15 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lost",
+        "whencreated": "Sun, 29 Nov 2020 16:30:20 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:30:20 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-about-you",
+        "whencreated": "Sun, 29 Nov 2020 16:30:38 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:30:38 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-agent-carter",
+        "whencreated": "Sun, 29 Nov 2020 16:30:44 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:30:44 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-agents-of-shield",
+        "whencreated": "Sun, 29 Nov 2020 16:22:41 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:22:41 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-daredevil",
+        "whencreated": "Sun, 29 Nov 2020 16:30:47 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:30:58 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-iron-fist",
+        "whencreated": "Sun, 29 Nov 2020 16:30:50 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:30:50 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-jessica-jones",
+        "whencreated": "Sun, 29 Nov 2020 16:22:43 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:22:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-luke-cage",
+        "whencreated": "Sun, 29 Nov 2020 16:30:53 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:30:53 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-the-defenders",
+        "whencreated": "Sun, 29 Nov 2020 16:23:31 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:23:31 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mcmillions",
+        "whencreated": "Sun, 29 Nov 2020 16:31:05 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:31:05 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mom",
+        "whencreated": "Sun, 29 Nov 2020 18:17:41 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:17:41 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Sun, 29 Nov 2020 16:21:50 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:21:50 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/narcos",
+        "whencreated": "Sun, 29 Nov 2020 18:22:13 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:22:13 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/once-upon-a-time",
+        "whencreated": "Sun, 29 Nov 2020 18:18:00 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:18:00 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/orange-is-the-new-black",
+        "whencreated": "Sun, 29 Nov 2020 16:22:47 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:22:47 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/orphan-black",
+        "whencreated": "Sun, 29 Nov 2020 16:22:19 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:22:19 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ozark",
+        "whencreated": "Sun, 29 Nov 2020 16:21:36 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:21:36 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/queen-of-the-south",
+        "whencreated": "Sun, 29 Nov 2020 18:18:25 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:18:25 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/riverdale",
+        "whencreated": "Sun, 29 Nov 2020 18:18:34 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:18:34 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sense8",
+        "whencreated": "Sun, 29 Nov 2020 16:22:32 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:22:32 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Sun, 29 Nov 2020 16:20:48 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:20:48 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/silicon-valley",
+        "whencreated": "Sun, 29 Nov 2020 16:20:57 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:20:57 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-wars-rebels",
+        "whencreated": "Sun, 29 Nov 2020 18:19:01 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:19:01 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-wars-the-clone-wars",
+        "whencreated": "Sun, 29 Nov 2020 18:19:04 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:19:04 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Sun, 29 Nov 2020 16:20:52 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:20:52 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/suits",
+        "whencreated": "Sun, 29 Nov 2020 16:22:50 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:22:50 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/supergirl-2015",
+        "whencreated": "Sun, 29 Nov 2020 18:19:14 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:19:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-100",
+        "whencreated": "Sun, 29 Nov 2020 16:23:14 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:23:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-big-bang-theory",
+        "whencreated": "Sun, 29 Nov 2020 16:22:56 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:22:56 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-blacklist",
+        "whencreated": "Sun, 29 Nov 2020 16:23:05 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:23:05 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-crown",
+        "whencreated": "Sun, 29 Nov 2020 16:21:25 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:21:25 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-mandalorian",
+        "whencreated": "Sun, 29 Nov 2020 16:21:41 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:21:41 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-oa",
+        "whencreated": "Sun, 29 Nov 2020 16:22:53 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:22:53 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-queens-gambit",
+        "whencreated": "Sun, 29 Nov 2020 18:20:26 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:20:26 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-simpsons",
+        "whencreated": "Sun, 29 Nov 2020 18:20:33 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:20:33 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-walking-dead",
+        "whencreated": "Sun, 29 Nov 2020 18:20:42 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:20:42 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/titans-2018",
+        "whencreated": "Sun, 29 Nov 2020 18:20:51 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:20:51 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/travelers",
+        "whencreated": "Sun, 29 Nov 2020 18:20:59 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:20:59 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/true-blood",
+        "whencreated": "Sun, 29 Nov 2020 18:23:09 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:23:09 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/under-the-dome",
+        "whencreated": "Sun, 29 Nov 2020 16:23:39 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:23:39 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/unorthodox",
+        "whencreated": "Sun, 29 Nov 2020 18:21:13 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:21:13 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/utopia-2020/season-1",
+        "whencreated": "Sun, 29 Nov 2020 18:21:18 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 18:21:20 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/watchmen-2019",
+        "whencreated": "Sun, 29 Nov 2020 16:20:33 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:20:33 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Sun, 29 Nov 2020 16:21:30 GMT",
+        "whenmodified": "Sun, 29 Nov 2020 16:21:30 GMT"
+    }
+]

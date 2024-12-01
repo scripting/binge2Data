@@ -1,0 +1,51 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/30-rock",
+        "whencreated": "Tue, 17 May 2022 11:30:34 GMT",
+        "whenmodified": "Tue, 17 May 2022 11:30:34 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/after-life",
+        "whencreated": "Tue, 17 May 2022 11:30:44 GMT",
+        "whenmodified": "Tue, 17 May 2022 11:30:44 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Tue, 17 May 2022 11:31:08 GMT",
+        "whenmodified": "Tue, 17 May 2022 11:31:08 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-things",
+        "whencreated": "Tue, 17 May 2022 11:31:18 GMT",
+        "whenmodified": "Tue, 17 May 2022 11:31:18 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/big-little-lies",
+        "whencreated": "Tue, 17 May 2022 11:31:21 GMT",
+        "whenmodified": "Tue, 17 May 2022 11:31:21 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Tue, 17 May 2022 11:31:14 GMT",
+        "whenmodified": "Tue, 17 May 2022 11:31:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/what-we-do-in-the-shadows-2019",
+        "whencreated": "Tue, 17 May 2022 11:32:17 GMT",
+        "whenmodified": "Tue, 17 May 2022 11:32:25 GMT"
+    }
+]

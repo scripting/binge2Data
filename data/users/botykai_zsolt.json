@@ -1,0 +1,65 @@
+[
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/american-gods",
+        "whencreated": "Sun, 26 Nov 2017 08:42:48 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/angels-in-america",
+        "whencreated": "Sun, 26 Nov 2017 08:42:57 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Sun, 26 Nov 2017 08:43:10 GMT",
+        "whenmodified": "Fri, 18 Dec 2020 11:26:05 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bojack-horseman",
+        "whencreated": "Fri, 18 Dec 2020 11:26:12 GMT",
+        "whenmodified": "Fri, 18 Dec 2020 11:26:12 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Fri, 18 Dec 2020 11:25:33 GMT",
+        "whenmodified": "Fri, 18 Dec 2020 11:25:33 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Fri, 18 Dec 2020 11:25:30 GMT",
+        "whenmodified": "Fri, 18 Dec 2020 11:25:30 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Fri, 18 Dec 2020 11:25:50 GMT",
+        "whenmodified": "Fri, 18 Dec 2020 11:25:50 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/parks-and-recreation",
+        "whencreated": "Fri, 18 Dec 2020 11:25:56 GMT",
+        "whenmodified": "Fri, 18 Dec 2020 11:25:56 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office-uk",
+        "whencreated": "Fri, 18 Dec 2020 11:25:39 GMT",
+        "whenmodified": "Fri, 18 Dec 2020 11:25:39 GMT"
+    }
+]

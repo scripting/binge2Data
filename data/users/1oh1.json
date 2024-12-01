@@ -1,0 +1,23 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/30-rock",
+        "whencreated": "Mon, 29 Nov 2021 16:32:29 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 16:32:29 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/archer",
+        "whencreated": "Mon, 29 Nov 2021 16:34:58 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 16:34:58 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/arrested-development",
+        "whencreated": "Mon, 29 Nov 2021 16:35:04 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 16:35:04 GMT"
+    }
+]

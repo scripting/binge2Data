@@ -1,0 +1,30 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Thu, 10 Dec 2020 17:29:27 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 17:29:27 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Thu, 10 Dec 2020 17:29:31 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 17:29:31 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sports-night",
+        "whencreated": "Thu, 10 Dec 2020 17:28:37 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 17:28:37 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Thu, 10 Dec 2020 17:29:23 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 17:29:23 GMT"
+    }
+]

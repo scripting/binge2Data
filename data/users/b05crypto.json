@@ -1,0 +1,149 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/100-foot-wave",
+        "whencreated": "Sat, 01 Oct 2022 17:39:47 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:39:52 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Sat, 01 Oct 2022 17:41:37 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:41:37 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Sat, 01 Oct 2022 17:40:20 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:40:20 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Fri, 18 Sep 2020 19:25:05 GMT",
+        "whenmodified": "Fri, 18 Sep 2020 19:25:05 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fargo",
+        "whencreated": "Sat, 01 Oct 2022 17:41:51 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:41:51 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Sat, 01 Oct 2022 17:40:33 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:40:33 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Sat, 01 Oct 2022 17:40:35 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:40:35 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Sat, 01 Oct 2022 17:41:33 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:41:33 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/parks-and-recreation",
+        "whencreated": "Sat, 01 Oct 2022 17:42:06 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:42:06 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/project-runway",
+        "whencreated": "Sat, 01 Oct 2022 17:43:27 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:43:27 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-the-next-generation",
+        "whencreated": "Sat, 01 Oct 2022 17:41:28 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:41:28 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/succession",
+        "whencreated": "Sat, 01 Oct 2022 17:40:31 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:40:31 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Sat, 01 Oct 2022 17:40:40 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:40:40 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-americans",
+        "whencreated": "Sat, 01 Oct 2022 17:41:20 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:41:20 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-expanse",
+        "whencreated": "Sat, 01 Oct 2022 17:42:11 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:42:11 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-queens-gambit",
+        "whencreated": "Sat, 01 Oct 2022 17:40:52 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:40:52 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Sat, 01 Oct 2022 17:40:29 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:40:29 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Sat, 01 Oct 2022 17:40:25 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:40:25 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Sat, 01 Oct 2022 17:40:02 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:40:02 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/under-the-dome",
+        "whencreated": "Sat, 01 Oct 2022 17:43:24 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:43:24 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/watchmen-2019",
+        "whencreated": "Sat, 01 Oct 2022 17:41:25 GMT",
+        "whenmodified": "Sat, 01 Oct 2022 17:41:25 GMT"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Thu, 17 Dec 2020 21:25:55 GMT",
+        "whenmodified": "Thu, 17 Dec 2020 21:25:55 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/freaks-and-geeks",
+        "whencreated": "Thu, 17 Dec 2020 21:26:00 GMT",
+        "whenmodified": "Thu, 17 Dec 2020 21:26:00 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office-uk",
+        "whencreated": "Thu, 17 Dec 2020 21:26:04 GMT",
+        "whenmodified": "Thu, 17 Dec 2020 21:26:04 GMT"
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bosch",
+        "whencreated": "Mon, 07 Sep 2020 00:05:57 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:05:57 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Mon, 07 Sep 2020 00:01:44 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:01:44 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/broadchurch",
+        "whencreated": "Mon, 07 Sep 2020 00:05:49 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:05:49 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/burn-notice",
+        "whencreated": "Mon, 07 Sep 2020 00:06:07 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:06:07 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fargo",
+        "whencreated": "Mon, 07 Sep 2020 00:02:45 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:02:45 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Mon, 07 Sep 2020 00:02:12 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:02:12 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/friday-night-lights",
+        "whencreated": "Mon, 07 Sep 2020 00:03:59 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:03:59 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/goliath",
+        "whencreated": "Mon, 07 Sep 2020 00:05:34 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:05:34 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/halt-and-catch-fire",
+        "whencreated": "Mon, 07 Sep 2020 00:05:06 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:05:06 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/hanna-2019",
+        "whencreated": "Mon, 07 Sep 2020 00:07:26 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:07:26 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/homeland",
+        "whencreated": "Mon, 07 Sep 2020 00:06:32 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:06:32 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-cards",
+        "whencreated": "Mon, 07 Sep 2020 00:04:22 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:04:22 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-cards-2013",
+        "whencreated": "Mon, 07 Sep 2020 00:08:11 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:08:11 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lilyhammer",
+        "whencreated": "Mon, 07 Sep 2020 00:07:02 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:07:02 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/madam-secretary",
+        "whencreated": "Mon, 07 Sep 2020 00:07:36 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:07:36 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Mon, 07 Sep 2020 00:03:12 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:03:12 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Mon, 07 Sep 2020 00:03:02 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:03:02 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/suits",
+        "whencreated": "Mon, 07 Sep 2020 00:06:38 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:06:38 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-americans",
+        "whencreated": "Mon, 07 Sep 2020 00:03:17 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:03:17 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-blacklist",
+        "whencreated": "Mon, 07 Sep 2020 00:08:00 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:08:00 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-wife",
+        "whencreated": "Mon, 07 Sep 2020 00:04:38 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:04:38 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-killing",
+        "whencreated": "Mon, 07 Sep 2020 00:03:43 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:03:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-marvelous-mrs-maisel",
+        "whencreated": "Mon, 07 Sep 2020 00:04:50 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:04:50 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-newsroom",
+        "whencreated": "Mon, 07 Sep 2020 00:04:34 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:04:34 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-night-manager",
+        "whencreated": "Mon, 07 Sep 2020 00:04:11 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:04:11 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Sun, 06 Sep 2020 01:04:28 GMT",
+        "whenmodified": "Mon, 07 Sep 2020 00:02:04 GMT"
+    }
+]

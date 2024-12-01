@@ -1,0 +1,135 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/band-of-brothers",
+        "whencreated": "Tue, 14 Nov 2017 15:56:43 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Wed, 15 Nov 2017 17:22:46 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/futurama",
+        "whencreated": "Wed, 15 Nov 2017 17:23:00 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Tue, 14 Nov 2017 15:55:46 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lovecraft-country",
+        "whencreated": "Mon, 29 Nov 2021 03:29:31 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 03:29:31 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/outlander-2014",
+        "whencreated": "Sat, 22 Aug 2020 20:39:23 GMT",
+        "whenmodified": "Sat, 22 Aug 2020 20:39:23 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/silicon-valley",
+        "whencreated": "Sat, 22 Aug 2020 20:42:18 GMT",
+        "whenmodified": "Sat, 22 Aug 2020 20:42:18 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-deep-space-nine",
+        "whencreated": "Sat, 22 Aug 2020 20:36:34 GMT",
+        "whenmodified": "Sat, 22 Aug 2020 20:36:34 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-discovery",
+        "whencreated": "Sat, 22 Aug 2020 20:36:57 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 03:30:56 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-picard",
+        "whencreated": "Sat, 22 Aug 2020 20:28:28 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 03:30:52 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-the-next-generation",
+        "whencreated": "Sat, 22 Aug 2020 20:37:21 GMT",
+        "whenmodified": "Sat, 22 Aug 2020 20:37:21 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-voyager",
+        "whencreated": "Sat, 22 Aug 2020 20:34:54 GMT",
+        "whenmodified": "Sat, 22 Aug 2020 20:34:54 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/succession",
+        "whencreated": "Mon, 29 Nov 2021 03:28:31 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 03:28:31 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-expanse",
+        "whencreated": "Sat, 22 Aug 2020 20:28:05 GMT",
+        "whenmodified": "Sat, 22 Aug 2020 20:41:37 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/treme",
+        "whencreated": "Wed, 15 Nov 2017 17:27:08 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/twin-peaks",
+        "whencreated": "Fri, 17 Nov 2017 00:04:22 GMT",
+        "whenmodified": "Sat, 22 Aug 2020 20:30:38 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/watchmen-2019",
+        "whencreated": "Sat, 22 Aug 2020 20:31:11 GMT",
+        "whenmodified": "Sat, 22 Aug 2020 20:31:11 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Sat, 22 Aug 2020 20:31:59 GMT",
+        "whenmodified": "Sat, 22 Aug 2020 20:31:59 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/young-sheldon",
+        "whencreated": "Sat, 22 Aug 2020 20:31:40 GMT",
+        "whenmodified": "Sat, 22 Aug 2020 20:31:40 GMT"
+    }
+]

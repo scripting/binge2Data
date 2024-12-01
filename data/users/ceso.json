@@ -1,0 +1,30 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mare-of-easttown/season-1",
+        "whencreated": "Sat, 02 Oct 2021 12:59:05 GMT",
+        "whenmodified": "Sat, 02 Oct 2021 12:59:05 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Sat, 02 Oct 2021 13:00:10 GMT",
+        "whenmodified": "Sat, 02 Oct 2021 13:01:21 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-great-british-baking-show",
+        "whencreated": "Sat, 02 Oct 2021 13:02:21 GMT",
+        "whenmodified": "Sat, 02 Oct 2021 13:02:21 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-l-word",
+        "whencreated": "Sat, 02 Oct 2021 13:02:29 GMT",
+        "whenmodified": "Sat, 02 Oct 2021 13:02:29 GMT"
+    }
+]

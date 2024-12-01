@@ -1,0 +1,268 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/12-monkeys-2015",
+        "whencreated": "Sat, 23 Apr 2022 18:04:35 GMT",
+        "whenmodified": "Sat, 23 Apr 2022 18:04:35 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/american-horror-story",
+        "whencreated": "Sun, 01 Nov 2020 16:19:48 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:19:48 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/archer",
+        "whencreated": "Sun, 01 Nov 2020 16:36:00 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:36:00 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ballers",
+        "whencreated": "Sun, 01 Nov 2020 16:37:18 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:37:18 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/barry",
+        "whencreated": "Sun, 01 Nov 2020 16:20:00 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:20:00 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Sun, 01 Nov 2020 16:20:18 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:20:18 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/community",
+        "whencreated": "Sun, 01 Nov 2020 16:20:53 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:20:53 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/curb-your-enthusiasm",
+        "whencreated": "Sun, 01 Nov 2020 16:21:01 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:21:01 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dirk-gentlys-holistic-detective-agency",
+        "whencreated": "Sun, 01 Nov 2020 16:21:33 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:21:33 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/friends",
+        "whencreated": "Sun, 01 Nov 2020 16:21:56 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:21:56 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Sun, 01 Nov 2020 16:22:02 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:22:02 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/gotham",
+        "whencreated": "Sun, 01 Nov 2020 16:22:12 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:22:12 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/last-week-tonight-with-john-oliver",
+        "whencreated": "Sun, 01 Nov 2020 16:22:46 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:22:46 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lovecraft-country",
+        "whencreated": "Sun, 01 Nov 2020 16:19:32 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:19:32 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/monk",
+        "whencreated": "Sun, 01 Nov 2020 16:23:46 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:23:46 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/parks-and-recreation",
+        "whencreated": "Sun, 01 Nov 2020 16:24:06 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:24:06 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/portlandia",
+        "whencreated": "Sun, 01 Nov 2020 16:24:21 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:24:21 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/real-time-with-bill-maher",
+        "whencreated": "Sun, 01 Nov 2020 16:24:34 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:24:34 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/reno-911!",
+        "whencreated": "Sun, 01 Nov 2020 16:24:44 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:24:44 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/rick-morty",
+        "whencreated": "Sun, 01 Nov 2020 16:24:39 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:24:39 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Sun, 01 Nov 2020 16:35:39 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:35:39 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Sun, 01 Nov 2020 16:25:17 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:25:17 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/silicon-valley",
+        "whencreated": "Sun, 01 Nov 2020 16:25:26 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:25:26 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/south-park",
+        "whencreated": "Sun, 01 Nov 2020 16:36:38 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:36:38 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-picard",
+        "whencreated": "Sun, 01 Nov 2020 16:25:59 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:25:59 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-the-next-generation",
+        "whencreated": "Sun, 01 Nov 2020 16:25:51 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:25:51 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Sun, 01 Nov 2020 16:26:07 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:26:07 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/succession",
+        "whencreated": "Sun, 01 Nov 2020 16:26:11 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:26:11 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-big-bang-theory",
+        "whencreated": "Sun, 01 Nov 2020 16:26:19 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:26:19 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-closer",
+        "whencreated": "Sun, 01 Nov 2020 16:36:45 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:36:45 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-marvelous-mrs-maisel",
+        "whencreated": "Sun, 01 Nov 2020 16:27:11 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:27:11 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-newsroom",
+        "whencreated": "Sun, 01 Nov 2020 16:27:23 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:27:23 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-simpsons",
+        "whencreated": "Sun, 01 Nov 2020 16:27:47 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:27:47 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Sun, 01 Nov 2020 16:27:52 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:27:52 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/twin-peaks",
+        "whencreated": "Sun, 01 Nov 2020 16:28:05 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:28:05 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/veep",
+        "whencreated": "Sun, 01 Nov 2020 16:36:23 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:36:23 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/watchmen-2019",
+        "whencreated": "Sun, 01 Nov 2020 16:28:22 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:28:22 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Sun, 01 Nov 2020 16:28:26 GMT",
+        "whenmodified": "Sun, 01 Nov 2020 16:28:26 GMT"
+    }
+]

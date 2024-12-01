@@ -1,0 +1,275 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/anthony-bourdain-no-reservations",
+        "whencreated": "Thu, 29 Oct 2020 21:37:32 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:37:32 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Thu, 29 Oct 2020 21:37:45 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:37:45 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-sails",
+        "whencreated": "Thu, 29 Oct 2020 21:37:54 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:37:54 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bosch",
+        "whencreated": "Thu, 29 Oct 2020 21:37:59 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:37:59 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Thu, 29 Oct 2020 21:38:05 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:38:05 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Thu, 29 Oct 2020 21:38:37 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:38:37 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/deadwood",
+        "whencreated": "Thu, 29 Oct 2020 21:44:12 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:44:12 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dexter",
+        "whencreated": "Thu, 29 Oct 2020 21:44:18 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:44:18 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/doctor-who",
+        "whencreated": "Thu, 29 Oct 2020 21:44:23 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:44:23 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fauda",
+        "whencreated": "Thu, 29 Oct 2020 21:44:30 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:44:30 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/hannibal",
+        "whencreated": "Thu, 29 Oct 2020 21:39:14 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:39:14 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/heroes",
+        "whencreated": "Thu, 29 Oct 2020 21:39:21 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:39:21 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/homeland",
+        "whencreated": "Thu, 29 Oct 2020 21:39:24 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:39:24 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/killing-eve",
+        "whencreated": "Thu, 29 Oct 2020 21:39:38 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:39:38 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lovecraft-country",
+        "whencreated": "Thu, 29 Oct 2020 21:39:51 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:39:51 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lucifer",
+        "whencreated": "Thu, 29 Oct 2020 21:39:55 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:39:55 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/luther",
+        "whencreated": "Thu, 29 Oct 2020 21:40:00 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:40:00 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Thu, 29 Oct 2020 21:40:04 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:40:04 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mindhunter",
+        "whencreated": "Thu, 29 Oct 2020 21:40:16 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:40:16 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/narcos",
+        "whencreated": "Thu, 29 Oct 2020 21:40:24 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:40:24 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ozark",
+        "whencreated": "Thu, 29 Oct 2020 21:40:36 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:40:36 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/raised-by-wolves",
+        "whencreated": "Thu, 29 Oct 2020 21:40:49 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:40:49 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Thu, 29 Oct 2020 21:41:07 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:41:07 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/silicon-valley",
+        "whencreated": "Thu, 29 Oct 2020 21:41:11 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:41:11 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sneaky-pete",
+        "whencreated": "Thu, 29 Oct 2020 21:41:16 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:41:16 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Thu, 29 Oct 2020 21:41:27 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:41:27 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-boys",
+        "whencreated": "Thu, 29 Oct 2020 21:33:57 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:33:57 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-leftovers",
+        "whencreated": "Thu, 29 Oct 2020 21:41:51 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:41:51 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-man-in-the-high-castle",
+        "whencreated": "Thu, 29 Oct 2020 21:41:53 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:41:53 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-mandalorian",
+        "whencreated": "Thu, 29 Oct 2020 21:31:50 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:31:50 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-night-manager",
+        "whencreated": "Thu, 29 Oct 2020 21:41:59 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:41:59 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-queens-gambit",
+        "whencreated": "Thu, 29 Oct 2020 21:31:13 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:31:13 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-umbrella-academy",
+        "whencreated": "Thu, 29 Oct 2020 21:37:09 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:37:09 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-walking-dead",
+        "whencreated": "Thu, 29 Oct 2020 21:42:22 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:42:22 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Thu, 29 Oct 2020 21:42:25 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:42:25 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/vikings",
+        "whencreated": "Thu, 29 Oct 2020 21:42:38 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:42:38 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/watchmen-2019",
+        "whencreated": "Thu, 29 Oct 2020 21:42:44 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:42:44 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Thu, 29 Oct 2020 21:42:47 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:42:47 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/young-wallander",
+        "whencreated": "Thu, 29 Oct 2020 21:42:56 GMT",
+        "whenmodified": "Thu, 29 Oct 2020 21:42:56 GMT"
+    }
+]

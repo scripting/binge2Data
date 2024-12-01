@@ -1,0 +1,58 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Mon, 29 Nov 2021 13:30:49 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 13:30:49 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Tue, 30 Nov 2021 12:41:56 GMT",
+        "whenmodified": "Tue, 30 Nov 2021 12:41:56 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Mon, 29 Nov 2021 13:31:08 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 13:31:08 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/parks-and-recreation",
+        "whencreated": "Tue, 30 Nov 2021 12:42:09 GMT",
+        "whenmodified": "Tue, 30 Nov 2021 12:42:09 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/succession",
+        "whencreated": "Tue, 30 Nov 2021 12:41:46 GMT",
+        "whenmodified": "Tue, 30 Nov 2021 12:41:46 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Tue, 30 Nov 2021 12:41:43 GMT",
+        "whenmodified": "Tue, 30 Nov 2021 12:41:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-place",
+        "whencreated": "Tue, 30 Nov 2021 12:42:16 GMT",
+        "whenmodified": "Tue, 30 Nov 2021 12:42:16 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office-uk",
+        "whencreated": "Tue, 30 Nov 2021 12:42:18 GMT",
+        "whenmodified": "Tue, 30 Nov 2021 12:42:18 GMT"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/big-little-lies",
+        "whencreated": "Wed, 15 Nov 2017 19:55:38 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 22:13:52 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Tue, 25 Aug 2020 22:14:13 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 22:14:13 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Wed, 15 Nov 2017 19:55:47 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fargo",
+        "whencreated": "Tue, 25 Aug 2020 22:17:01 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 22:17:01 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Tue, 25 Aug 2020 22:14:30 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 22:14:30 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/rick-morty",
+        "whencreated": "Tue, 25 Aug 2020 22:14:48 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 22:14:48 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/silicon-valley",
+        "whencreated": "Tue, 25 Aug 2020 22:14:56 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 22:14:56 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-place",
+        "whencreated": "Tue, 25 Aug 2020 22:15:11 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 22:15:11 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-handmaids-tale",
+        "whencreated": "Tue, 25 Aug 2020 22:16:05 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 22:16:05 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-umbrella-academy",
+        "whencreated": "Tue, 25 Aug 2020 22:15:21 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 22:15:21 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-walking-dead",
+        "whencreated": "Tue, 25 Aug 2020 22:16:16 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 22:16:16 GMT"
+    }
+]

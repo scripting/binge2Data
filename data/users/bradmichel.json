@@ -1,0 +1,58 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/30-rock",
+        "whencreated": "Wed, 10 Mar 2021 14:35:00 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 14:35:00 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/3rd-rock-from-the-sun",
+        "whencreated": "Wed, 10 Mar 2021 14:34:47 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 14:34:47 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/adventure-time",
+        "whencreated": "Wed, 10 Mar 2021 14:34:45 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 14:34:45 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/archer",
+        "whencreated": "Wed, 10 Mar 2021 14:33:06 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 14:33:06 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/arrested-development",
+        "whencreated": "Wed, 10 Mar 2021 14:33:03 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 14:33:03 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-off-ted",
+        "whencreated": "Wed, 10 Mar 2021 14:32:46 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 14:32:46 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/big-mouth",
+        "whencreated": "Wed, 10 Mar 2021 14:32:39 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 14:32:39 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/brooklyn-nine-nine",
+        "whencreated": "Wed, 10 Mar 2021 14:37:21 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 14:37:21 GMT"
+    }
+]

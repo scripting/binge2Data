@@ -1,0 +1,51 @@
+[
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/carnival-row",
+        "whencreated": "Wed, 22 Dec 2021 22:21:42 GMT",
+        "whenmodified": "Wed, 22 Dec 2021 22:21:42 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Wed, 22 Dec 2021 22:21:30 GMT",
+        "whenmodified": "Wed, 22 Dec 2021 22:21:30 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/curb-your-enthusiasm",
+        "whencreated": "Wed, 22 Dec 2021 22:21:51 GMT",
+        "whenmodified": "Wed, 22 Dec 2021 22:21:51 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dexter",
+        "whencreated": "Wed, 22 Dec 2021 22:22:00 GMT",
+        "whenmodified": "Wed, 22 Dec 2021 22:22:00 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Wed, 22 Dec 2021 22:22:12 GMT",
+        "whenmodified": "Wed, 22 Dec 2021 22:22:12 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/flight-of-the-conchords",
+        "whencreated": "Wed, 22 Dec 2021 22:22:20 GMT",
+        "whenmodified": "Wed, 22 Dec 2021 22:22:20 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/foundation",
+        "whencreated": "Wed, 22 Dec 2021 22:22:33 GMT",
+        "whenmodified": "Wed, 22 Dec 2021 22:22:33 GMT"
+    }
+]

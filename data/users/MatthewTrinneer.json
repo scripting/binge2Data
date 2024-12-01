@@ -1,0 +1,44 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/schitts-creek",
+        "whencreated": "Tue, 01 Dec 2020 21:21:16 GMT",
+        "whenmodified": "Tue, 01 Dec 2020 21:21:16 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Tue, 01 Dec 2020 21:17:56 GMT",
+        "whenmodified": "Tue, 01 Dec 2020 21:17:56 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-crown",
+        "whencreated": "Tue, 01 Dec 2020 21:33:05 GMT",
+        "whenmodified": "Tue, 01 Dec 2020 21:33:05 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office",
+        "whencreated": "Tue, 01 Dec 2020 21:33:13 GMT",
+        "whenmodified": "Tue, 01 Dec 2020 21:33:13 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-outsider-2020",
+        "whencreated": "Tue, 01 Dec 2020 21:21:28 GMT",
+        "whenmodified": "Tue, 01 Dec 2020 21:21:28 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-queens-gambit",
+        "whencreated": "Tue, 01 Dec 2020 21:32:58 GMT",
+        "whenmodified": "Tue, 01 Dec 2020 21:32:58 GMT"
+    }
+]

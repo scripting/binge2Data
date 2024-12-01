@@ -1,0 +1,86 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/30-rock",
+        "whencreated": "Wed, 09 Dec 2020 09:26:12 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 09:26:12 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/arrested-development",
+        "whencreated": "Wed, 09 Dec 2020 09:24:36 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 09:24:36 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Wed, 09 Dec 2020 09:27:10 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 09:27:10 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/brooklyn-nine-nine",
+        "whencreated": "Wed, 09 Dec 2020 09:26:21 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 09:26:21 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/community",
+        "whencreated": "Wed, 09 Dec 2020 09:27:55 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 09:27:55 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/modern-family",
+        "whencreated": "Wed, 09 Dec 2020 09:26:49 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 09:26:49 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/parks-and-recreation",
+        "whencreated": "Wed, 09 Dec 2020 09:27:24 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 09:27:24 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-the-next-generation",
+        "whencreated": "Wed, 09 Dec 2020 09:27:15 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 09:27:15 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-expanse",
+        "whencreated": "Wed, 09 Dec 2020 09:25:57 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 09:25:57 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-mandalorian",
+        "whencreated": "Wed, 09 Dec 2020 09:27:48 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 09:27:48 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office",
+        "whencreated": "Wed, 09 Dec 2020 09:26:16 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 09:26:16 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Wed, 09 Dec 2020 09:24:49 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 09:24:49 GMT"
+    }
+]

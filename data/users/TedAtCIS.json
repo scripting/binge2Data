@@ -1,0 +1,702 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/alias",
+        "whencreated": "Wed, 13 Dec 2017 16:25:03 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/altered-carbon",
+        "whencreated": "Fri, 27 Jan 2023 22:15:31 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:15:31 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/andor",
+        "whencreated": "Fri, 27 Jan 2023 22:15:06 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:15:06 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/arrow",
+        "whencreated": "Fri, 27 Jan 2023 22:15:48 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:15:48 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Fri, 27 Jan 2023 22:16:21 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:16:21 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bridgerton",
+        "whencreated": "Fri, 27 Jan 2023 22:17:50 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:17:50 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/carnival-row",
+        "whencreated": "Fri, 27 Jan 2023 22:17:34 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:17:34 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chuck",
+        "whencreated": "Fri, 27 Jan 2023 22:18:10 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:18:12 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/continuum-2012",
+        "whencreated": "Fri, 27 Jan 2023 22:18:47 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:18:47 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dharma-greg",
+        "whencreated": "Fri, 27 Jan 2023 22:19:30 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:19:30 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dispatches-from-elsewhere",
+        "whencreated": "Fri, 27 Jan 2023 22:19:42 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:19:42 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/doctor-who",
+        "whencreated": "Wed, 13 Dec 2017 16:26:00 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/downton-abbey",
+        "whencreated": "Fri, 27 Jan 2023 22:20:01 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:20:01 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/emily-in-paris",
+        "whencreated": "Fri, 27 Jan 2023 22:20:21 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:20:21 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/farscape",
+        "whencreated": "Wed, 13 Dec 2017 16:26:04 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Wed, 13 Dec 2017 16:26:10 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Fri, 27 Jan 2023 22:20:55 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:20:55 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/frasier",
+        "whencreated": "Fri, 27 Jan 2023 22:21:07 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:21:07 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/friends",
+        "whencreated": "Wed, 13 Dec 2017 16:26:20 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/good-witch",
+        "whencreated": "Fri, 27 Jan 2023 22:22:30 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:22:30 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/gotham",
+        "whencreated": "Wed, 13 Dec 2017 16:26:43 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/killjoys",
+        "whencreated": "Fri, 27 Jan 2023 22:23:41 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:23:41 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/leverage",
+        "whencreated": "Wed, 13 Dec 2017 16:27:06 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/locke-key",
+        "whencreated": "Fri, 27 Jan 2023 22:24:22 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:24:22 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/loki",
+        "whencreated": "Fri, 27 Jan 2023 22:24:32 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:24:32 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lost-girl",
+        "whencreated": "Fri, 27 Jan 2023 22:24:50 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:24:50 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/manifest",
+        "whencreated": "Fri, 27 Jan 2023 22:25:21 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:25:21 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-agent-carter",
+        "whencreated": "Fri, 27 Jan 2023 22:25:37 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:25:37 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-agents-of-shield",
+        "whencreated": "Fri, 27 Jan 2023 22:25:50 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:25:50 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-daredevil",
+        "whencreated": "Fri, 27 Jan 2023 22:26:12 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:26:12 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-inhumans",
+        "whencreated": "Fri, 27 Jan 2023 22:26:57 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:26:57 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-iron-fist",
+        "whencreated": "Fri, 27 Jan 2023 22:27:06 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:27:06 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-jessica-jones",
+        "whencreated": "Fri, 27 Jan 2023 22:27:14 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:27:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-luke-cage",
+        "whencreated": "Fri, 27 Jan 2023 22:27:20 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:27:20 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-the-defenders",
+        "whencreated": "Wed, 13 Dec 2017 16:27:22 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mash",
+        "whencreated": "Fri, 27 Jan 2023 22:25:03 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:25:03 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/max-headroom",
+        "whencreated": "Fri, 27 Jan 2023 22:27:44 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:27:44 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mom",
+        "whencreated": "Fri, 27 Jan 2023 22:28:26 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:28:26 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/moon-knight",
+        "whencreated": "Fri, 27 Jan 2023 22:28:34 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:28:34 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Wed, 13 Dec 2017 16:27:30 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/murphy-brown",
+        "whencreated": "Fri, 27 Jan 2023 22:29:00 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:29:00 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/outlander-2014",
+        "whencreated": "Fri, 27 Jan 2023 22:30:04 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:30:04 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/perry-mason",
+        "whencreated": "Fri, 27 Jan 2023 22:31:39 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:31:39 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/person-of-interest",
+        "whencreated": "Fri, 27 Jan 2023 22:31:45 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:31:45 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/portlandia",
+        "whencreated": "Wed, 13 Dec 2017 16:28:00 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/project-runway",
+        "whencreated": "Wed, 13 Dec 2017 16:28:11 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/quantum-leap",
+        "whencreated": "Fri, 27 Jan 2023 22:32:08 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:32:08 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/russian-doll",
+        "whencreated": "Fri, 27 Jan 2023 22:33:03 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:33:03 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/scrubs",
+        "whencreated": "Fri, 27 Jan 2023 22:33:29 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:33:29 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sense8",
+        "whencreated": "Fri, 27 Jan 2023 22:33:45 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:33:45 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/she-hulk-attorney-at-law",
+        "whencreated": "Fri, 27 Jan 2023 22:47:52 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:47:52 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Fri, 27 Jan 2023 22:34:05 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:34:05 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/snowpiercer",
+        "whencreated": "Fri, 27 Jan 2023 22:34:21 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:34:21 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/space-1999",
+        "whencreated": "Fri, 27 Jan 2023 22:34:31 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:34:31 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/squid-game",
+        "whencreated": "Fri, 27 Jan 2023 22:34:44 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:34:44 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek",
+        "whencreated": "Fri, 27 Jan 2023 22:35:02 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:35:02 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-deep-space-nine",
+        "whencreated": "Fri, 27 Jan 2023 22:35:06 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:35:06 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-discovery",
+        "whencreated": "Fri, 27 Jan 2023 22:35:14 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:35:14 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-the-next-generation",
+        "whencreated": "Fri, 27 Jan 2023 22:35:34 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:35:34 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-voyager",
+        "whencreated": "Fri, 27 Jan 2023 22:35:44 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:35:44 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-wars-rebels",
+        "whencreated": "Fri, 27 Jan 2023 22:35:50 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:35:50 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-wars-the-bad-batch",
+        "whencreated": "Fri, 27 Jan 2023 22:36:03 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:36:03 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-wars-the-clone-wars",
+        "whencreated": "Fri, 27 Jan 2023 22:36:14 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:36:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stargate-atlantis",
+        "whencreated": "Wed, 13 Dec 2017 16:28:45 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:36:31 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stargate-sg-1",
+        "whencreated": "Fri, 27 Jan 2023 22:36:29 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:36:29 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stargate-universe",
+        "whencreated": "Wed, 13 Dec 2017 16:28:58 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Tue, 04 Dec 2018 21:19:49 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stumptown",
+        "whencreated": "Fri, 27 Jan 2023 22:36:41 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:36:52 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/terminator-the-sarah-connor-chronicles",
+        "whencreated": "Fri, 27 Jan 2023 22:37:17 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:37:17 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-addams-family",
+        "whencreated": "Fri, 27 Jan 2023 22:37:30 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:37:30 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-big-bang-theory",
+        "whencreated": "Fri, 27 Jan 2023 22:37:40 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:37:40 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-bob-newhart-show",
+        "whencreated": "Fri, 27 Jan 2023 22:37:45 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:37:45 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-expanse",
+        "whencreated": "Tue, 04 Dec 2018 21:20:16 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-falcon-and-the-winter-soldier",
+        "whencreated": "Fri, 27 Jan 2023 22:38:19 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:38:19 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-hitch-hikers-guide-to-the-galaxy",
+        "whencreated": "Fri, 27 Jan 2023 22:38:43 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:38:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-it-crowd-uk",
+        "whencreated": "Fri, 27 Jan 2023 22:38:52 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:38:52 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-magicians-2016",
+        "whencreated": "Fri, 27 Jan 2023 22:39:16 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:39:16 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-man-in-the-high-castle",
+        "whencreated": "Fri, 27 Jan 2023 22:39:28 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:39:28 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-mandalorian",
+        "whencreated": "Fri, 27 Jan 2023 22:39:37 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:39:37 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-marvelous-mrs-maisel",
+        "whencreated": "Fri, 27 Jan 2023 22:39:45 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:39:45 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-masked-singer",
+        "whencreated": "Fri, 27 Jan 2023 22:40:01 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:40:01 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-mindy-project",
+        "whencreated": "Fri, 27 Jan 2023 22:40:08 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:40:08 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-munsters",
+        "whencreated": "Fri, 27 Jan 2023 22:40:15 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:40:15 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-night-shift",
+        "whencreated": "Fri, 27 Jan 2023 22:40:28 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:40:28 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-orville",
+        "whencreated": "Fri, 27 Jan 2023 22:40:46 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:40:46 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-queens-gambit",
+        "whencreated": "Fri, 27 Jan 2023 22:40:59 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:40:59 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-shannara-chronicles",
+        "whencreated": "Fri, 27 Jan 2023 22:41:14 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:41:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-twilight-zone",
+        "whencreated": "Fri, 27 Jan 2023 22:41:35 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:41:35 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-umbrella-academy",
+        "whencreated": "Fri, 27 Jan 2023 22:41:40 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:41:40 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-witcher",
+        "whencreated": "Fri, 27 Jan 2023 22:41:57 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:41:57 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/travelers",
+        "whencreated": "Fri, 27 Jan 2023 22:42:51 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:42:51 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/treadstone",
+        "whencreated": "Fri, 27 Jan 2023 22:42:42 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:42:42 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/two-and-a-half-men",
+        "whencreated": "Fri, 27 Jan 2023 22:43:03 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:43:03 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt",
+        "whencreated": "Wed, 13 Dec 2017 16:29:48 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/warehouse-13",
+        "whencreated": "Fri, 27 Jan 2023 22:43:41 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:43:41 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/warrior-nun",
+        "whencreated": "Fri, 27 Jan 2023 22:43:45 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:43:45 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/wednesday",
+        "whencreated": "Fri, 27 Jan 2023 22:44:00 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:44:00 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/will-grace",
+        "whencreated": "Fri, 27 Jan 2023 22:44:13 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:44:13 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/xena-warrior-princess",
+        "whencreated": "Fri, 27 Jan 2023 22:44:24 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:44:24 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/young-sheldon",
+        "whencreated": "Fri, 27 Jan 2023 22:44:40 GMT",
+        "whenmodified": "Fri, 27 Jan 2023 22:44:40 GMT"
+    }
+]

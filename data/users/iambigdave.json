@@ -1,0 +1,44 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/deadwood",
+        "whencreated": "Tue, 25 Aug 2020 23:23:50 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 23:23:50 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Tue, 25 Aug 2020 23:22:43 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 23:22:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/its-garry-shandlings-show",
+        "whencreated": "Tue, 25 Aug 2020 23:23:17 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 23:23:17 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Tue, 25 Aug 2020 23:23:45 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 23:23:45 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Tue, 25 Aug 2020 23:23:36 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 23:23:36 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Tue, 25 Aug 2020 23:22:33 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 23:22:33 GMT"
+    }
+]

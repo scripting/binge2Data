@@ -1,0 +1,23 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-off-ted",
+        "whencreated": "Wed, 09 Dec 2020 04:28:14 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:28:14 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bobs-burgers",
+        "whencreated": "Wed, 09 Dec 2020 04:22:13 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:22:13 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/community",
+        "whencreated": "Wed, 09 Dec 2020 04:22:40 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:22:40 GMT"
+    }
+]

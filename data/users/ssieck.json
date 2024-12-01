@@ -1,0 +1,72 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/arrested-development",
+        "whencreated": "Sat, 26 Sep 2020 09:56:49 GMT",
+        "whenmodified": "Sat, 26 Sep 2020 09:56:49 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Mon, 17 Aug 2020 13:25:34 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 13:25:34 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/rectify",
+        "whencreated": "Mon, 17 Aug 2020 13:24:48 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 13:24:48 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-plot-against-america",
+        "whencreated": "Mon, 17 Aug 2020 13:28:00 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 13:28:00 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Mon, 17 Aug 2020 13:27:46 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 13:27:46 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/treme",
+        "whencreated": "Mon, 17 Aug 2020 13:27:36 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 13:27:36 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/true-blood",
+        "whencreated": "Mon, 17 Aug 2020 13:27:29 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 13:27:29 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/veronica-mars",
+        "whencreated": "Mon, 17 Aug 2020 13:26:54 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 13:26:54 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/watchmen-2019",
+        "whencreated": "Mon, 17 Aug 2020 13:27:01 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 13:27:01 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/wild-wild-country",
+        "whencreated": "Mon, 17 Aug 2020 13:27:08 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 13:27:08 GMT"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Thu, 10 Dec 2020 07:58:00 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 07:58:00 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Thu, 10 Dec 2020 07:58:20 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 07:58:20 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Thu, 10 Dec 2020 07:58:33 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 07:58:33 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/friday-night-lights",
+        "whencreated": "Thu, 10 Dec 2020 08:00:03 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 08:00:03 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/halt-and-catch-fire",
+        "whencreated": "Thu, 10 Dec 2020 08:00:56 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 08:00:56 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Thu, 10 Dec 2020 07:59:55 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 07:59:55 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/narcos",
+        "whencreated": "Thu, 10 Dec 2020 08:00:17 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 08:00:17 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-marvelous-mrs-maisel",
+        "whencreated": "Thu, 10 Dec 2020 08:01:00 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 08:01:00 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-oa",
+        "whencreated": "Thu, 10 Dec 2020 08:01:20 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 08:01:20 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-walking-dead",
+        "whencreated": "Thu, 10 Dec 2020 07:59:13 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 07:59:13 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/torchwood-uk",
+        "whencreated": "Thu, 10 Dec 2020 07:59:26 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 07:59:26 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/twin-peaks",
+        "whencreated": "Thu, 10 Dec 2020 08:00:11 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 08:00:11 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Thu, 10 Dec 2020 08:00:23 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 08:00:52 GMT"
+    }
+]

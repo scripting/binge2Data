@@ -1,0 +1,30 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Mon, 30 Jan 2023 17:37:24 GMT",
+        "whenmodified": "Mon, 30 Jan 2023 17:37:24 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/luther",
+        "whencreated": "Mon, 30 Jan 2023 17:38:07 GMT",
+        "whenmodified": "Mon, 30 Jan 2023 17:38:07 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Mon, 30 Jan 2023 17:37:30 GMT",
+        "whenmodified": "Mon, 30 Jan 2023 17:37:30 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/watchmen-2019",
+        "whencreated": "Mon, 30 Jan 2023 17:37:41 GMT",
+        "whenmodified": "Mon, 30 Jan 2023 17:37:41 GMT"
+    }
+]

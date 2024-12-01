@@ -1,0 +1,58 @@
+[
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stargate-sg-1",
+        "whencreated": "Sat, 26 Sep 2020 07:57:50 GMT",
+        "whenmodified": "Sat, 26 Sep 2020 07:57:50 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/succession",
+        "whencreated": "Sat, 26 Sep 2020 07:57:46 GMT",
+        "whenmodified": "Sat, 26 Sep 2020 07:57:46 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-leftovers",
+        "whencreated": "Sat, 26 Sep 2020 07:57:23 GMT",
+        "whenmodified": "Sat, 26 Sep 2020 07:57:23 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Sat, 26 Sep 2020 07:57:13 GMT",
+        "whenmodified": "Sat, 26 Sep 2020 07:57:13 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Sat, 26 Sep 2020 07:57:08 GMT",
+        "whenmodified": "Sat, 26 Sep 2020 07:57:08 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/true-detective/season-2",
+        "whencreated": "Sat, 26 Sep 2020 07:56:58 GMT",
+        "whenmodified": "Sat, 26 Sep 2020 07:56:58 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/watchmen-2019",
+        "whencreated": "Sat, 26 Sep 2020 07:56:51 GMT",
+        "whenmodified": "Sat, 26 Sep 2020 07:56:51 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Sat, 26 Sep 2020 07:56:43 GMT",
+        "whenmodified": "Sat, 26 Sep 2020 07:56:47 GMT"
+    }
+]

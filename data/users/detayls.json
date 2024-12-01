@@ -1,0 +1,93 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/band-of-brothers",
+        "whencreated": "Mon, 26 Oct 2020 17:30:24 GMT",
+        "whenmodified": "Mon, 26 Oct 2020 17:30:24 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Mon, 26 Oct 2020 17:30:33 GMT",
+        "whenmodified": "Mon, 26 Oct 2020 17:30:33 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Sat, 22 Aug 2020 16:12:32 GMT",
+        "whenmodified": "Sat, 22 Aug 2020 16:12:32 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/brockmire",
+        "whencreated": "Sat, 22 Aug 2020 16:12:41 GMT",
+        "whenmodified": "Sat, 22 Aug 2020 16:12:41 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/deadwood",
+        "whencreated": "Mon, 26 Oct 2020 17:30:36 GMT",
+        "whenmodified": "Mon, 26 Oct 2020 17:30:36 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dexter",
+        "whencreated": "Sun, 29 Aug 2021 15:20:28 GMT",
+        "whenmodified": "Sun, 29 Aug 2021 15:20:28 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dharma-greg",
+        "whencreated": "Sun, 29 Aug 2021 15:20:32 GMT",
+        "whenmodified": "Sun, 29 Aug 2021 15:20:32 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/downton-abbey",
+        "whencreated": "Sun, 29 Aug 2021 15:20:38 GMT",
+        "whenmodified": "Sun, 29 Aug 2021 15:20:38 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Sat, 22 Aug 2020 16:12:50 GMT",
+        "whenmodified": "Sat, 22 Aug 2020 16:12:50 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-place",
+        "whencreated": "Mon, 26 Oct 2020 17:30:39 GMT",
+        "whenmodified": "Mon, 26 Oct 2020 17:30:39 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-mentalist",
+        "whencreated": "Sat, 22 Aug 2020 16:14:10 GMT",
+        "whenmodified": "Sat, 22 Aug 2020 16:14:10 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Mon, 26 Oct 2020 17:30:18 GMT",
+        "whenmodified": "Mon, 26 Oct 2020 17:30:18 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Sat, 22 Aug 2020 16:12:21 GMT",
+        "whenmodified": "Sat, 22 Aug 2020 16:12:21 GMT"
+    }
+]

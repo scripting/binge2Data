@@ -1,0 +1,716 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/30-rock",
+        "whencreated": "Wed, 09 Dec 2020 04:09:52 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:09:52 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/3rd-rock-from-the-sun",
+        "whencreated": "Wed, 09 Dec 2020 04:23:05 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:23:05 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/alias",
+        "whencreated": "Wed, 09 Dec 2020 04:23:09 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:23:09 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/american-horror-story",
+        "whencreated": "Wed, 09 Dec 2020 04:10:09 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:10:09 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/angel",
+        "whencreated": "Wed, 09 Dec 2020 04:23:18 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:23:22 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/arrow",
+        "whencreated": "Wed, 09 Dec 2020 04:10:18 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:10:18 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/babylon-5",
+        "whencreated": "Wed, 09 Dec 2020 04:23:28 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:23:28 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Wed, 09 Dec 2020 04:10:29 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:10:29 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/big-brother",
+        "whencreated": "Wed, 09 Dec 2020 04:23:35 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:23:35 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bones",
+        "whencreated": "Wed, 09 Dec 2020 04:23:45 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:23:45 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Wed, 09 Dec 2020 04:23:50 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:23:50 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/brooklyn-nine-nine",
+        "whencreated": "Wed, 09 Dec 2020 04:23:54 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:23:54 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/buffy-the-vampire-slayer",
+        "whencreated": "Wed, 09 Dec 2020 04:10:43 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:10:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Wed, 09 Dec 2020 04:10:55 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:10:55 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/community",
+        "whencreated": "Wed, 09 Dec 2020 04:11:01 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:11:01 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/cosmos-a-space-time-odyssey",
+        "whencreated": "Wed, 09 Dec 2020 04:11:12 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:11:12 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/deadwood",
+        "whencreated": "Wed, 09 Dec 2020 04:11:18 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:11:18 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dirk-gentlys-holistic-detective-agency",
+        "whencreated": "Wed, 09 Dec 2020 04:24:15 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:24:15 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/doctor-who",
+        "whencreated": "Wed, 09 Dec 2020 04:24:18 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:24:18 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dr-katz-professional-therapist",
+        "whencreated": "Wed, 09 Dec 2020 04:24:22 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:24:22 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/duckman",
+        "whencreated": "Wed, 09 Dec 2020 04:24:25 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:24:25 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/farscape",
+        "whencreated": "Wed, 09 Dec 2020 04:11:28 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:11:28 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Wed, 09 Dec 2020 04:11:34 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:11:34 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/frasier",
+        "whencreated": "Wed, 09 Dec 2020 04:24:38 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:24:38 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/friends",
+        "whencreated": "Wed, 09 Dec 2020 04:24:44 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:24:44 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fringe",
+        "whencreated": "Wed, 09 Dec 2020 04:11:38 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:11:38 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/futurama",
+        "whencreated": "Wed, 09 Dec 2020 04:24:47 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:24:47 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Wed, 09 Dec 2020 04:24:50 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:24:50 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/good-omens",
+        "whencreated": "Wed, 09 Dec 2020 04:11:49 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:11:49 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/hannibal",
+        "whencreated": "Wed, 09 Dec 2020 04:11:55 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:11:55 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/haven",
+        "whencreated": "Wed, 09 Dec 2020 04:25:07 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:25:07 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/his-dark-materials",
+        "whencreated": "Wed, 09 Dec 2020 04:25:11 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:25:11 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/its-always-sunny-in-philadelphia",
+        "whencreated": "Wed, 09 Dec 2020 04:25:29 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:25:29 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/izombie",
+        "whencreated": "Wed, 09 Dec 2020 04:25:32 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:25:32 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/john-adams",
+        "whencreated": "Wed, 09 Dec 2020 04:12:16 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:12:16 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/law-order",
+        "whencreated": "Wed, 09 Dec 2020 04:12:24 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:12:24 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lovecraft-country",
+        "whencreated": "Wed, 09 Dec 2020 04:12:30 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:12:30 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lucifer",
+        "whencreated": "Wed, 09 Dec 2020 04:25:46 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:25:46 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-agent-carter",
+        "whencreated": "Wed, 09 Dec 2020 04:12:42 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:12:42 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-agents-of-shield",
+        "whencreated": "Wed, 09 Dec 2020 04:12:48 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:12:48 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-daredevil",
+        "whencreated": "Wed, 09 Dec 2020 04:12:51 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:12:51 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-iron-fist",
+        "whencreated": "Wed, 09 Dec 2020 04:12:55 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:12:55 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-jessica-jones",
+        "whencreated": "Wed, 09 Dec 2020 04:12:58 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:12:58 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-luke-cage",
+        "whencreated": "Wed, 09 Dec 2020 04:13:01 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:13:01 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-the-defenders",
+        "whencreated": "Wed, 09 Dec 2020 04:25:57 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:25:57 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/master-of-none",
+        "whencreated": "Wed, 09 Dec 2020 04:26:08 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:26:08 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mindhunter",
+        "whencreated": "Wed, 09 Dec 2020 04:13:12 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:13:12 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Wed, 09 Dec 2020 04:26:19 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:26:19 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-show-with-bob-and-david",
+        "whencreated": "Wed, 09 Dec 2020 04:26:22 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:26:22 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mystery-science-theater-3000",
+        "whencreated": "Wed, 09 Dec 2020 04:13:17 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:13:17 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/nova",
+        "whencreated": "Wed, 09 Dec 2020 04:26:33 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:26:33 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/parks-and-recreation",
+        "whencreated": "Wed, 09 Dec 2020 04:18:47 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:18:47 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/perry-mason-2020",
+        "whencreated": "Wed, 09 Dec 2020 04:18:53 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:18:53 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/planet-earth",
+        "whencreated": "Wed, 09 Dec 2020 04:26:47 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:26:47 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/portlandia",
+        "whencreated": "Wed, 09 Dec 2020 04:18:58 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:18:58 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/psych",
+        "whencreated": "Wed, 09 Dec 2020 04:26:54 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:26:54 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/quantum-leap",
+        "whencreated": "Wed, 09 Dec 2020 04:19:03 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:19:03 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/raised-by-wolves",
+        "whencreated": "Wed, 09 Dec 2020 04:27:00 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:27:00 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/real-time-with-bill-maher",
+        "whencreated": "Wed, 09 Dec 2020 04:19:06 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:19:06 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/reno-911!",
+        "whencreated": "Wed, 09 Dec 2020 04:27:05 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:27:05 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/rick-morty",
+        "whencreated": "Wed, 09 Dec 2020 04:19:11 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:19:11 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/rome",
+        "whencreated": "Wed, 09 Dec 2020 04:19:14 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:19:14 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Wed, 09 Dec 2020 04:27:18 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:27:18 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sense8",
+        "whencreated": "Wed, 09 Dec 2020 04:27:21 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:27:21 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sex-and-the-city",
+        "whencreated": "Wed, 09 Dec 2020 04:19:22 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:19:22 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/shaun-the-sheep",
+        "whencreated": "Wed, 09 Dec 2020 04:19:26 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:19:26 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Wed, 09 Dec 2020 04:19:28 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:19:28 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/silicon-valley",
+        "whencreated": "Wed, 09 Dec 2020 04:19:31 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:19:31 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/south-park",
+        "whencreated": "Wed, 09 Dec 2020 04:19:37 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:19:37 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/spaced-uk",
+        "whencreated": "Wed, 09 Dec 2020 04:27:32 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:27:32 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek",
+        "whencreated": "Wed, 09 Dec 2020 04:19:46 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:19:46 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-deep-space-nine",
+        "whencreated": "Wed, 09 Dec 2020 04:19:50 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:19:50 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-discovery",
+        "whencreated": "Wed, 09 Dec 2020 04:19:54 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:19:54 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-enterprise",
+        "whencreated": "Wed, 09 Dec 2020 04:19:57 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:19:57 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-picard",
+        "whencreated": "Wed, 09 Dec 2020 04:20:02 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:20:02 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-the-next-generation",
+        "whencreated": "Wed, 09 Dec 2020 04:20:06 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:20:06 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-voyager",
+        "whencreated": "Wed, 09 Dec 2020 04:20:09 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:20:09 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stargate-atlantis",
+        "whencreated": "Wed, 09 Dec 2020 04:20:18 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:20:18 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stargate-sg-1",
+        "whencreated": "Wed, 09 Dec 2020 04:20:20 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:20:20 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stargate-universe",
+        "whencreated": "Wed, 09 Dec 2020 04:20:22 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:20:22 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Wed, 09 Dec 2020 04:20:24 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:20:24 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/supernatural",
+        "whencreated": "Wed, 09 Dec 2020 04:20:28 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:20:28 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-boys",
+        "whencreated": "Wed, 09 Dec 2020 04:20:46 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:20:46 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-critic",
+        "whencreated": "Wed, 09 Dec 2020 04:20:51 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:20:51 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-flash-2014",
+        "whencreated": "Wed, 09 Dec 2020 04:20:57 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:20:57 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-golden-girls",
+        "whencreated": "Wed, 09 Dec 2020 04:21:00 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:21:00 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-place",
+        "whencreated": "Wed, 09 Dec 2020 04:21:06 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:21:06 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-kids-in-the-hall",
+        "whencreated": "Wed, 09 Dec 2020 04:21:13 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:21:13 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-newsroom",
+        "whencreated": "Wed, 09 Dec 2020 04:21:21 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:21:21 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-state",
+        "whencreated": "Wed, 09 Dec 2020 04:21:53 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:21:53 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-twilight-zone",
+        "whencreated": "Wed, 09 Dec 2020 04:21:57 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:21:57 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-umbrella-academy",
+        "whencreated": "Wed, 09 Dec 2020 04:21:59 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:21:59 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-walking-dead",
+        "whencreated": "Wed, 09 Dec 2020 04:22:03 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:22:03 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Wed, 09 Dec 2020 04:22:06 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:22:06 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-x-files",
+        "whencreated": "Wed, 09 Dec 2020 04:22:10 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:22:10 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/tiger-king-murder-mayhem-and-madness",
+        "whencreated": "Wed, 09 Dec 2020 04:22:17 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:22:17 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/tim-and-eric-awesome-show-great-job!",
+        "whencreated": "Wed, 09 Dec 2020 04:22:20 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:22:20 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/torchwood-uk",
+        "whencreated": "Wed, 09 Dec 2020 04:22:26 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:22:26 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/true-detective",
+        "whencreated": "Wed, 09 Dec 2020 04:22:35 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:22:35 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt",
+        "whencreated": "Wed, 09 Dec 2020 04:22:40 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:22:40 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Wed, 09 Dec 2020 04:22:54 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:22:54 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/xena-warrior-princess",
+        "whencreated": "Wed, 09 Dec 2020 04:22:58 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:22:58 GMT"
+    }
+]

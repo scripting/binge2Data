@@ -1,0 +1,611 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/abbott-elementary",
+        "whencreated": "Tue, 03 Jan 2023 06:14:49 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:14:49 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/babylon-5",
+        "whencreated": "Tue, 03 Jan 2023 06:14:22 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:14:22 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/band-of-brothers",
+        "whencreated": "Tue, 05 Jul 2022 13:13:29 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:13:29 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-1978",
+        "whencreated": "Tue, 03 Jan 2023 06:14:13 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:14:13 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Tue, 05 Jul 2022 13:11:41 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:11:41 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/blade",
+        "whencreated": "Tue, 05 Jul 2022 13:13:52 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:13:52 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bones",
+        "whencreated": "Tue, 03 Jan 2023 06:13:46 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:13:46 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/boston-legal",
+        "whencreated": "Tue, 05 Jul 2022 13:14:16 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:14:16 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/broadchurch",
+        "whencreated": "Tue, 05 Jul 2022 13:14:27 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:14:27 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/buffy-the-vampire-slayer",
+        "whencreated": "Tue, 05 Jul 2022 13:14:40 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:14:40 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/castle",
+        "whencreated": "Tue, 05 Jul 2022 13:15:10 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:15:10 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/cheers",
+        "whencreated": "Tue, 03 Jan 2023 06:13:14 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:13:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chuck",
+        "whencreated": "Tue, 03 Jan 2023 06:13:04 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:13:04 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/columbo",
+        "whencreated": "Tue, 05 Jul 2022 13:15:23 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:15:23 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/damages",
+        "whencreated": "Tue, 03 Jan 2023 06:12:45 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:12:45 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dexter",
+        "whencreated": "Tue, 05 Jul 2022 13:15:58 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:15:58 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/doctor-who",
+        "whencreated": "Tue, 05 Jul 2022 13:16:12 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:16:12 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/elementary",
+        "whencreated": "Tue, 05 Jul 2022 13:16:30 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:16:30 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/eureka",
+        "whencreated": "Tue, 05 Jul 2022 13:16:40 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:16:40 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/everybody-loves-raymond",
+        "whencreated": "Tue, 05 Jul 2022 13:16:45 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:16:45 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/farscape",
+        "whencreated": "Tue, 05 Jul 2022 13:16:57 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:16:57 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Tue, 05 Jul 2022 13:17:08 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:17:08 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Tue, 05 Jul 2022 13:17:11 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 13:17:11 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/foundation",
+        "whencreated": "Tue, 05 Jul 2022 18:56:56 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:56:56 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/frasier",
+        "whencreated": "Tue, 03 Jan 2023 06:11:42 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:11:42 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/freaks-and-geeks",
+        "whencreated": "Tue, 05 Jul 2022 18:56:59 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:56:59 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/friday-night-lights",
+        "whencreated": "Tue, 05 Jul 2022 18:57:03 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:57:03 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fringe",
+        "whencreated": "Tue, 05 Jul 2022 18:57:06 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:57:06 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/frontline",
+        "whencreated": "Tue, 05 Jul 2022 18:57:12 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:57:12 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/gilmore-girls",
+        "whencreated": "Tue, 05 Jul 2022 18:57:17 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:57:17 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/grantchester",
+        "whencreated": "Tue, 05 Jul 2022 18:57:27 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:57:27 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/grimm",
+        "whencreated": "Tue, 05 Jul 2022 18:57:33 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:57:33 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-cards",
+        "whencreated": "Tue, 05 Jul 2022 18:57:52 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:57:52 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/how-i-met-your-mother",
+        "whencreated": "Tue, 05 Jul 2022 18:57:56 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:57:56 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/law-order",
+        "whencreated": "Tue, 03 Jan 2023 06:10:46 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:10:46 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/leave-it-to-beaver",
+        "whencreated": "Tue, 03 Jan 2023 06:10:41 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:10:41 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/leverage",
+        "whencreated": "Tue, 03 Jan 2023 06:10:36 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:10:36 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lie-to-me",
+        "whencreated": "Tue, 05 Jul 2022 18:58:20 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:58:20 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/loki",
+        "whencreated": "Tue, 03 Jan 2023 06:10:21 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:10:21 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-about-you",
+        "whencreated": "Tue, 05 Jul 2022 18:58:35 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:58:35 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mare-of-easttown/season-1",
+        "whencreated": "Tue, 03 Jan 2023 06:09:57 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:09:57 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-daredevil",
+        "whencreated": "Tue, 05 Jul 2022 18:58:47 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:58:47 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-iron-fist",
+        "whencreated": "Tue, 05 Jul 2022 18:58:54 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:58:54 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/medium/season-1/episode-1-pilot-438196",
+        "whencreated": "Tue, 03 Jan 2023 06:09:32 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:09:32 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/monk",
+        "whencreated": "Tue, 05 Jul 2022 18:59:12 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:59:12 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-bean",
+        "whencreated": "Tue, 05 Jul 2022 18:59:18 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:59:18 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ncis",
+        "whencreated": "Tue, 05 Jul 2022 18:59:30 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:59:30 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/new-girl",
+        "whencreated": "Tue, 03 Jan 2023 06:09:03 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:09:03 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/niptuck",
+        "whencreated": "Tue, 03 Jan 2023 06:08:52 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:08:52 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/nova",
+        "whencreated": "Tue, 05 Jul 2022 18:59:37 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 18:59:37 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/nurse-jackie",
+        "whencreated": "Tue, 03 Jan 2023 06:08:41 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:08:41 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/prime-suspect-uk",
+        "whencreated": "Tue, 05 Jul 2022 19:00:08 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:00:08 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/psych",
+        "whencreated": "Tue, 05 Jul 2022 19:00:11 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:01:09 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Tue, 03 Jan 2023 06:07:42 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:07:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Tue, 03 Jan 2023 06:07:15 GMT",
+        "whenmodified": "Tue, 03 Jan 2023 06:07:15 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek",
+        "whencreated": "Tue, 05 Jul 2022 19:01:35 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:01:35 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-deep-space-nine",
+        "whencreated": "Tue, 05 Jul 2022 19:01:13 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:01:13 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-discovery",
+        "whencreated": "Tue, 05 Jul 2022 19:01:19 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:01:19 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-enterprise",
+        "whencreated": "Tue, 05 Jul 2022 19:01:23 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:01:23 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-lower-decks",
+        "whencreated": "Tue, 05 Jul 2022 19:01:25 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:01:25 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-picard",
+        "whencreated": "Tue, 05 Jul 2022 19:01:28 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:01:28 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-the-next-generation",
+        "whencreated": "Tue, 05 Jul 2022 19:01:31 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:01:31 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-voyager",
+        "whencreated": "Tue, 05 Jul 2022 19:01:44 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:01:44 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stargate-atlantis",
+        "whencreated": "Tue, 05 Jul 2022 19:01:54 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:01:54 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stargate-sg-1",
+        "whencreated": "Tue, 05 Jul 2022 19:01:50 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:01:50 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stargate-universe",
+        "whencreated": "Tue, 05 Jul 2022 19:01:57 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:01:57 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Tue, 05 Jul 2022 19:02:05 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:02:05 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-alienist",
+        "whencreated": "Tue, 05 Jul 2022 19:02:16 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:02:16 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-blacklist",
+        "whencreated": "Tue, 05 Jul 2022 19:02:20 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:02:20 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-dresden-files",
+        "whencreated": "Tue, 05 Jul 2022 19:02:32 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:02:32 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-doctor",
+        "whencreated": "Tue, 05 Jul 2022 19:02:47 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:02:47 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-wife",
+        "whencreated": "Tue, 05 Jul 2022 19:02:49 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:02:49 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-killing",
+        "whencreated": "Tue, 05 Jul 2022 19:03:02 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:03:02 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-man-in-the-high-castle",
+        "whencreated": "Tue, 05 Jul 2022 19:06:47 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:06:47 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-mentalist",
+        "whencreated": "Tue, 05 Jul 2022 19:03:14 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:03:14 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-morning-show",
+        "whencreated": "Tue, 05 Jul 2022 19:06:29 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:06:29 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-newsroom",
+        "whencreated": "Tue, 05 Jul 2022 19:03:23 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:03:23 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office-uk",
+        "whencreated": "Tue, 05 Jul 2022 19:03:31 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:03:31 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sarah-jane-adventures",
+        "whencreated": "Tue, 05 Jul 2022 19:03:42 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:03:42 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-twilight-zone",
+        "whencreated": "Tue, 05 Jul 2022 19:06:03 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:06:03 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Tue, 05 Jul 2022 19:03:53 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:03:53 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-witcher",
+        "whencreated": "Tue, 05 Jul 2022 19:03:56 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:03:56 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-x-files",
+        "whencreated": "Tue, 05 Jul 2022 19:03:59 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:03:59 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/torchwood-uk",
+        "whencreated": "Tue, 05 Jul 2022 19:04:07 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:04:07 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/two-and-a-half-men",
+        "whencreated": "Tue, 05 Jul 2022 19:05:41 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:05:41 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/veronica-mars",
+        "whencreated": "Tue, 05 Jul 2022 19:04:35 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:04:35 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Tue, 05 Jul 2022 19:04:55 GMT",
+        "whenmodified": "Tue, 05 Jul 2022 19:04:55 GMT"
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/atlanta",
+        "whencreated": "Sat, 10 Jul 2021 00:42:22 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:42:22 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/band-of-brothers",
+        "whencreated": "Sat, 10 Jul 2021 00:41:22 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:41:22 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/barry",
+        "whencreated": "Sat, 10 Jul 2021 00:42:33 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:42:33 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Sat, 10 Jul 2021 00:41:33 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:41:33 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Sat, 10 Jul 2021 00:41:36 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:41:36 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/big-little-lies",
+        "whencreated": "Sat, 10 Jul 2021 00:43:32 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:43:32 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/big-love",
+        "whencreated": "Sat, 10 Jul 2021 00:44:12 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:44:12 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Sat, 10 Jul 2021 00:42:58 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:42:58 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bosch",
+        "whencreated": "Sat, 10 Jul 2021 00:43:36 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:43:36 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Sat, 10 Jul 2021 00:41:01 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:41:01 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Sat, 10 Jul 2021 00:41:16 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:41:16 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Sat, 10 Jul 2021 00:41:04 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:41:04 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/generation-kill",
+        "whencreated": "Sat, 10 Jul 2021 00:47:10 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:47:10 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-cards-2013",
+        "whencreated": "Sat, 10 Jul 2021 00:44:38 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:44:38 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ice-road-truckers",
+        "whencreated": "Sat, 10 Jul 2021 00:47:39 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:47:39 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/killing-eve",
+        "whencreated": "Sat, 10 Jul 2021 00:43:18 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:43:18 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Sat, 10 Jul 2021 00:41:28 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:41:28 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mindhunter",
+        "whencreated": "Sat, 10 Jul 2021 00:42:37 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:42:37 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-mercedes",
+        "whencreated": "Sat, 10 Jul 2021 00:48:21 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:48:21 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Sat, 10 Jul 2021 00:43:28 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:43:28 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/orange-is-the-new-black",
+        "whencreated": "Sat, 10 Jul 2021 00:48:32 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:48:32 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ozark",
+        "whencreated": "Sat, 10 Jul 2021 00:43:07 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:43:07 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/parks-and-recreation",
+        "whencreated": "Sat, 10 Jul 2021 00:41:39 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:41:39 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/peaky-blinders",
+        "whencreated": "Sat, 10 Jul 2021 00:48:40 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:48:40 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/project-runway",
+        "whencreated": "Sat, 10 Jul 2021 00:48:49 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:48:49 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Sat, 10 Jul 2021 00:49:04 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:49:04 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sex-and-the-city",
+        "whencreated": "Sat, 10 Jul 2021 00:49:08 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:49:08 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Sat, 10 Jul 2021 00:49:13 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:49:13 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/silicon-valley",
+        "whencreated": "Sat, 10 Jul 2021 00:49:16 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:49:16 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/six-feet-under",
+        "whencreated": "Sat, 10 Jul 2021 00:42:39 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:42:39 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/south-park",
+        "whencreated": "Sat, 10 Jul 2021 00:49:22 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:49:22 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-americans",
+        "whencreated": "Sat, 10 Jul 2021 00:41:20 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:41:20 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-boys",
+        "whencreated": "Sat, 10 Jul 2021 00:49:47 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:49:47 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-expanse",
+        "whencreated": "Sat, 10 Jul 2021 00:41:41 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:41:41 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-little-drummer-girl",
+        "whencreated": "Sat, 10 Jul 2021 00:50:12 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:50:12 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-mandalorian",
+        "whencreated": "Sat, 10 Jul 2021 00:50:27 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:50:27 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-night-manager",
+        "whencreated": "Sat, 10 Jul 2021 00:42:42 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:42:42 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-simpsons",
+        "whencreated": "Sat, 10 Jul 2021 00:43:14 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:43:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Sat, 10 Jul 2021 00:50:42 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:50:42 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Sat, 10 Jul 2021 00:50:48 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:50:48 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Sat, 10 Jul 2021 00:40:58 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:40:58 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/top-chef",
+        "whencreated": "Sat, 10 Jul 2021 00:51:02 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:51:02 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/trailer-park-boys",
+        "whencreated": "Sat, 10 Jul 2021 00:50:57 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:50:57 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/true-blood",
+        "whencreated": "Sat, 10 Jul 2021 00:51:06 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:51:06 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/true-detective",
+        "whencreated": "Sat, 10 Jul 2021 00:43:46 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:43:48 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/v",
+        "whencreated": "Sat, 10 Jul 2021 00:51:17 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:51:17 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/vikings",
+        "whencreated": "Sat, 10 Jul 2021 00:43:55 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:43:55 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/watchmen-2019",
+        "whencreated": "Sat, 10 Jul 2021 00:41:18 GMT",
+        "whenmodified": "Sat, 10 Jul 2021 00:41:18 GMT"
+    }
+]

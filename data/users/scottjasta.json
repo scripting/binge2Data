@@ -1,0 +1,58 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/andromeda",
+        "whencreated": "Sat, 27 Nov 2021 19:58:07 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 19:58:09 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/downton-abbey",
+        "whencreated": "Sat, 27 Nov 2021 20:04:19 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 20:04:19 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/halt-and-catch-fire",
+        "whencreated": "Sat, 27 Nov 2021 20:04:56 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 20:04:56 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/happy-valley",
+        "whencreated": "Sat, 27 Nov 2021 20:05:26 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 20:05:26 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/line-of-duty",
+        "whencreated": "Sat, 27 Nov 2021 20:06:09 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 20:06:09 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/luther",
+        "whencreated": "Sat, 27 Nov 2021 20:06:14 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 20:06:14 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Sat, 27 Nov 2021 20:06:42 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 20:06:42 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/real-time-with-bill-maher",
+        "whencreated": "Sat, 27 Nov 2021 20:09:03 GMT",
+        "whenmodified": "Sat, 27 Nov 2021 20:09:03 GMT"
+    }
+]

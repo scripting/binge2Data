@@ -1,0 +1,72 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bosch",
+        "whencreated": "Mon, 17 Aug 2020 03:21:48 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 03:21:48 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/broadchurch",
+        "whencreated": "Mon, 17 Aug 2020 03:22:01 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 03:22:01 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Mon, 17 Aug 2020 03:22:11 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 03:22:11 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dark",
+        "whencreated": "Mon, 17 Aug 2020 03:22:19 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 03:22:19 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dead-like-me",
+        "whencreated": "Mon, 17 Aug 2020 03:24:37 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 03:24:37 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fargo",
+        "whencreated": "Mon, 17 Aug 2020 03:22:27 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 03:22:27 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/justified",
+        "whencreated": "Mon, 17 Aug 2020 03:24:15 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 03:24:15 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Mon, 17 Aug 2020 03:23:15 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 03:23:15 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mindhunter",
+        "whencreated": "Mon, 17 Aug 2020 03:23:25 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 03:23:25 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-expanse",
+        "whencreated": "Mon, 17 Aug 2020 03:23:52 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 03:23:52 GMT"
+    }
+]

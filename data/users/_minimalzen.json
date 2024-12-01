@@ -1,0 +1,72 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/babylon-5",
+        "whencreated": "Sun, 02 Oct 2022 00:52:23 GMT",
+        "whenmodified": "Sun, 02 Oct 2022 00:52:23 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Sun, 02 Oct 2022 00:52:10 GMT",
+        "whenmodified": "Sun, 02 Oct 2022 00:52:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/blindspot",
+        "whencreated": "Sun, 02 Oct 2022 00:52:44 GMT",
+        "whenmodified": "Sun, 02 Oct 2022 00:52:44 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/burn-notice",
+        "whencreated": "Sun, 02 Oct 2022 00:53:14 GMT",
+        "whenmodified": "Sun, 02 Oct 2022 00:53:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chuck",
+        "whencreated": "Sun, 02 Oct 2022 00:53:26 GMT",
+        "whenmodified": "Sun, 02 Oct 2022 00:53:26 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/doctor-who",
+        "whencreated": "Sun, 02 Oct 2022 00:53:43 GMT",
+        "whenmodified": "Sun, 02 Oct 2022 00:53:43 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/farscape",
+        "whencreated": "Sun, 02 Oct 2022 00:53:58 GMT",
+        "whenmodified": "Sun, 02 Oct 2022 00:53:58 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Sun, 02 Oct 2022 00:54:05 GMT",
+        "whenmodified": "Sun, 02 Oct 2022 00:54:05 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/harley-quinn",
+        "whencreated": "Sun, 02 Oct 2022 00:54:31 GMT",
+        "whenmodified": "Sun, 02 Oct 2022 00:54:31 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-cards-2013",
+        "whencreated": "Sun, 02 Oct 2022 00:54:41 GMT",
+        "whenmodified": "Sun, 02 Oct 2022 00:54:41 GMT"
+    }
+]

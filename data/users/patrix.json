@@ -1,0 +1,37 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/hanna-2019",
+        "whencreated": "Fri, 03 Dec 2021 21:40:00 GMT",
+        "whenmodified": "Fri, 03 Dec 2021 21:40:00 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/hannibal",
+        "whencreated": "Fri, 03 Dec 2021 21:40:08 GMT",
+        "whenmodified": "Fri, 03 Dec 2021 21:40:08 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/home-before-dark",
+        "whencreated": "Fri, 03 Dec 2021 21:40:15 GMT",
+        "whenmodified": "Fri, 03 Dec 2021 21:40:15 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/homeland",
+        "whencreated": "Fri, 03 Dec 2021 21:40:17 GMT",
+        "whenmodified": "Fri, 03 Dec 2021 21:40:17 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/how-i-met-your-mother",
+        "whencreated": "Fri, 03 Dec 2021 21:40:28 GMT",
+        "whenmodified": "Fri, 03 Dec 2021 21:40:28 GMT"
+    }
+]

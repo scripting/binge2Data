@@ -1,0 +1,58 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/american-gods",
+        "whencreated": "Fri, 04 Sep 2020 00:19:16 GMT",
+        "whenmodified": "Fri, 04 Sep 2020 00:19:16 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Fri, 04 Sep 2020 00:21:43 GMT",
+        "whenmodified": "Fri, 04 Sep 2020 00:21:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/gotham",
+        "whencreated": "Fri, 04 Sep 2020 00:21:36 GMT",
+        "whenmodified": "Fri, 04 Sep 2020 00:21:36 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/legion",
+        "whencreated": "Fri, 04 Sep 2020 00:21:21 GMT",
+        "whenmodified": "Fri, 04 Sep 2020 00:21:21 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Fri, 04 Sep 2020 00:19:33 GMT",
+        "whenmodified": "Fri, 04 Sep 2020 00:19:33 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-discovery",
+        "whencreated": "Fri, 04 Sep 2020 00:20:09 GMT",
+        "whenmodified": "Fri, 04 Sep 2020 00:20:09 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-umbrella-academy",
+        "whencreated": "Fri, 04 Sep 2020 00:20:43 GMT",
+        "whenmodified": "Fri, 04 Sep 2020 00:20:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Fri, 04 Sep 2020 00:20:56 GMT",
+        "whenmodified": "Fri, 04 Sep 2020 00:20:56 GMT"
+    }
+]

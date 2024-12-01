@@ -1,0 +1,37 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/atlanta",
+        "whencreated": "Sun, 23 Aug 2020 17:18:00 GMT",
+        "whenmodified": "Sun, 23 Aug 2020 17:18:00 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Sun, 23 Aug 2020 17:19:17 GMT",
+        "whenmodified": "Sun, 23 Aug 2020 17:19:17 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-americans",
+        "whencreated": "Sun, 23 Aug 2020 17:18:27 GMT",
+        "whenmodified": "Sun, 23 Aug 2020 17:18:27 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Sun, 23 Aug 2020 17:18:42 GMT",
+        "whenmodified": "Sun, 23 Aug 2020 17:18:42 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/watchmen-2019",
+        "whencreated": "Sun, 23 Aug 2020 17:18:54 GMT",
+        "whenmodified": "Sun, 23 Aug 2020 17:18:54 GMT"
+    }
+]

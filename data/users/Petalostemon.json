@@ -1,0 +1,51 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Wed, 09 Dec 2020 14:16:15 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 14:16:15 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Wed, 09 Dec 2020 14:16:47 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 14:16:47 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fargo",
+        "whencreated": "Wed, 09 Dec 2020 14:17:31 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 14:17:31 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/legion",
+        "whencreated": "Wed, 09 Dec 2020 14:17:14 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 14:17:14 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/orphan-black",
+        "whencreated": "Wed, 09 Dec 2020 14:15:08 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 14:15:08 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-queens-gambit",
+        "whencreated": "Wed, 09 Dec 2020 14:18:42 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 14:18:42 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/true-detective",
+        "whencreated": "Wed, 09 Dec 2020 14:18:10 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 14:18:10 GMT"
+    }
+]

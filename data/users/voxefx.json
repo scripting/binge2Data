@@ -1,0 +1,548 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/altered-carbon",
+        "whencreated": "Mon, 29 Nov 2021 22:47:45 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:47:45 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/anthony-bourdain-no-reservations",
+        "whencreated": "Mon, 29 Nov 2021 22:47:55 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:47:55 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/atlanta",
+        "whencreated": "Mon, 29 Nov 2021 23:10:29 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 23:10:29 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/barry",
+        "whencreated": "Mon, 29 Nov 2021 22:56:36 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:56:36 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Mon, 29 Nov 2021 22:48:06 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:48:06 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Mon, 29 Nov 2021 22:48:21 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:48:21 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/boardwalk-empire",
+        "whencreated": "Mon, 29 Nov 2021 22:48:30 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:48:30 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Mon, 29 Nov 2021 22:48:36 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:48:36 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/broadchurch",
+        "whencreated": "Mon, 29 Nov 2021 22:48:40 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:48:40 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/brooklyn-nine-nine",
+        "whencreated": "Mon, 29 Nov 2021 22:56:56 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:56:56 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Mon, 29 Nov 2021 22:48:52 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:48:52 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dark",
+        "whencreated": "Mon, 29 Nov 2021 22:49:12 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:49:12 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/deadwood",
+        "whencreated": "Mon, 29 Nov 2021 22:57:17 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:57:17 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dexter",
+        "whencreated": "Mon, 29 Nov 2021 22:49:22 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:49:22 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dollhouse",
+        "whencreated": "Mon, 29 Nov 2021 22:49:29 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:49:29 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/elementary",
+        "whencreated": "Mon, 29 Nov 2021 22:49:35 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:49:35 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/euphoria",
+        "whencreated": "Mon, 29 Nov 2021 22:57:34 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:57:34 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fargo",
+        "whencreated": "Mon, 29 Nov 2021 22:49:42 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:49:42 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/foundation",
+        "whencreated": "Mon, 29 Nov 2021 22:57:45 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:57:45 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fringe",
+        "whencreated": "Mon, 29 Nov 2021 22:49:53 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:49:53 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Mon, 29 Nov 2021 22:57:54 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:57:54 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/godless",
+        "whencreated": "Mon, 29 Nov 2021 22:58:02 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:58:02 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/hannibal",
+        "whencreated": "Mon, 29 Nov 2021 22:50:08 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:50:08 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/hill-street-blues",
+        "whencreated": "Mon, 29 Nov 2021 22:50:14 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:50:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/his-dark-materials",
+        "whencreated": "Mon, 29 Nov 2021 22:58:17 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:58:17 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/homeland",
+        "whencreated": "Mon, 29 Nov 2021 22:58:21 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:58:21 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-cards",
+        "whencreated": "Mon, 29 Nov 2021 22:50:18 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:50:23 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-cards-2013",
+        "whencreated": "Mon, 29 Nov 2021 22:50:27 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:50:27 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/killing-eve",
+        "whencreated": "Mon, 29 Nov 2021 22:50:40 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:50:40 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/legion",
+        "whencreated": "Mon, 29 Nov 2021 22:58:46 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:58:46 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lie-to-me",
+        "whencreated": "Mon, 29 Nov 2021 22:50:47 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:50:47 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/loki",
+        "whencreated": "Mon, 29 Nov 2021 22:50:57 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:50:57 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lovecraft-country",
+        "whencreated": "Mon, 29 Nov 2021 22:51:03 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:51:06 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/luther",
+        "whencreated": "Mon, 29 Nov 2021 22:59:02 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:59:02 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Mon, 29 Nov 2021 22:51:12 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:51:12 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marco-polo-2014",
+        "whencreated": "Mon, 29 Nov 2021 22:51:16 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:51:16 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mare-of-easttown/season-1",
+        "whencreated": "Mon, 29 Nov 2021 22:59:13 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:59:13 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-luke-cage",
+        "whencreated": "Mon, 29 Nov 2021 22:51:22 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:51:22 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-what-if/season-1",
+        "whencreated": "Mon, 29 Nov 2021 22:51:25 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:51:25 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mash",
+        "whencreated": "Mon, 29 Nov 2021 22:59:06 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:59:06 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mindhunter",
+        "whencreated": "Mon, 29 Nov 2021 22:59:26 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:59:26 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Mon, 29 Nov 2021 22:51:41 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:51:41 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/perry-mason-2020",
+        "whencreated": "Mon, 29 Nov 2021 22:52:03 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:52:03 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/pushing-daisies",
+        "whencreated": "Mon, 29 Nov 2021 22:52:10 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:52:13 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/raised-by-wolves",
+        "whencreated": "Mon, 29 Nov 2021 22:52:16 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:52:16 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/rome",
+        "whencreated": "Mon, 29 Nov 2021 23:00:22 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 23:00:22 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/russian-doll",
+        "whencreated": "Mon, 29 Nov 2021 23:00:30 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 23:00:30 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/scandal",
+        "whencreated": "Mon, 29 Nov 2021 23:00:35 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 23:00:35 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/see",
+        "whencreated": "Mon, 29 Nov 2021 23:00:39 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 23:02:08 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sharp-objects",
+        "whencreated": "Mon, 29 Nov 2021 22:52:31 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:52:31 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Mon, 29 Nov 2021 22:52:33 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:52:33 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/spartacus-blood-and-sand",
+        "whencreated": "Mon, 29 Nov 2021 22:52:41 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:52:41 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/squid-game",
+        "whencreated": "Mon, 29 Nov 2021 22:52:45 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:52:45 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-discovery",
+        "whencreated": "Mon, 29 Nov 2021 22:52:49 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:52:49 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Mon, 29 Nov 2021 22:52:56 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:52:56 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/succession",
+        "whencreated": "Mon, 29 Nov 2021 22:53:00 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:53:00 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/taboo",
+        "whencreated": "Mon, 29 Nov 2021 22:53:04 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:53:04 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-alienist",
+        "whencreated": "Mon, 29 Nov 2021 22:53:11 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:53:11 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-beatles-get-back",
+        "whencreated": "Mon, 29 Nov 2021 22:53:14 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:53:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-falcon-and-the-winter-soldier",
+        "whencreated": "Mon, 29 Nov 2021 22:53:26 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:53:26 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-get-down",
+        "whencreated": "Mon, 29 Nov 2021 22:53:32 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:53:32 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-lord-bird/season-1",
+        "whencreated": "Mon, 29 Nov 2021 22:53:37 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:53:37 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-handmaids-tale",
+        "whencreated": "Mon, 29 Nov 2021 22:53:40 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:53:40 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-little-drummer-girl",
+        "whencreated": "Mon, 29 Nov 2021 22:53:47 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:53:47 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-mandalorian",
+        "whencreated": "Mon, 29 Nov 2021 22:53:51 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:53:51 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-mentalist",
+        "whencreated": "Mon, 29 Nov 2021 22:53:56 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:53:56 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-morning-show",
+        "whencreated": "Mon, 29 Nov 2021 23:05:38 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 23:05:38 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-oa",
+        "whencreated": "Mon, 29 Nov 2021 22:54:03 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:54:03 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-queens-gambit",
+        "whencreated": "Mon, 29 Nov 2021 22:54:17 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:54:17 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Mon, 29 Nov 2021 22:54:25 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:54:25 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-umbrella-academy",
+        "whencreated": "Mon, 29 Nov 2021 22:54:33 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:54:33 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Mon, 29 Nov 2021 22:54:39 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:54:39 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/true-blood",
+        "whencreated": "Mon, 29 Nov 2021 22:54:51 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:54:51 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/true-detective",
+        "whencreated": "Mon, 29 Nov 2021 22:54:53 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:54:53 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/vikings",
+        "whencreated": "Mon, 29 Nov 2021 22:55:05 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:55:05 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/wandavision",
+        "whencreated": "Mon, 29 Nov 2021 22:55:10 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:55:10 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/watchmen-2019",
+        "whencreated": "Mon, 29 Nov 2021 22:55:15 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 22:55:15 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Mon, 29 Nov 2021 23:06:23 GMT",
+        "whenmodified": "Mon, 29 Nov 2021 23:06:23 GMT"
+    }
+]

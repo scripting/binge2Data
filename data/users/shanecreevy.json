@@ -1,0 +1,240 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/arrested-development",
+        "whencreated": "Wed, 09 Dec 2020 15:41:14 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:41:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/atypical",
+        "whencreated": "Wed, 09 Dec 2020 15:41:18 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:41:18 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Wed, 09 Dec 2020 15:41:33 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:41:33 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/californication",
+        "whencreated": "Wed, 09 Dec 2020 15:41:00 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:41:00 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/designated-survivor",
+        "whencreated": "Wed, 09 Dec 2020 15:42:00 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:42:00 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/entourage",
+        "whencreated": "Wed, 09 Dec 2020 15:42:11 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:42:11 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fargo",
+        "whencreated": "Wed, 09 Dec 2020 15:42:16 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:42:16 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/father-ted",
+        "whencreated": "Wed, 09 Dec 2020 15:42:18 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:42:18 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Wed, 09 Dec 2020 15:42:26 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:42:26 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/frasier",
+        "whencreated": "Wed, 09 Dec 2020 15:42:30 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:42:30 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/homeland",
+        "whencreated": "Wed, 09 Dec 2020 15:42:50 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:42:50 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/its-always-sunny-in-philadelphia",
+        "whencreated": "Wed, 09 Dec 2020 15:43:03 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:43:03 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/last-week-tonight-with-john-oliver",
+        "whencreated": "Wed, 09 Dec 2020 15:43:11 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:43:11 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lost",
+        "whencreated": "Wed, 09 Dec 2020 15:40:28 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:40:28 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/luther",
+        "whencreated": "Wed, 09 Dec 2020 15:43:37 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:43:39 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Wed, 09 Dec 2020 15:43:43 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:43:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mindhunter",
+        "whencreated": "Wed, 09 Dec 2020 15:40:42 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:40:42 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/modern-family",
+        "whencreated": "Wed, 09 Dec 2020 15:40:39 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:40:39 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Wed, 09 Dec 2020 15:40:47 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:40:47 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/narcos",
+        "whencreated": "Wed, 09 Dec 2020 15:40:54 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:40:54 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ozark",
+        "whencreated": "Wed, 09 Dec 2020 15:44:12 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:44:12 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/peaky-blinders",
+        "whencreated": "Wed, 09 Dec 2020 15:44:16 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:44:16 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/scrubs",
+        "whencreated": "Wed, 09 Dec 2020 15:44:37 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:44:37 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Wed, 09 Dec 2020 15:44:39 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:44:39 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sex-education",
+        "whencreated": "Wed, 09 Dec 2020 15:44:43 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:44:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-fight",
+        "whencreated": "Wed, 09 Dec 2020 15:45:15 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:45:15 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-place",
+        "whencreated": "Wed, 09 Dec 2020 15:45:18 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:45:18 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-wife",
+        "whencreated": "Wed, 09 Dec 2020 15:45:20 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:45:20 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-people-v-oj-simpson-american-crime-story",
+        "whencreated": "Wed, 09 Dec 2020 15:45:39 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:45:39 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-simpsons",
+        "whencreated": "Wed, 09 Dec 2020 15:45:50 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:45:50 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Wed, 09 Dec 2020 15:45:52 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:45:52 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Wed, 09 Dec 2020 15:45:59 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:45:59 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Wed, 09 Dec 2020 15:46:02 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:46:02 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-x-files",
+        "whencreated": "Wed, 09 Dec 2020 15:46:04 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 15:46:04 GMT"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/avenue-5",
+        "whencreated": "Mon, 22 Aug 2022 12:04:01 GMT",
+        "whenmodified": "Mon, 22 Aug 2022 12:04:01 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Mon, 22 Aug 2022 12:05:54 GMT",
+        "whenmodified": "Mon, 22 Aug 2022 12:05:54 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-the-dragon/season-1",
+        "whencreated": "Mon, 22 Aug 2022 12:04:41 GMT",
+        "whenmodified": "Mon, 22 Aug 2022 12:04:50 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/orphan-black",
+        "whencreated": "Mon, 22 Aug 2022 12:05:29 GMT",
+        "whenmodified": "Mon, 22 Aug 2022 12:05:29 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-expanse",
+        "whencreated": "Mon, 22 Aug 2022 12:06:06 GMT",
+        "whenmodified": "Mon, 22 Aug 2022 12:06:06 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office-uk",
+        "whencreated": "Mon, 22 Aug 2022 12:06:13 GMT",
+        "whenmodified": "Mon, 22 Aug 2022 12:06:13 GMT"
+    }
+]

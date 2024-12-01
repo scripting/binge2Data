@@ -1,0 +1,79 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/arrested-development",
+        "whencreated": "Thu, 10 Dec 2020 18:12:01 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 18:12:01 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Thu, 10 Dec 2020 18:11:47 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 18:11:47 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fringe",
+        "whencreated": "Thu, 10 Dec 2020 18:12:27 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 18:12:27 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Thu, 10 Dec 2020 18:11:45 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 18:11:45 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Thu, 10 Dec 2020 18:11:51 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 18:11:51 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/parks-and-recreation",
+        "whencreated": "Thu, 10 Dec 2020 18:11:55 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 18:11:55 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/succession",
+        "whencreated": "Thu, 10 Dec 2020 18:11:34 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 18:11:34 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-americans",
+        "whencreated": "Thu, 10 Dec 2020 18:11:36 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 18:11:36 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-place",
+        "whencreated": "Thu, 10 Dec 2020 18:11:57 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 18:11:57 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Thu, 10 Dec 2020 18:11:27 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 18:11:27 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/watchmen-2019",
+        "whencreated": "Thu, 10 Dec 2020 18:11:24 GMT",
+        "whenmodified": "Thu, 10 Dec 2020 18:11:24 GMT"
+    }
+]

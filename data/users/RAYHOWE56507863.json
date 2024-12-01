@@ -1,0 +1,23 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/shameless-uk",
+        "whencreated": "Sun, 16 Aug 2020 19:43:01 GMT",
+        "whenmodified": "Sun, 16 Aug 2020 19:43:01 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Sun, 16 Aug 2020 19:44:32 GMT",
+        "whenmodified": "Sun, 16 Aug 2020 19:44:37 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Sun, 16 Aug 2020 19:44:44 GMT",
+        "whenmodified": "Sun, 16 Aug 2020 19:44:45 GMT"
+    }
+]

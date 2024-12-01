@@ -1,0 +1,30 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/severance",
+        "whencreated": "Mon, 11 Apr 2022 17:27:29 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 17:27:29 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sports-night",
+        "whencreated": "Mon, 11 Apr 2022 17:29:42 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 17:29:42 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Mon, 11 Apr 2022 17:29:05 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 17:29:05 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-queens-gambit",
+        "whencreated": "Mon, 11 Apr 2022 17:29:15 GMT",
+        "whenmodified": "Mon, 11 Apr 2022 17:29:15 GMT"
+    }
+]

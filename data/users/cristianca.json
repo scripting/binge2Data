@@ -1,0 +1,366 @@
+[
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/24",
+        "whencreated": "Sat, 24 Dec 2022 19:44:20 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:44:20 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/3rd-rock-from-the-sun",
+        "whencreated": "Sat, 24 Dec 2022 19:42:03 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:42:03 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/american-gods",
+        "whencreated": "Sat, 24 Dec 2022 19:43:13 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:43:13 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/babylon-5",
+        "whencreated": "Sat, 24 Dec 2022 19:37:51 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:37:51 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Sat, 24 Dec 2022 19:37:57 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:37:57 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Sat, 24 Dec 2022 19:37:28 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:37:28 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/buffy-the-vampire-slayer",
+        "whencreated": "Sat, 24 Dec 2022 19:44:37 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:44:37 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/californication",
+        "whencreated": "Sat, 24 Dec 2022 19:43:25 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:43:25 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Sat, 24 Dec 2022 19:37:19 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:37:19 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/criminal-minds",
+        "whencreated": "Sat, 24 Dec 2022 19:43:43 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:43:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/designated-survivor",
+        "whencreated": "Sat, 24 Dec 2022 19:43:47 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:43:47 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fargo",
+        "whencreated": "Sat, 24 Dec 2022 19:38:02 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:38:02 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/gilmore-girls",
+        "whencreated": "Sat, 24 Dec 2022 19:41:03 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:41:03 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/good-omens",
+        "whencreated": "Sat, 24 Dec 2022 19:44:44 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:44:44 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/hannibal",
+        "whencreated": "Sat, 24 Dec 2022 19:40:41 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:40:41 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/heroes",
+        "whencreated": "Sat, 24 Dec 2022 19:44:15 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:44:15 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-cards",
+        "whencreated": "Sat, 24 Dec 2022 19:41:25 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:41:25 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lucifer",
+        "whencreated": "Sat, 24 Dec 2022 19:44:23 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:44:23 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mash",
+        "whencreated": "Sat, 24 Dec 2022 19:38:38 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:38:38 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/modern-family",
+        "whencreated": "Sat, 24 Dec 2022 19:41:51 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:41:51 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ozark",
+        "whencreated": "Sat, 24 Dec 2022 19:40:47 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:40:47 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/rick-morty",
+        "whencreated": "Sat, 24 Dec 2022 19:40:31 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:40:31 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/scandal",
+        "whencreated": "Sat, 24 Dec 2022 19:43:59 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:43:59 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Sat, 24 Dec 2022 19:38:29 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:38:29 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sense8",
+        "whencreated": "Sat, 24 Dec 2022 19:41:54 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:41:54 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Sat, 24 Dec 2022 19:38:22 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:38:26 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/silicon-valley",
+        "whencreated": "Sat, 24 Dec 2022 19:38:47 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:38:47 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/six-feet-under",
+        "whencreated": "Sat, 24 Dec 2022 19:38:50 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:38:50 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek",
+        "whencreated": "Sat, 24 Dec 2022 19:41:10 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:41:10 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-deep-space-nine",
+        "whencreated": "Sat, 24 Dec 2022 19:41:16 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:41:16 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-discovery",
+        "whencreated": "Sat, 24 Dec 2022 19:41:34 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:41:34 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-picard",
+        "whencreated": "Sat, 24 Dec 2022 19:41:36 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:41:36 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-the-next-generation",
+        "whencreated": "Sat, 24 Dec 2022 19:37:44 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:37:44 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-voyager",
+        "whencreated": "Sat, 24 Dec 2022 19:42:44 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:42:44 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stargate-atlantis",
+        "whencreated": "Sat, 24 Dec 2022 19:42:07 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:42:07 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Sat, 24 Dec 2022 19:38:16 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:38:16 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Sat, 24 Dec 2022 19:37:23 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:37:23 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-big-bang-theory",
+        "whencreated": "Sat, 24 Dec 2022 19:44:10 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:44:10 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-blacklist",
+        "whencreated": "Sat, 24 Dec 2022 19:43:22 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:43:22 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-hitch-hikers-guide-to-the-galaxy",
+        "whencreated": "Sat, 24 Dec 2022 19:40:37 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:40:37 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-it-crowd-uk",
+        "whencreated": "Sat, 24 Dec 2022 19:38:41 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:38:41 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-man-in-the-high-castle",
+        "whencreated": "Sat, 24 Dec 2022 19:41:48 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:41:48 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-mandalorian",
+        "whencreated": "Sat, 24 Dec 2022 19:38:54 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:38:58 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-oa",
+        "whencreated": "Sat, 24 Dec 2022 19:41:57 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:41:57 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-orville",
+        "whencreated": "Sat, 24 Dec 2022 19:41:40 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:41:40 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Sat, 24 Dec 2022 19:37:31 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:37:31 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-twilight-zone",
+        "whencreated": "Sat, 24 Dec 2022 19:37:53 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:37:53 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-walking-dead",
+        "whencreated": "Sat, 24 Dec 2022 19:44:07 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:44:07 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-x-files",
+        "whencreated": "Sat, 24 Dec 2022 19:41:08 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:41:08 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/true-blood",
+        "whencreated": "Sat, 24 Dec 2022 19:44:16 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:44:16 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/twin-peaks",
+        "whencreated": "Sat, 24 Dec 2022 19:38:32 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:38:32 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/under-the-dome",
+        "whencreated": "Sat, 24 Dec 2022 19:43:55 GMT",
+        "whenmodified": "Sat, 24 Dec 2022 19:43:55 GMT"
+    }
+]

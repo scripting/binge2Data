@@ -1,0 +1,44 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/babylon-5",
+        "whencreated": "Tue, 30 Nov 2021 13:18:09 GMT",
+        "whenmodified": "Tue, 30 Nov 2021 13:18:09 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Tue, 30 Nov 2021 13:18:35 GMT",
+        "whenmodified": "Tue, 30 Nov 2021 13:18:35 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Tue, 30 Nov 2021 13:18:38 GMT",
+        "whenmodified": "Tue, 30 Nov 2021 13:18:38 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/for-all-mankind",
+        "whencreated": "Tue, 17 May 2022 22:03:34 GMT",
+        "whenmodified": "Tue, 17 May 2022 22:03:34 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Tue, 30 Nov 2021 13:18:32 GMT",
+        "whenmodified": "Tue, 30 Nov 2021 13:18:32 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Tue, 30 Nov 2021 13:18:24 GMT",
+        "whenmodified": "Tue, 30 Nov 2021 13:18:24 GMT"
+    }
+]

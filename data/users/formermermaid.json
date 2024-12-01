@@ -1,0 +1,23 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/broadchurch",
+        "whencreated": "Wed, 09 Dec 2020 23:17:17 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 23:17:17 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/humans",
+        "whencreated": "Wed, 09 Dec 2020 23:16:55 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 23:16:55 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/watchmen-2019",
+        "whencreated": "Wed, 09 Dec 2020 23:18:16 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 23:18:16 GMT"
+    }
+]

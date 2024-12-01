@@ -1,0 +1,380 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/30-rock",
+        "whencreated": "Wed, 04 Jan 2023 21:23:36 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:23:36 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/adventure-time",
+        "whencreated": "Wed, 04 Jan 2023 21:23:29 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:23:29 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ash-vs-evil-dead",
+        "whencreated": "Wed, 04 Jan 2023 21:23:04 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:23:04 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/big-love",
+        "whencreated": "Wed, 04 Jan 2023 21:22:27 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:22:27 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bojack-horseman",
+        "whencreated": "Wed, 04 Jan 2023 21:22:12 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:22:12 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/borgen",
+        "whencreated": "Wed, 04 Jan 2023 21:22:08 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:22:08 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/broad-city",
+        "whencreated": "Wed, 04 Jan 2023 21:22:01 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:22:01 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/community",
+        "whencreated": "Wed, 04 Jan 2023 21:21:22 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:21:22 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/criminal-minds",
+        "whencreated": "Wed, 04 Jan 2023 21:21:15 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:21:15 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/deadwood",
+        "whencreated": "Wed, 04 Jan 2023 21:20:48 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:20:48 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/elementary",
+        "whencreated": "Wed, 04 Jan 2023 21:20:25 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:20:25 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/episodes-us",
+        "whencreated": "Wed, 04 Jan 2023 21:20:21 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:20:21 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/f-is-for-family",
+        "whencreated": "Wed, 04 Jan 2023 21:20:12 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:20:12 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/family-guy",
+        "whencreated": "Wed, 04 Jan 2023 21:20:06 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:20:06 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/father-ted",
+        "whencreated": "Wed, 04 Jan 2023 21:20:03 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:20:03 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/flight-of-the-conchords",
+        "whencreated": "Wed, 04 Jan 2023 21:19:50 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:19:50 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/futurama",
+        "whencreated": "Wed, 04 Jan 2023 21:19:35 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:19:35 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/halt-and-catch-fire",
+        "whencreated": "Wed, 04 Jan 2023 21:19:09 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:19:09 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/hannibal",
+        "whencreated": "Wed, 04 Jan 2023 21:18:55 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:18:55 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-cards",
+        "whencreated": "Wed, 04 Jan 2023 21:18:39 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:18:39 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/its-garry-shandlings-show",
+        "whencreated": "Wed, 04 Jan 2023 21:18:02 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:18:02 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/justified",
+        "whencreated": "Wed, 04 Jan 2023 21:17:46 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:17:46 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/king-of-the-hill",
+        "whencreated": "Wed, 04 Jan 2023 21:17:34 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:17:34 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/longmire",
+        "whencreated": "Wed, 04 Jan 2023 21:16:00 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:16:00 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/louie",
+        "whencreated": "Wed, 04 Jan 2023 21:15:55 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:15:55 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mike-judges-beavis-and-butt-head",
+        "whencreated": "Wed, 04 Jan 2023 21:15:22 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:15:22 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/monk",
+        "whencreated": "Wed, 04 Jan 2023 21:15:15 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:15:15 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/nurse-jackie",
+        "whencreated": "Wed, 04 Jan 2023 21:28:00 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:28:00 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/pen15",
+        "whencreated": "Wed, 04 Jan 2023 21:14:23 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:14:23 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/portlandia",
+        "whencreated": "Wed, 04 Jan 2023 21:14:16 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:14:16 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/reno-911!",
+        "whencreated": "Wed, 04 Jan 2023 21:13:50 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:13:50 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ripper-street",
+        "whencreated": "Wed, 04 Jan 2023 21:13:42 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:13:42 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/rome",
+        "whencreated": "Wed, 04 Jan 2023 21:13:39 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:13:39 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Wed, 04 Jan 2023 21:24:57 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:24:57 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/silicon-valley",
+        "whencreated": "Wed, 04 Jan 2023 21:13:18 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:13:18 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/south-park",
+        "whencreated": "Wed, 04 Jan 2023 21:13:10 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:13:10 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/strangers-with-candy",
+        "whencreated": "Wed, 04 Jan 2023 21:12:46 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:12:46 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/succession",
+        "whencreated": "Wed, 04 Jan 2023 21:24:11 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:24:11 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/terminator-the-sarah-connor-chronicles",
+        "whencreated": "Wed, 04 Jan 2023 21:12:35 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:12:35 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-americans",
+        "whencreated": "Wed, 04 Jan 2023 21:12:10 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:12:10 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-comeback",
+        "whencreated": "Wed, 04 Jan 2023 21:11:56 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:11:56 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-it-crowd-uk",
+        "whencreated": "Wed, 04 Jan 2023 21:11:28 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:11:28 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-larry-sanders-show",
+        "whencreated": "Wed, 04 Jan 2023 21:11:21 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:11:21 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-leftovers",
+        "whencreated": "Wed, 04 Jan 2023 21:11:08 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:11:08 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office-uk",
+        "whencreated": "Wed, 04 Jan 2023 21:24:41 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:24:41 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-thick-of-it-uk",
+        "whencreated": "Wed, 04 Jan 2023 21:07:24 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:07:28 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Wed, 04 Jan 2023 21:23:52 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:23:52 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-young-pope",
+        "whencreated": "Wed, 04 Jan 2023 21:06:54 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:06:54 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/toast-of-london",
+        "whencreated": "Wed, 04 Jan 2023 21:04:50 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:04:50 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt",
+        "whencreated": "Wed, 04 Jan 2023 21:05:20 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:05:20 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/united-states-of-tara",
+        "whencreated": "Wed, 04 Jan 2023 21:05:33 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:05:33 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/veep",
+        "whencreated": "Wed, 04 Jan 2023 21:05:54 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:05:54 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/victoria-2016",
+        "whencreated": "Wed, 04 Jan 2023 21:06:41 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:06:41 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/wet-hot-american-summer-first-day-of-camp",
+        "whencreated": "Wed, 04 Jan 2023 21:06:17 GMT",
+        "whenmodified": "Wed, 04 Jan 2023 21:06:17 GMT"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Wed, 09 Dec 2020 08:07:19 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 08:07:19 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/i-may-destroy-you",
+        "whencreated": "Wed, 09 Dec 2020 08:06:43 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 08:06:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mindhunter",
+        "whencreated": "Wed, 09 Dec 2020 08:07:55 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 08:07:55 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Wed, 09 Dec 2020 08:05:24 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 08:05:24 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/parks-and-recreation",
+        "whencreated": "Wed, 09 Dec 2020 08:07:36 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 08:07:36 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/succession",
+        "whencreated": "Wed, 09 Dec 2020 08:07:07 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 08:07:07 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-place",
+        "whencreated": "Wed, 09 Dec 2020 08:07:41 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 08:07:41 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Wed, 09 Dec 2020 08:06:11 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 08:06:11 GMT"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Wed, 09 Dec 2020 04:13:24 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:13:24 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Wed, 09 Dec 2020 04:13:35 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:13:35 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Wed, 09 Dec 2020 04:13:33 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:13:33 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Wed, 09 Dec 2020 04:13:22 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:13:22 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/freaks-and-geeks",
+        "whencreated": "Wed, 09 Dec 2020 04:13:31 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:13:31 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-the-next-generation",
+        "whencreated": "Wed, 09 Dec 2020 04:15:19 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:15:19 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office-uk",
+        "whencreated": "Wed, 09 Dec 2020 04:13:40 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:13:40 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Wed, 09 Dec 2020 04:13:30 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:13:30 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Wed, 09 Dec 2020 04:13:19 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:13:19 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Wed, 09 Dec 2020 04:13:15 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:13:15 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/watchmen-2019",
+        "whencreated": "Wed, 09 Dec 2020 04:13:39 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 04:13:39 GMT"
+    }
+]

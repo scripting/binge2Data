@@ -1,0 +1,44 @@
+[
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Wed, 09 Dec 2020 13:09:39 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 13:09:39 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Wed, 09 Dec 2020 13:09:29 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 13:09:29 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/last-week-tonight-with-john-oliver",
+        "whencreated": "Wed, 09 Dec 2020 13:09:31 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 13:09:31 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sports-night",
+        "whencreated": "Wed, 09 Dec 2020 13:09:57 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 13:09:57 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Wed, 09 Dec 2020 13:09:23 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 13:09:23 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Wed, 09 Dec 2020 13:09:11 GMT",
+        "whenmodified": "Wed, 09 Dec 2020 13:09:26 GMT"
+    }
+]

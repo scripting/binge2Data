@@ -1,0 +1,37 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Fri, 16 Oct 2020 18:33:32 GMT",
+        "whenmodified": "Fri, 16 Oct 2020 18:33:32 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bojack-horseman",
+        "whencreated": "Fri, 16 Oct 2020 18:32:17 GMT",
+        "whenmodified": "Fri, 16 Oct 2020 18:32:17 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Fri, 16 Oct 2020 18:31:54 GMT",
+        "whenmodified": "Fri, 16 Oct 2020 18:31:54 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/broadchurch",
+        "whencreated": "Fri, 16 Oct 2020 18:33:44 GMT",
+        "whenmodified": "Fri, 16 Oct 2020 18:33:44 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Fri, 16 Oct 2020 18:31:40 GMT",
+        "whenmodified": "Fri, 16 Oct 2020 18:31:40 GMT"
+    }
+]

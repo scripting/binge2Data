@@ -1,0 +1,100 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/alien-nation-1989",
+        "whencreated": "Tue, 18 Aug 2020 01:54:44 GMT",
+        "whenmodified": "Tue, 18 Aug 2020 01:54:44 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/foundation",
+        "whencreated": "Mon, 13 Dec 2021 15:17:00 GMT",
+        "whenmodified": "Mon, 13 Dec 2021 15:17:00 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/halt-and-catch-fire",
+        "whencreated": "Mon, 21 Feb 2022 21:09:34 GMT",
+        "whenmodified": "Mon, 21 Feb 2022 21:09:34 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/living-single",
+        "whencreated": "Mon, 21 Feb 2022 21:04:24 GMT",
+        "whenmodified": "Mon, 21 Feb 2022 21:04:24 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/penny-dreadful",
+        "whencreated": "Tue, 18 Aug 2020 01:50:18 GMT",
+        "whenmodified": "Tue, 18 Aug 2020 01:50:18 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/penny-dreadful-city-of-angels",
+        "whencreated": "Tue, 18 Aug 2020 01:52:18 GMT",
+        "whenmodified": "Tue, 18 Aug 2020 01:52:18 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/red-dwarf",
+        "whencreated": "Tue, 18 Aug 2020 01:56:53 GMT",
+        "whenmodified": "Tue, 18 Aug 2020 01:56:53 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/shameless-us",
+        "whencreated": "Mon, 21 Feb 2022 21:04:45 GMT",
+        "whenmodified": "Mon, 21 Feb 2022 21:04:45 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-beatles-get-back",
+        "whencreated": "Mon, 13 Dec 2021 15:11:29 GMT",
+        "whenmodified": "Mon, 13 Dec 2021 15:11:29 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-handmaids-tale",
+        "whencreated": "Mon, 21 Feb 2022 21:08:22 GMT",
+        "whenmodified": "Mon, 21 Feb 2022 21:08:22 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-hitch-hikers-guide-to-the-galaxy",
+        "whencreated": "Mon, 13 Dec 2021 15:16:21 GMT",
+        "whenmodified": "Mon, 13 Dec 2021 15:16:21 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-kids-in-the-hall",
+        "whencreated": "Mon, 21 Feb 2022 21:08:33 GMT",
+        "whenmodified": "Mon, 21 Feb 2022 21:08:33 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/wanda-at-large",
+        "whencreated": "Mon, 21 Feb 2022 12:32:04 GMT",
+        "whenmodified": "Mon, 21 Feb 2022 12:32:04 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Mon, 21 Feb 2022 12:32:20 GMT",
+        "whenmodified": "Mon, 21 Feb 2022 12:32:20 GMT"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/arrested-development",
+        "whencreated": "Wed, 15 Nov 2017 03:06:50 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/avatar-the-last-airbender",
+        "whencreated": "Mon, 17 Aug 2020 11:38:29 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 11:38:29 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Mon, 17 Aug 2020 11:37:27 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 11:37:27 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/parks-and-recreation",
+        "whencreated": "Mon, 17 Aug 2020 11:37:55 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 11:37:55 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/schitts-creek",
+        "whencreated": "Mon, 17 Aug 2020 11:37:41 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 11:37:41 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Wed, 15 Nov 2017 03:07:07 GMT",
+        "whenmodified": "Sun, 26 Jul 2020 15:49:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-umbrella-academy",
+        "whencreated": "Tue, 25 Aug 2020 00:31:45 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 00:31:45 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Mon, 17 Aug 2020 11:37:14 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 11:37:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/this-is-us",
+        "whencreated": "Mon, 17 Aug 2020 11:39:40 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 11:39:40 GMT"
+    }
+]

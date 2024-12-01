@@ -1,0 +1,93 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/american-gods",
+        "whencreated": "Thu, 08 Oct 2020 05:30:13 GMT",
+        "whenmodified": "Thu, 08 Oct 2020 05:30:13 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Mon, 17 Aug 2020 05:59:59 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 05:59:59 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/broadchurch",
+        "whencreated": "Mon, 17 Aug 2020 06:01:09 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 06:01:09 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/call-the-midwife",
+        "whencreated": "Mon, 17 Aug 2020 06:01:26 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 06:01:26 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/cosmos-a-space-time-odyssey",
+        "whencreated": "Mon, 17 Aug 2020 06:02:03 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 06:02:03 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dirk-gentlys-holistic-detective-agency",
+        "whencreated": "Thu, 08 Oct 2020 05:29:50 GMT",
+        "whenmodified": "Thu, 08 Oct 2020 05:29:50 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/good-omens",
+        "whencreated": "Mon, 17 Aug 2020 06:02:39 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 06:02:39 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/grimm",
+        "whencreated": "Mon, 17 Aug 2020 06:02:46 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 06:02:46 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-the-defenders",
+        "whencreated": "Sun, 16 Jan 2022 00:55:42 GMT",
+        "whenmodified": "Sun, 16 Jan 2022 00:56:34 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/red-dwarf",
+        "whencreated": "Mon, 17 Aug 2020 06:03:47 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 06:03:47 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-discovery",
+        "whencreated": "Mon, 17 Aug 2020 06:04:43 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 06:04:43 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-enterprise",
+        "whencreated": "Mon, 17 Aug 2020 06:04:12 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 06:04:12 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/star-trek-picard",
+        "whencreated": "Mon, 17 Aug 2020 06:04:26 GMT",
+        "whenmodified": "Mon, 17 Aug 2020 06:04:26 GMT"
+    }
+]

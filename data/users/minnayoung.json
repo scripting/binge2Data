@@ -1,0 +1,415 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/adventure-time",
+        "whencreated": "Wed, 10 Mar 2021 19:52:50 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:52:50 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/american-horror-story",
+        "whencreated": "Wed, 10 Mar 2021 19:53:10 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:53:10 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/archer",
+        "whencreated": "Wed, 10 Mar 2021 19:53:16 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:53:16 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/arrested-development",
+        "whencreated": "Wed, 10 Mar 2021 19:53:22 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:53:22 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/atlanta",
+        "whencreated": "Wed, 10 Mar 2021 19:53:32 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:53:32 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/avatar-the-last-airbender",
+        "whencreated": "Wed, 10 Mar 2021 19:53:48 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:53:48 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/battlestar-galactica-2003",
+        "whencreated": "Wed, 10 Mar 2021 19:54:12 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:54:12 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bloodline",
+        "whencreated": "Wed, 10 Mar 2021 19:54:30 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:54:30 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bobs-burgers",
+        "whencreated": "Wed, 10 Mar 2021 19:54:33 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:54:33 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bored-to-death",
+        "whencreated": "Wed, 10 Mar 2021 19:54:40 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:54:40 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Wed, 10 Mar 2021 19:54:48 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:54:48 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/brooklyn-nine-nine",
+        "whencreated": "Wed, 10 Mar 2021 19:54:55 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:54:55 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/buffy-the-vampire-slayer",
+        "whencreated": "Wed, 10 Mar 2021 19:55:13 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:55:13 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/charmed",
+        "whencreated": "Wed, 10 Mar 2021 19:55:23 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:55:23 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dollhouse",
+        "whencreated": "Wed, 10 Mar 2021 19:55:51 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:55:51 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Wed, 10 Mar 2021 19:56:05 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:56:05 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/friday-night-lights",
+        "whencreated": "Wed, 10 Mar 2021 19:56:15 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:56:15 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/gilmore-girls",
+        "whencreated": "Wed, 10 Mar 2021 19:56:23 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:56:23 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/gossip-girl",
+        "whencreated": "Wed, 10 Mar 2021 19:56:30 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:56:30 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/grace-and-frankie",
+        "whencreated": "Wed, 10 Mar 2021 19:56:35 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:56:35 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/greys-anatomy",
+        "whencreated": "Wed, 10 Mar 2021 19:56:39 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:56:39 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/happy-endings",
+        "whencreated": "Wed, 10 Mar 2021 19:56:49 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:56:49 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/how-i-met-your-mother",
+        "whencreated": "Wed, 10 Mar 2021 19:57:15 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:57:15 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/jane-the-virgin",
+        "whencreated": "Wed, 10 Mar 2021 19:57:26 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:57:26 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/jean-claude-van-johnson",
+        "whencreated": "Wed, 10 Mar 2021 19:57:36 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:57:36 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/killing-eve",
+        "whencreated": "Wed, 10 Mar 2021 19:57:43 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:57:43 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/letterkenny",
+        "whencreated": "Wed, 10 Mar 2021 19:57:54 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:57:54 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/little-fires-everywhere",
+        "whencreated": "Wed, 10 Mar 2021 19:58:02 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:58:02 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/making-a-murderer",
+        "whencreated": "Wed, 10 Mar 2021 19:58:18 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:58:18 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/master-of-none",
+        "whencreated": "Wed, 10 Mar 2021 19:58:34 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:58:34 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/modern-love",
+        "whencreated": "Wed, 10 Mar 2021 19:58:46 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:58:46 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/once-upon-a-time",
+        "whencreated": "Wed, 10 Mar 2021 19:59:08 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:59:08 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/orange-is-the-new-black",
+        "whencreated": "Wed, 10 Mar 2021 19:59:15 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:59:15 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/orphan-black",
+        "whencreated": "Wed, 10 Mar 2021 19:59:18 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:59:18 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/parks-and-recreation",
+        "whencreated": "Wed, 10 Mar 2021 19:59:27 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:59:27 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/portlandia",
+        "whencreated": "Wed, 10 Mar 2021 19:59:46 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:59:46 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/pretty-little-liars",
+        "whencreated": "Wed, 10 Mar 2021 19:59:56 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 19:59:56 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/riverdale",
+        "whencreated": "Wed, 10 Mar 2021 20:01:02 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:01:02 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/schitts-creek",
+        "whencreated": "Wed, 10 Mar 2021 20:01:12 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:01:12 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sex-and-the-city",
+        "whencreated": "Wed, 10 Mar 2021 20:01:23 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:01:23 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Wed, 10 Mar 2021 20:01:44 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:01:44 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/suits",
+        "whencreated": "Wed, 10 Mar 2021 20:01:51 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:01:51 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Wed, 10 Mar 2021 20:01:58 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:01:58 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-good-place",
+        "whencreated": "Wed, 10 Mar 2021 20:02:35 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:02:35 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-great-british-baking-show",
+        "whencreated": "Wed, 10 Mar 2021 20:02:53 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:02:53 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-mandalorian",
+        "whencreated": "Wed, 10 Mar 2021 20:03:08 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:03:08 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-mindy-project",
+        "whencreated": "Wed, 10 Mar 2021 20:03:21 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:03:21 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office",
+        "whencreated": "Wed, 10 Mar 2021 20:03:37 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:03:37 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-originals",
+        "whencreated": "Wed, 10 Mar 2021 20:03:42 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:03:42 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-umbrella-academy",
+        "whencreated": "Wed, 10 Mar 2021 20:04:01 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:04:01 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/tiger-king-murder-mayhem-and-madness",
+        "whencreated": "Wed, 10 Mar 2021 20:04:17 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:04:17 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/twin-peaks",
+        "whencreated": "Wed, 10 Mar 2021 20:04:28 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:04:28 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt",
+        "whencreated": "Wed, 10 Mar 2021 20:04:32 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:04:32 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/unreal",
+        "whencreated": "Wed, 10 Mar 2021 20:04:41 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:04:41 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/veronica-mars",
+        "whencreated": "Wed, 10 Mar 2021 20:04:48 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:04:48 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/wandavision",
+        "whencreated": "Wed, 10 Mar 2021 20:05:00 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:05:00 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/wet-hot-american-summer-first-day-of-camp",
+        "whencreated": "Wed, 10 Mar 2021 20:05:12 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:05:12 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/what-we-do-in-the-shadows-2019",
+        "whencreated": "Wed, 10 Mar 2021 20:05:17 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:05:17 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/wild-wild-country",
+        "whencreated": "Wed, 10 Mar 2021 20:05:30 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 20:05:30 GMT"
+    }
+]

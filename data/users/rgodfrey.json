@@ -1,0 +1,37 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Wed, 10 Mar 2021 14:19:11 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 14:19:11 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Wed, 10 Mar 2021 14:19:24 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 14:19:24 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lodge-49",
+        "whencreated": "Wed, 10 Mar 2021 14:18:15 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 14:18:15 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Wed, 10 Mar 2021 14:19:01 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 14:19:01 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Wed, 10 Mar 2021 14:19:14 GMT",
+        "whenmodified": "Wed, 10 Mar 2021 14:19:14 GMT"
+    }
+]

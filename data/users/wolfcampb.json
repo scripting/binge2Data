@@ -1,0 +1,716 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/30-rock",
+        "whencreated": "Mon, 01 Feb 2021 22:46:30 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:46:30 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/american-vandal",
+        "whencreated": "Mon, 01 Feb 2021 22:46:42 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:46:42 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/archer",
+        "whencreated": "Mon, 01 Feb 2021 22:46:48 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:46:48 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/arrested-development",
+        "whencreated": "Mon, 01 Feb 2021 22:46:50 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:46:50 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/barry",
+        "whencreated": "Mon, 01 Feb 2021 22:47:00 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:47:00 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/baskets",
+        "whencreated": "Mon, 01 Feb 2021 22:47:05 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:47:05 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Mon, 01 Feb 2021 22:47:10 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:47:10 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/big-brother",
+        "whencreated": "Mon, 01 Feb 2021 22:47:15 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:47:15 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-mirror",
+        "whencreated": "Mon, 01 Feb 2021 22:47:26 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:47:26 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bloodline",
+        "whencreated": "Mon, 01 Feb 2021 22:47:32 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:47:32 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bojack-horseman",
+        "whencreated": "Mon, 01 Feb 2021 22:47:37 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:47:37 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bored-to-death",
+        "whencreated": "Mon, 01 Feb 2021 22:47:40 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:47:40 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/bosch",
+        "whencreated": "Mon, 01 Feb 2021 22:47:42 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:47:42 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/boston-legal",
+        "whencreated": "Mon, 01 Feb 2021 22:47:47 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:47:47 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Mon, 01 Feb 2021 22:47:50 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:47:50 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/californication",
+        "whencreated": "Mon, 01 Feb 2021 22:47:58 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:47:58 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Mon, 01 Feb 2021 22:48:08 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:48:08 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/community",
+        "whencreated": "Mon, 01 Feb 2021 22:48:14 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:48:14 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/curb-your-enthusiasm",
+        "whencreated": "Mon, 01 Feb 2021 22:48:23 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:48:23 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dcs-stargirl",
+        "whencreated": "Mon, 01 Feb 2021 22:48:28 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:48:28 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/deadwood",
+        "whencreated": "Mon, 01 Feb 2021 22:48:37 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:48:37 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dharma-greg",
+        "whencreated": "Mon, 01 Feb 2021 22:48:45 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:48:45 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dr-katz-professional-therapist",
+        "whencreated": "Mon, 01 Feb 2021 22:48:53 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:48:53 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/eastbound-down",
+        "whencreated": "Mon, 01 Feb 2021 22:48:56 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:48:56 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fear-the-walking-dead",
+        "whencreated": "Mon, 01 Feb 2021 22:49:09 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:49:09 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Mon, 01 Feb 2021 22:49:12 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:49:12 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Mon, 01 Feb 2021 22:49:14 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:49:14 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/flight-of-the-conchords",
+        "whencreated": "Mon, 01 Feb 2021 22:49:17 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:49:17 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/friends",
+        "whencreated": "Mon, 01 Feb 2021 22:49:23 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:49:23 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/futurama",
+        "whencreated": "Mon, 01 Feb 2021 22:49:27 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:49:27 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Mon, 01 Feb 2021 22:49:30 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:49:30 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/glow",
+        "whencreated": "Mon, 01 Feb 2021 22:49:35 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:49:35 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/home-before-dark",
+        "whencreated": "Mon, 01 Feb 2021 22:49:52 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:49:52 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/homeland",
+        "whencreated": "Mon, 01 Feb 2021 22:49:54 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:49:54 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/house-of-cards",
+        "whencreated": "Mon, 01 Feb 2021 22:49:59 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:49:59 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ill-be-gone-in-the-dark",
+        "whencreated": "Mon, 01 Feb 2021 22:50:10 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:50:10 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/its-always-sunny-in-philadelphia",
+        "whencreated": "Mon, 01 Feb 2021 22:50:14 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:50:14 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/its-garry-shandlings-show",
+        "whencreated": "Mon, 01 Feb 2021 22:50:19 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:50:19 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/justified",
+        "whencreated": "Mon, 01 Feb 2021 22:50:29 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:50:29 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/last-week-tonight-with-john-oliver",
+        "whencreated": "Mon, 01 Feb 2021 22:50:47 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:50:47 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/law-order",
+        "whencreated": "Mon, 01 Feb 2021 22:50:38 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:50:38 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/locke-key",
+        "whencreated": "Mon, 01 Feb 2021 22:51:02 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:51:02 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lost",
+        "whencreated": "Mon, 01 Feb 2021 22:51:06 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:51:06 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lovecraft-country",
+        "whencreated": "Mon, 01 Feb 2021 22:51:09 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:51:09 GMT"
+    },
+    {
+        "rating": 0,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-about-you",
+        "whencreated": "Mon, 01 Feb 2021 22:51:18 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:51:18 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Mon, 01 Feb 2021 22:51:14 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:51:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/marvels-jessica-jones",
+        "whencreated": "Mon, 01 Feb 2021 22:51:29 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:51:29 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/master-of-none",
+        "whencreated": "Mon, 01 Feb 2021 22:51:32 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:51:32 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mcmillions",
+        "whencreated": "Mon, 01 Feb 2021 22:51:35 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:51:35 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mindhunter",
+        "whencreated": "Mon, 01 Feb 2021 22:51:41 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:51:41 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/modern-family",
+        "whencreated": "Mon, 01 Feb 2021 22:51:43 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:51:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-robot",
+        "whencreated": "Mon, 01 Feb 2021 22:51:50 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:51:50 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mr-show-with-bob-and-david",
+        "whencreated": "Mon, 01 Feb 2021 22:51:52 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:51:52 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mythic-quest-ravens-banquet",
+        "whencreated": "Mon, 01 Feb 2021 22:52:00 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:52:00 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/narcos",
+        "whencreated": "Mon, 01 Feb 2021 22:52:03 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:52:03 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/orange-is-the-new-black",
+        "whencreated": "Mon, 01 Feb 2021 22:52:13 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:52:13 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ozark",
+        "whencreated": "Mon, 01 Feb 2021 22:52:19 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:52:19 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/parks-and-recreation",
+        "whencreated": "Mon, 01 Feb 2021 22:52:23 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:52:23 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/party-down",
+        "whencreated": "Mon, 01 Feb 2021 22:52:25 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:52:25 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/patriot",
+        "whencreated": "Mon, 01 Feb 2021 22:52:28 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:52:28 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/peaky-blinders",
+        "whencreated": "Mon, 01 Feb 2021 22:46:21 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:46:21 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/perry-mason-2020",
+        "whencreated": "Mon, 01 Feb 2021 22:52:35 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:52:35 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/portlandia",
+        "whencreated": "Mon, 01 Feb 2021 22:52:37 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:52:37 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/rick-morty",
+        "whencreated": "Mon, 01 Feb 2021 22:52:52 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:52:52 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/russian-doll",
+        "whencreated": "Mon, 01 Feb 2021 22:53:02 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:53:02 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/schitts-creek",
+        "whencreated": "Mon, 01 Feb 2021 22:53:06 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:53:06 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Mon, 01 Feb 2021 22:53:12 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:53:12 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sense8",
+        "whencreated": "Mon, 01 Feb 2021 22:53:18 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:53:18 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/silicon-valley",
+        "whencreated": "Mon, 01 Feb 2021 22:53:26 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:53:26 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sneaky-pete",
+        "whencreated": "Mon, 01 Feb 2021 22:53:29 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:53:29 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/space-force",
+        "whencreated": "Mon, 01 Feb 2021 22:53:36 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:53:36 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Mon, 01 Feb 2021 22:53:53 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:53:53 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/succession",
+        "whencreated": "Mon, 01 Feb 2021 22:53:57 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:53:57 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Mon, 01 Feb 2021 22:54:03 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:54:03 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-americans",
+        "whencreated": "Mon, 01 Feb 2021 22:54:11 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:54:11 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-boys",
+        "whencreated": "Mon, 01 Feb 2021 22:54:19 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:54:19 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-man-in-the-high-castle",
+        "whencreated": "Mon, 01 Feb 2021 22:54:59 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:54:59 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-marvelous-mrs-maisel",
+        "whencreated": "Mon, 01 Feb 2021 22:55:03 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:55:03 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-night-manager",
+        "whencreated": "Mon, 01 Feb 2021 22:55:10 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:55:10 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-night-of",
+        "whencreated": "Mon, 01 Feb 2021 22:55:12 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:55:12 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-oa",
+        "whencreated": "Mon, 01 Feb 2021 22:55:15 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:55:15 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office",
+        "whencreated": "Mon, 01 Feb 2021 22:55:21 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:55:21 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office-uk",
+        "whencreated": "Mon, 01 Feb 2021 22:55:25 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:55:25 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-queens-gambit",
+        "whencreated": "Mon, 01 Feb 2021 22:55:31 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:55:31 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-simpsons",
+        "whencreated": "Mon, 01 Feb 2021 22:55:44 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:55:44 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Mon, 01 Feb 2021 22:55:46 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:55:46 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-tick-2017",
+        "whencreated": "Mon, 01 Feb 2021 22:55:50 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:55:50 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-umbrella-academy",
+        "whencreated": "Mon, 01 Feb 2021 22:55:53 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:55:53 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-walking-dead",
+        "whencreated": "Mon, 01 Feb 2021 22:55:58 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:55:58 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/tiger-king-murder-mayhem-and-madness",
+        "whencreated": "Mon, 01 Feb 2021 22:56:05 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:56:05 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/tim-and-eric-awesome-show-great-job!",
+        "whencreated": "Mon, 01 Feb 2021 22:56:07 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:56:07 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/transparent",
+        "whencreated": "Mon, 01 Feb 2021 22:56:14 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:56:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/true-detective",
+        "whencreated": "Mon, 01 Feb 2021 22:56:19 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:56:19 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/true-detective/season-2",
+        "whencreated": "Mon, 01 Feb 2021 22:56:22 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:56:22 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/two-and-a-half-men",
+        "whencreated": "Mon, 01 Feb 2021 22:56:25 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:56:25 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt",
+        "whencreated": "Mon, 01 Feb 2021 22:56:27 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:56:27 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/upload",
+        "whencreated": "Mon, 01 Feb 2021 22:56:34 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:56:34 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/veep",
+        "whencreated": "Mon, 01 Feb 2021 22:56:37 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:56:37 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/vice-principals",
+        "whencreated": "Mon, 01 Feb 2021 22:56:41 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:56:41 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/watchmen-2019",
+        "whencreated": "Mon, 01 Feb 2021 22:56:48 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:56:48 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Mon, 01 Feb 2021 22:56:54 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:56:54 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/what-we-do-in-the-shadows-2019",
+        "whencreated": "Mon, 01 Feb 2021 22:56:57 GMT",
+        "whenmodified": "Mon, 01 Feb 2021 22:56:57 GMT"
+    }
+]

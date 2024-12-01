@@ -1,0 +1,51 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/friday-night-lights",
+        "whencreated": "Mon, 24 Aug 2020 16:30:07 GMT",
+        "whenmodified": "Mon, 24 Aug 2020 16:30:07 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Mon, 24 Aug 2020 16:31:55 GMT",
+        "whenmodified": "Mon, 24 Aug 2020 16:31:55 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/silicon-valley",
+        "whencreated": "Mon, 24 Aug 2020 16:30:37 GMT",
+        "whenmodified": "Mon, 24 Aug 2020 16:30:37 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ted-lasso",
+        "whencreated": "Mon, 24 Aug 2020 16:30:47 GMT",
+        "whenmodified": "Mon, 24 Aug 2020 16:30:47 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office",
+        "whencreated": "Mon, 24 Aug 2020 16:31:06 GMT",
+        "whenmodified": "Mon, 24 Aug 2020 16:31:06 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office-uk",
+        "whencreated": "Mon, 24 Aug 2020 16:31:11 GMT",
+        "whenmodified": "Mon, 24 Aug 2020 16:31:11 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Mon, 24 Aug 2020 16:31:34 GMT",
+        "whenmodified": "Mon, 24 Aug 2020 16:31:34 GMT"
+    }
+]

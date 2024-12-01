@@ -1,0 +1,30 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/broadchurch",
+        "whencreated": "Sun, 16 Aug 2020 23:02:08 GMT",
+        "whenmodified": "Sun, 16 Aug 2020 23:02:08 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-bear/season-1",
+        "whencreated": "Fri, 29 Jul 2022 18:06:36 GMT",
+        "whenmodified": "Fri, 29 Jul 2022 18:06:36 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-morning-show",
+        "whencreated": "Sun, 16 Aug 2020 23:02:40 GMT",
+        "whenmodified": "Sun, 16 Aug 2020 23:02:40 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/treme",
+        "whencreated": "Fri, 29 Jul 2022 18:05:51 GMT",
+        "whenmodified": "Fri, 29 Jul 2022 18:05:51 GMT"
+    }
+]

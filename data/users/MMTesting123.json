@@ -1,0 +1,30 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/band-of-brothers",
+        "whencreated": "Sat, 26 Jun 2021 20:32:53 GMT",
+        "whenmodified": "Sat, 26 Jun 2021 20:32:53 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Sat, 26 Jun 2021 20:32:40 GMT",
+        "whenmodified": "Sat, 26 Jun 2021 20:32:40 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Sat, 26 Jun 2021 20:32:45 GMT",
+        "whenmodified": "Sat, 26 Jun 2021 20:32:45 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Sat, 26 Jun 2021 20:32:36 GMT",
+        "whenmodified": "Sat, 26 Jun 2021 20:32:36 GMT"
+    }
+]

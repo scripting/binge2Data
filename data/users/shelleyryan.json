@@ -1,0 +1,338 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/3rd-rock-from-the-sun",
+        "whencreated": "Thu, 15 Oct 2020 21:42:31 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:42:31 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/american-gods",
+        "whencreated": "Thu, 15 Oct 2020 21:29:07 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:29:07 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/american-horror-story",
+        "whencreated": "Thu, 15 Oct 2020 21:29:14 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:29:14 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/anthony-bourdain-no-reservations",
+        "whencreated": "Thu, 15 Oct 2020 21:29:20 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:29:20 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Thu, 15 Oct 2020 21:29:53 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:29:53 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/carnival-row",
+        "whencreated": "Thu, 15 Oct 2020 21:30:15 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:30:15 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Thu, 15 Oct 2020 21:30:26 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:30:26 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/cosmos-a-space-time-odyssey",
+        "whencreated": "Thu, 15 Oct 2020 21:30:34 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:30:34 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/damages",
+        "whencreated": "Thu, 15 Oct 2020 21:41:34 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:41:34 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/dexter",
+        "whencreated": "Thu, 15 Oct 2020 21:30:49 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:30:49 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/friends",
+        "whencreated": "Thu, 15 Oct 2020 21:40:58 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:40:58 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/game-of-thrones",
+        "whencreated": "Thu, 15 Oct 2020 21:31:25 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:31:25 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/good-omens",
+        "whencreated": "Thu, 15 Oct 2020 21:31:36 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:31:36 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/hannibal",
+        "whencreated": "Thu, 15 Oct 2020 21:31:48 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:31:48 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/last-week-tonight-with-john-oliver",
+        "whencreated": "Thu, 15 Oct 2020 21:32:14 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:32:14 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/late-night-with-seth-meyers",
+        "whencreated": "Thu, 15 Oct 2020 21:32:18 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:32:18 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/leah-remini-scientology-and-the-aftermath",
+        "whencreated": "Thu, 15 Oct 2020 21:32:26 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:32:26 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/leave-it-to-beaver",
+        "whencreated": "Thu, 15 Oct 2020 21:40:22 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:40:22 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/lovecraft-country",
+        "whencreated": "Thu, 15 Oct 2020 21:32:52 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:32:52 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Thu, 15 Oct 2020 21:32:58 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:32:58 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/monk",
+        "whencreated": "Thu, 15 Oct 2020 21:40:00 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:40:00 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/northern-exposure",
+        "whencreated": "Thu, 15 Oct 2020 21:33:32 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:33:32 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/nova",
+        "whencreated": "Thu, 15 Oct 2020 21:33:35 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:33:35 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/once-upon-a-time",
+        "whencreated": "Thu, 15 Oct 2020 21:33:48 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:33:48 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/outlander-2014",
+        "whencreated": "Thu, 15 Oct 2020 21:33:55 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:33:55 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/ozark",
+        "whencreated": "Thu, 15 Oct 2020 21:43:20 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:43:20 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/perry-mason-2020",
+        "whencreated": "Thu, 15 Oct 2020 21:34:07 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:34:07 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/planet-earth",
+        "whencreated": "Thu, 15 Oct 2020 21:34:14 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:34:14 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/project-runway",
+        "whencreated": "Thu, 15 Oct 2020 21:34:19 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:34:19 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/raised-by-wolves",
+        "whencreated": "Thu, 15 Oct 2020 21:39:20 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:39:20 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/roots/critic-reviews",
+        "whencreated": "Thu, 15 Oct 2020 21:35:07 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:35:07 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sharp-objects",
+        "whencreated": "Thu, 15 Oct 2020 21:35:27 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:35:27 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Thu, 15 Oct 2020 21:35:23 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:35:23 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/stranger-things",
+        "whencreated": "Thu, 15 Oct 2020 21:35:42 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:35:42 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-100",
+        "whencreated": "Thu, 15 Oct 2020 21:35:59 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:35:59 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-boys",
+        "whencreated": "Thu, 15 Oct 2020 21:36:14 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:36:14 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-expanse",
+        "whencreated": "Thu, 15 Oct 2020 21:36:25 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:36:25 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-great-british-baking-show",
+        "whencreated": "Thu, 15 Oct 2020 21:36:37 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:36:37 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-handmaids-tale",
+        "whencreated": "Thu, 15 Oct 2020 21:36:33 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:36:33 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-marvelous-mrs-maisel",
+        "whencreated": "Thu, 15 Oct 2020 21:37:07 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:37:07 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-office",
+        "whencreated": "Thu, 15 Oct 2020 21:37:19 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:37:19 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-people-v-oj-simpson-american-crime-story",
+        "whencreated": "Thu, 15 Oct 2020 21:37:26 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:37:26 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-riches",
+        "whencreated": "Thu, 15 Oct 2020 21:37:40 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:37:40 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-umbrella-academy",
+        "whencreated": "Thu, 15 Oct 2020 21:37:49 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:37:49 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/top-chef",
+        "whencreated": "Thu, 15 Oct 2020 21:37:59 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:37:59 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/utopia-2020/season-1",
+        "whencreated": "Thu, 15 Oct 2020 21:38:15 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:38:15 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/vikings",
+        "whencreated": "Thu, 15 Oct 2020 21:38:20 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:38:20 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/westworld",
+        "whencreated": "Thu, 15 Oct 2020 21:38:27 GMT",
+        "whenmodified": "Thu, 15 Oct 2020 21:38:27 GMT"
+    }
+]

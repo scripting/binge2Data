@@ -1,0 +1,23 @@
+[
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Tue, 25 Aug 2020 00:00:10 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 00:00:10 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Tue, 25 Aug 2020 00:00:07 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 00:00:07 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Fri, 24 Jul 2020 01:11:10 GMT",
+        "whenmodified": "Tue, 25 Aug 2020 00:00:01 GMT"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/fleabag",
+        "whencreated": "Tue, 08 Dec 2020 20:52:39 GMT",
+        "whenmodified": "Tue, 08 Dec 2020 20:52:39 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/frontline",
+        "whencreated": "Tue, 08 Dec 2020 20:51:21 GMT",
+        "whenmodified": "Tue, 08 Dec 2020 20:51:21 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/succession",
+        "whencreated": "Tue, 08 Dec 2020 20:52:27 GMT",
+        "whenmodified": "Tue, 08 Dec 2020 20:52:27 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Tue, 08 Dec 2020 20:52:42 GMT",
+        "whenmodified": "Tue, 08 Dec 2020 20:52:42 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Tue, 08 Dec 2020 20:52:35 GMT",
+        "whenmodified": "Tue, 08 Dec 2020 20:52:37 GMT"
+    }
+]

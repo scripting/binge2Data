@@ -1,0 +1,135 @@
+[
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/better-call-saul",
+        "whencreated": "Tue, 13 Oct 2020 10:42:43 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:42:43 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-books",
+        "whencreated": "Tue, 13 Oct 2020 10:42:37 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:42:37 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/black-sails",
+        "whencreated": "Tue, 13 Oct 2020 10:45:46 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:45:46 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/breaking-bad",
+        "whencreated": "Tue, 13 Oct 2020 10:42:29 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:42:29 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/deadwood",
+        "whencreated": "Tue, 13 Oct 2020 10:43:35 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:43:35 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/father-ted",
+        "whencreated": "Tue, 13 Oct 2020 10:41:22 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:41:22 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/firefly",
+        "whencreated": "Tue, 13 Oct 2020 10:43:18 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:43:18 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/freaks-and-geeks",
+        "whencreated": "Tue, 13 Oct 2020 10:43:16 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:43:16 GMT"
+    },
+    {
+        "rating": 2,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/halt-and-catch-fire",
+        "whencreated": "Tue, 13 Oct 2020 10:41:42 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:41:42 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/homeland",
+        "whencreated": "Tue, 13 Oct 2020 10:42:19 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:42:19 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/its-always-sunny-in-philadelphia",
+        "whencreated": "Tue, 13 Oct 2020 10:41:52 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:41:52 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/justified",
+        "whencreated": "Tue, 13 Oct 2020 10:41:57 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:41:57 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/peaky-blinders",
+        "whencreated": "Tue, 13 Oct 2020 10:44:18 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:44:18 GMT"
+    },
+    {
+        "rating": 1,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/sherlock",
+        "whencreated": "Tue, 13 Oct 2020 10:43:24 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:43:24 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/south-park",
+        "whencreated": "Tue, 13 Oct 2020 10:44:16 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:44:16 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-shield",
+        "whencreated": "Tue, 13 Oct 2020 10:43:56 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:43:56 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-sopranos",
+        "whencreated": "Tue, 13 Oct 2020 10:43:11 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:43:11 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Tue, 13 Oct 2020 10:43:07 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:43:07 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-wire",
+        "whencreated": "Tue, 13 Oct 2020 10:43:04 GMT",
+        "whenmodified": "Tue, 13 Oct 2020 10:43:04 GMT"
+    }
+]

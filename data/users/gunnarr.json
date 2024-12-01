@@ -1,0 +1,44 @@
+[
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/chernobyl",
+        "whencreated": "Sun, 25 Oct 2020 17:58:16 GMT",
+        "whenmodified": "Sun, 25 Oct 2020 17:58:16 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/mad-men",
+        "whencreated": "Sun, 25 Oct 2020 17:58:23 GMT",
+        "whenmodified": "Sun, 25 Oct 2020 17:58:23 GMT"
+    },
+    {
+        "rating": 3,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/seinfeld",
+        "whencreated": "Sun, 25 Oct 2020 17:58:29 GMT",
+        "whenmodified": "Sun, 25 Oct 2020 17:58:29 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/six-feet-under",
+        "whencreated": "Sun, 25 Oct 2020 17:58:36 GMT",
+        "whenmodified": "Sun, 25 Oct 2020 17:58:36 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-newsroom",
+        "whencreated": "Sun, 25 Oct 2020 17:58:41 GMT",
+        "whenmodified": "Sun, 25 Oct 2020 17:58:41 GMT"
+    },
+    {
+        "rating": 4,
+        "comment": "",
+        "idprogram": "https://www.metacritic.com/tv/the-west-wing",
+        "whencreated": "Sun, 25 Oct 2020 17:58:10 GMT",
+        "whenmodified": "Sun, 25 Oct 2020 17:58:10 GMT"
+    }
+]
